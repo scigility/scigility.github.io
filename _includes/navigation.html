@@ -1,4 +1,4 @@
-<nav class="mod_rocksolid_mega_menu main-navigation block" id="main-navigation">
+<nav class="mod_rocksolid_mega_menu main-navigation block">
   <a href="#skipNavigation78" class="invisible">Navigation überspringen</a>
   <ul class="level_1">
     <li class="trail home tagline-no-border sibling first">
@@ -40,8 +40,28 @@
         {% endfor %}
       </ul>
     </li>
-    <li class="bordernav sibling last">
-      <a href="index.php/de.html" title="DE" class="bordernav sibling last">DE</a>
+    <li class="bordernav submenu sibling">
+      <a href="#" title="Lang" class="bordernav sibling last">{{ page.lang | upcase }}</a>
+      <ul class="level_2">
+        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
+          <li>
+            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.lang | upcase }}</a>
+          </li>
+        {% endfor %}
+        {% assign pages=site.projects | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
+          <li>
+            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.lang | upcase }}</a>
+          </li>
+        {% endfor %}
+        {% assign pages=site.products | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
+          <li>
+            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.lang | upcase }}</a>
+          </li>
+        {% endfor %}
+      </ul>
     </li>
   </ul>
   <a id="skipNavigation11" class="invisible">&nbsp;</a>

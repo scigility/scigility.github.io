@@ -1,12 +1,13 @@
 ---
 layout: default
 ref: index
-lang: en
+lang: fr
 slider: true
+permalink: /fr/
 ---
 
-<div class="mod_article first last block" id="home">
-  <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start first " style="background-color: #ffffff; ">
+<div class="mod_article first last block">
+  <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start first">
     <div class="centered-wrapper-inner">
       {% assign products=site.products | where:"lang", page.lang %}
       {% for product in products %}
@@ -16,7 +17,7 @@ slider: true
             <div class="icon-boxes-item-text">
               <p>{{ product.description }}</p>
             </div>
-            <p class="icon-boxes-item-link -link">Details</p>
+            <p class="icon-boxes-item-link -link">Détails</p>
           </a>
         </section>
       {% endfor %}

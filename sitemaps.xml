@@ -29,4 +29,28 @@ permalink: /sitemaps.xml
       </url>
     {% endif %}
   {% endfor %}
+  {% for page in site.projects %}
+    {% if page.id contains "404" %}{% else %}
+      <url>
+        <loc>{{site.base}}{{ page.url }}</loc>
+        {% assign versions=site.projects | where:"ref", page.ref %}
+        {% for version in versions %}
+          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
+        {% endfor %}
+        <changefreq>weekly</changefreq>
+      </url>
+    {% endif %}
+  {% endfor %}
+  {% for page in site.products %}
+    {% if page.id contains "404" %}{% else %}
+      <url>
+        <loc>{{site.base}}{{ page.url }}</loc>
+        {% assign versions=site.products | where:"ref", page.ref %}
+        {% for version in versions %}
+          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
+        {% endfor %}
+        <changefreq>weekly</changefreq>
+      </url>
+    {% endif %}
+  {% endfor %}
   </urlset>

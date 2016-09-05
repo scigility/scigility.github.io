@@ -1,21 +1,10 @@
+<!-- TODO: loop over all projects here. Random order? -->
 <div class="rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
   <section class="teaser-boxes -boxed ce_rsce_tao_boxes">
     <section class="teaser-boxes-item rs-column -large-col-1-1 -large-first -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row ">
-      <h3>Projektbeschreibung Kurz mit Keywords hinterlegt.</h3>
+      <h3>{{ project.description }}</h3>
       <div class="teaser-boxes-item-text">
-        <p><a href="index.php/architektur-konzeption.html">MIGROS GENOSSENSCHAFT</a></p>
-      </div>
-    </section>
-    <section class="teaser-boxes-item rs-column -large-col-1-1 -large-first -large-last -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last ">
-      <h3>Projektbeschreibung Kurz mit Keywords hinterlegt.</h3>
-      <div class="teaser-boxes-item-text">
-        <p><a href="index.php/prototyping-auditierung.html">Swisscom</a></p>
-      </div>
-    </section>
-    <section class="teaser-boxes-item rs-column -large-col-1-1 -large-first -large-last -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last ">
-      <h3>Projektbeschreibung Kurz mit Keywords hinterlegt.</h3>
-      <div class="teaser-boxes-item-text">
-        <p><a href="index.php/installation-betrieb-schulung.html">Post Finance</a></p>
+        <p><a href="index.php/architektur-konzeption.html">{{ project.title | upcase }}</a></p>
       </div>
     </section>
   </section>

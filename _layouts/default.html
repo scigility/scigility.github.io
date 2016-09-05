@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="{{ page.lang }}">
 {% include head.html %}
-<body class="unknown other  tao-no-sidebar tao-fullwidth home tagline-no-border">
+<body class="unknown other tao-no-sidebar tao-fullwidth home tagline-no-border">
   <div class="page">
     {% include header.html %}
     {% include banner.html %}
@@ -12,5 +12,56 @@
     </div>
     {% include footer.html %}
   </div>
+  <script src="/assets/jquery/mediaelement/2.21.2/js/mediaelement-and-player.min.js"></script>
+  <script>
+    (function($) {
+      $(document).ready(function() {
+        $('video:not(.no-mejs),audio:not(.no-mejs)').mediaelementplayer({
+          videoWidth: '100%',
+          videoHeight: '100%',
+          pluginPath: '/scigility/assets/jquery/mediaelement/2.21.2/',
+          flashName: 'legacy/flashmediaelement.swf',
+          silverlightName: 'legacy/silverlightmediaelement.xap'
+        })
+      })
+    })(jQuery)
+  </script>
+  <script src="/assets/jquery/ui/1.11.4/jquery-ui.min.js"></script>
+  <script>
+    (function($) {
+      $(document).ready(function() {
+        $(document).accordion({
+          heightStyle: 'content',
+          header: 'div.toggler',
+          collapsible: !0,
+          create: function(event, ui) {
+            ui.header.addClass('active');
+            $('div.toggler').attr('tabindex', 0)
+          },
+          activate: function(event, ui) {
+            ui.newHeader.addClass('active');
+            ui.oldHeader.removeClass('active');
+            $('div.toggler').attr('tabindex', 0)
+          }
+        })
+      })
+    })(jQuery)
+  </script>
+  <script src="/assets/jquery/colorbox/1.6.1/js/colorbox.min.js"></script>
+  <script>
+    (function($) {
+      $(document).ready(function() {
+        $('a[data-lightbox]').map(function() {
+          $(this).colorbox({
+            loop: !1,
+            rel: $(this).attr('data-lightbox'),
+            maxWidth: '95%',
+            maxHeight: '95%'
+          })
+        })
+      })
+    })(jQuery)
+  </script>
+  <script src="/assets/js/tao.js"></script>
 </body>
 </html>
