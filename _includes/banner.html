@@ -3,7 +3,7 @@
   <div class="mod_rocksolid_slider main-slider block">
   {% assign projects=site.projects | where:"lang", page.lang %}
   {% for project in projects %}
-    <a href="{{ project.url }}" data-rsts-name="1" data-rsts-center="true" data-rsts-thumb="{{ project.slide.w1920 }}">
+    <a href="{{ project.url }}" data-rsts-name="1" data-rsts-center="true" data-rsts-thumb="/assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1920.png">
       <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start -color-inverted" style="background-size: contain;background-position: 50% 100%; ">
         <section class="feature-box is-animated ce_rsce_tao_feature_box does-repeat">
           <div class="feature-box-text -move -fade -move-left">
@@ -12,7 +12,7 @@
           </div>
         </section>
       </div>
-      <img data-rsts-background src="{{ project.slide.w1920 }}" srcset="{{ project.slide.w1920 }} 1920w, {{ project.slide.w480 }} 480w, {{ project.slide.w960 }} 960w, {{ project.slide.w1440 }} 1440w" sizes="100vw" alt="">
+      <img data-rsts-background src="/assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1920.png" srcset="/assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1920.png 1920w, /assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w480.png 480w, /assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w960.png 960w, /assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1440.png 1440w" sizes="100vw" alt="">
     </a>
   {% endfor %}
   </div>
