@@ -73,7 +73,7 @@
 }
 
 .rsts-type-slide .rsts-view,.rsts-thumbs-type-slide .rsts-thumbs-view {
-  cursor: url("../../system/modules/rocksolid-slider/assets/img/openhand.cur"),default;
+  cursor: url("/assets/img/openhand.cur"),default;
   cursor: -webkit-grab;
   cursor: -moz-grab;
   cursor: -ms-grab;
@@ -82,7 +82,7 @@
 }
 
 .rsts-type-slide.rsts-dragging .rsts-view,.rsts-thumbs-type-slide.rsts-thumbs-dragging .rsts-thumbs-view {
-  cursor: url("../../system/modules/rocksolid-slider/assets/img/closedhand.cur"),default;
+  cursor: url("/assets/img/closedhand.cur"),default;
   cursor: -webkit-grabbing;
   cursor: -moz-grabbing;
   cursor: -ms-grabbing;
@@ -214,11 +214,11 @@
   width: 100px;
   height: 100px;
   margin: -50px 0 0 -50px;
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/bigplay.svg") no-repeat;
+  background: url("/assets/jquery/mediaelement/2.21.2/images/bigplay.svg") no-repeat;
 }
 
 .no-svg .mejs-overlay-button {
-  background-image: url("../../assets/jquery/mediaelement/2.21.2/images/bigplay.png");
+  background-image: url("/assets/jquery/mediaelement/2.21.2/images/bigplay.png");
 }
 
 .mejs-overlay:hover .mejs-overlay-button {
@@ -233,7 +233,7 @@
   height: 80px;
   margin: -40px 0 0 -40px;
   background: #333;
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/background.png");
+  background: url("/assets/jquery/mediaelement/2.21.2/images/background.png");
   background: rgba(0,0,0,.9);
   background: -webkit-gradient(linear,0% 0%,0% 100%,from(rgba(50,50,50,.9)),to(rgba(0,0,0,.9)));
   background: -webkit-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));
@@ -247,7 +247,7 @@
   display: block;
   width: 80px;
   height: 80px;
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/loading.gif") 50% 50% no-repeat;
+  background: url("/assets/jquery/mediaelement/2.21.2/images/loading.gif") 50% 50% no-repeat;
 }
 
 .mejs-container .mejs-controls {
@@ -257,7 +257,7 @@
   padding: 0;
   bottom: 0;
   left: 0;
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/background.png");
+  background: url("/assets/jquery/mediaelement/2.21.2/images/background.png");
   background: rgba(0,0,0,.7);
   background: -webkit-gradient(linear,0% 0%,0% 100%,from(rgba(50,50,50,.7)),to(rgba(0,0,0,.7)));
   background: -webkit-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));
@@ -296,11 +296,11 @@
   height: 16px;
   width: 16px;
   border: 0;
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/controls.svg") no-repeat;
+  background: url("/assets/jquery/mediaelement/2.21.2/images/controls.svg") no-repeat;
 }
 
 .no-svg .mejs-controls .mejs-button button {
-  background-image: url("../../assets/jquery/mediaelement/2.21.2/images/controls.png");
+  background-image: url("/assets/jquery/mediaelement/2.21.2/images/controls.png");
 }
 
 .mejs-controls .mejs-button button:focus {
@@ -551,7 +551,7 @@
   display: none;
   height: 115px;
   width: 25px;
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/background.png");
+  background: url("/assets/jquery/mediaelement/2.21.2/images/background.png");
   background: rgba(50,50,50,.7);
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -678,7 +678,7 @@
   right: -51px;
   width: 85px;
   height: 100px;
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/background.png");
+  background: url("/assets/jquery/mediaelement/2.21.2/images/background.png");
   background: rgba(50,50,50,.7);
   border: solid 1px transparent;
   padding: 10px 10px 0 10px;
@@ -832,7 +832,7 @@
 
 .mejs-captions-text {
   padding: 3px 5px;
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/background.png");
+  background: url("/assets/jquery/mediaelement/2.21.2/images/background.png");
   background: rgba(20,20,20,.5);
   white-space: pre-wrap;
 }
@@ -914,7 +914,7 @@
   right: -10px;
   width: 130px;
   height: 100px;
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/background.png");
+  background: url("/assets/jquery/mediaelement/2.21.2/images/background.png");
   background: rgba(50,50,50,.7);
   border: solid 1px transparent;
   padding: 10px;
@@ -962,7 +962,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/background.png");
+  background: url("/assets/jquery/mediaelement/2.21.2/images/background.png");
   background: rgba(50,50,50,.7);
   z-index: 1000;
   overflow: hidden;
@@ -977,7 +977,7 @@
   position: absolute;
   right: 0;
   top: 0;
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/background.png");
+  background: url("/assets/jquery/mediaelement/2.21.2/images/background.png");
   background: rgba(50,50,50,.7);
   color: #fff;
   padding: 4px;
@@ -1005,7 +1005,7 @@ div.mejs-speed-button {
   left: -10px;
   width: 60px;
   height: 100px;
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/background.png");
+  background: url("/assets/jquery/mediaelement/2.21.2/images/background.png");
   background: rgba(50,50,50,.7);
   border: solid 1px transparent;
   padding: 0;
@@ -1065,7 +1065,7 @@ div.mejs-speed-button {
 }
 
 .mejs-controls .mejs-button.mejs-jump-forward-button {
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/jumpforward.png") no-repeat;
+  background: url("/assets/jquery/mediaelement/2.21.2/images/jumpforward.png") no-repeat;
   background-position: 3px 3px;
 }
 
@@ -1077,7 +1077,7 @@ div.mejs-speed-button {
 }
 
 .mejs-controls .mejs-button.mejs-skip-back-button {
-  background: url("../../assets/jquery/mediaelement/2.21.2/images/skipback.png") no-repeat;
+  background: url("/assets/jquery/mediaelement/2.21.2/images/skipback.png") no-repeat;
   background-position: 3px 3px;
 }
 
@@ -1204,7 +1204,7 @@ div.mejs-speed-button {
 }
 
 #cboxLoadingGraphic {
-  background: url("../../assets/jquery/colorbox/1.6.1/images/loading.gif") no-repeat center center;
+  background: url("/assets/jquery/colorbox/1.6.1/images/loading.gif") no-repeat center center;
 }
 
 #cboxPrevious,#cboxNext,#cboxSlideshow,#cboxClose {
@@ -1232,7 +1232,7 @@ div.mejs-speed-button {
   top: 50%;
   left: 5px;
   margin-top: -32px;
-  background: url("../../assets/jquery/colorbox/1.6.1/images/controls.png") no-repeat top left;
+  background: url("/assets/jquery/colorbox/1.6.1/images/controls.png") no-repeat top left;
   width: 28px;
   height: 65px;
   text-indent: -9999px;
@@ -1247,7 +1247,7 @@ div.mejs-speed-button {
   top: 50%;
   right: 5px;
   margin-top: -32px;
-  background: url("../../assets/jquery/colorbox/1.6.1/images/controls.png") no-repeat top right;
+  background: url("/assets/jquery/colorbox/1.6.1/images/controls.png") no-repeat top right;
   width: 28px;
   height: 65px;
   text-indent: -9999px;
@@ -1262,7 +1262,7 @@ div.mejs-speed-button {
   top: 5px;
   right: 5px;
   display: block;
-  background: url("../../assets/jquery/colorbox/1.6.1/images/controls.png") no-repeat top center;
+  background: url("/assets/jquery/colorbox/1.6.1/images/controls.png") no-repeat top center;
   width: 38px;
   height: 19px;
   text-indent: -9999px;
@@ -1280,15 +1280,15 @@ div.mejs-speed-button {
  */
 
 table.sortable thead th {
-  background-image:url("../../assets/jquery/tablesorter/2.0.5/images/default.gif");
+  background-image:url("/assets/jquery/tablesorter/2.0.5/images/default.gif");
   background-repeat:no-repeat;
   background-position:center right;
 }
 table.sortable thead th.headerSortDown {
-  background-image:url("../../assets/jquery/tablesorter/2.0.5/images/asc.gif");
+  background-image:url("/assets/jquery/tablesorter/2.0.5/images/asc.gif");
 }
 table.sortable thead th.headerSortUp {
-  background-image:url("../../assets/jquery/tablesorter/2.0.5/images/desc.gif");
+  background-image:url("/assets/jquery/tablesorter/2.0.5/images/desc.gif");
 }
 
 /* normalize.css 2012-03-11T12:53 UTC - http://github.com/necolas/normalize.css */
@@ -3266,8 +3266,8 @@ table {
  * ======================================== */
 @font-face {
   font-family: "RockSolid Icons";
-  src: url("../../files/tao/fonts/rocksolid-icons.eot");
-  src: url("../../files/tao/fonts/rocksolid-icons.eot?#iefix") format('eot'), url("../../files/tao/fonts/rocksolid-icons.woff") format('woff'), url("../../files/tao/fonts/rocksolid-icons.ttf") format('truetype'), url("../../files/tao/fonts/rocksolid-icons.svg") format('svg');
+  src: url("/assets/fonts/rocksolid-icons.eot");
+  src: url("/assets/fonts/rocksolid-icons.eot?#iefix") format('eot'), url("/assets/fonts/rocksolid-icons.woff") format('woff'), url("/assets/fonts/rocksolid-icons.ttf") format('truetype'), url("/assets/fonts/rocksolid-icons.svg") format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -3300,11 +3300,11 @@ body[class*=" icon-"]:before {
   content: none;
 }
 body.background-variation-1 {
-  background: url("../../files/tao/img/demo/background-1.jpg") 50% 0 no-repeat;
+  background: url("/assets/img/background-1.jpg") 50% 0 no-repeat;
   background-attachment: fixed;
 }
 body.background-variation-2 {
-  background: url("../../files/tao/img/demo/background-10.jpg") 50% 0 no-repeat;
+  background: url("/assets/img/background-10.jpg") 50% 0 no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -6087,7 +6087,7 @@ li:hover > .mega-dropdown {
 .tagline {
   zoom: 1;
   border-bottom: 1px solid #ffffff;
-  background-image: url("../../files/tao/css/Breadcrump_bg.jpg");
+  background-image: url("/assets/img/Breadcrump_bg.jpg");
   text-transform: capitalize;
   background-repeat: no-repeat;
   }

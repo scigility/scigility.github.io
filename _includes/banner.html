@@ -1,0 +1,93 @@
+{% if page.slider %}
+<div class="custom">
+  <div class="mod_rocksolid_slider main-slider block">
+  {% assign projects=site.projects | where:"lang", page.lang %}
+  {% for project in projects %}
+    <a href="{{ project.url }}" data-rsts-name="1" data-rsts-center="true" data-rsts-thumb="{{ project.slide.w1920 }}">
+      <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start -color-inverted" style="background-size: contain;background-position: 50% 100%; ">
+        <section class="feature-box is-animated ce_rsce_tao_feature_box does-repeat">
+          <div class="feature-box-text -move -fade -move-left">
+            <h1>{{ project.description }}</h1>
+            <p>{{ project.title }}</p>
+          </div>
+        </section>
+      </div>
+      <img data-rsts-background src="{{ project.slide.w1920 }}" srcset="{{ project.slide.w1920 }} 1920w, {{ project.slide.w480 }} 480w, {{ project.slide.w960 }} 960w, {{ project.slide.w1440 }} 1440w" sizes="100vw" alt="">
+    </a>
+  {% endfor %}
+  </div>
+</div>
+<script>
+(function() {
+  var sliderElement = [].slice.call(document.getElementsByClassName('mod_rocksolid_slider'), -1)[0];
+  if (window.jQuery && jQuery.fn.rstSlider) {
+    init()
+  } else {
+    document.addEventListener('DOMContentLoaded', init)
+  }
+
+  function init() {
+    var $ = jQuery;
+    var slider = $(sliderElement);
+    slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function() {
+      this.player = !1
+    });
+    slider.rstSlider({
+      "type": "slide",
+      "direction": "x",
+      "skin": "tao",
+      "navType": "thumbs",
+      "scaleMode": "crop",
+      "imagePosition": "center",
+      "centerContent": !0,
+      "random": !1,
+      "loop": !0,
+      "videoAutoplay": !1,
+      "autoplayProgress": !1,
+      "pauseAutoplayOnHover": !1,
+      "keyboard": !0,
+      "captions": !1,
+      "controls": !0,
+      "combineNavItems": !0,
+      "preloadSlides": 1,
+      "gapSize": "1%"
+    });
+    $(function() {
+      if (!$.fn.colorbox) {
+        return
+      }
+      var lightboxConfig = {
+        loop: !1,
+        rel: function() {
+          return $(this).attr('data-lightbox')
+        },
+        maxWidth: '95%',
+        maxHeight: '95%'
+      };
+      var update = function(links) {
+        links.colorbox(lightboxConfig)
+      };
+      slider.on('rsts-slidestart rsts-slidestop', function(event) {
+        update(slider.find('a[data-lightbox]'))
+      });
+      update(slider.find('a[data-lightbox]'))
+    });
+  }
+})();
+window.respimage && window.respimage({
+  elements: [document.images[document.images.length - 1]]
+});
+</script>
+{% else %}
+  {% if page.title %}
+  <div class="tagline">
+    <div class="tagline-inner">
+      <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start">
+        <div class="centered-wrapper-inner">
+          <h3 class="page-title">{{ page.title }}</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+{% endif %}
