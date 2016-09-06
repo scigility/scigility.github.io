@@ -24,8 +24,6 @@ feed:
   fr: /feed-de.xml
 baseurl: ""
 url: "https://scigility.github.io"
-#twitter_username: jekyllrb
-github_username: scigility
 
 # Build settings
 markdown: kramdown
@@ -71,3 +69,12 @@ t:
     home:  "Accueil"
   de:
     home:  "Home"
+
+# Social accounts
+
+linkedin_url: https://www.linkedin.com/company/scigility
+# googleplus_url:
+# facebook_url:
+# xing_url:
+# twitter_username: jekyllrb
+github_username: scigility

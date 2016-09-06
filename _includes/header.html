@@ -17,25 +17,33 @@
   <div class="main-navigation-mobile">
     {% include navigation.html %}
     <ul class="icon-links ce_rsce_tao_icon_links main-navigation-mobile-icons">
-      <li><!-- TODO: use config -->
-        <a href="https://www.linkedin.com/company/scigility?trk&#61;company_logo" data-icon="&#xe0b6;" style="color: #00baff;">
+      <li>
+        {% if site.linkedin_url %}
+        <a href="{{ site.linkedin_url }}" data-icon="&#xe0b6;" style="color: #00baff;">
           <span class="icon-links-label">LinkedIn</span>
         </a>
+        {% endif %}
       </li>
       <li>
-        <a href="&#35;" data-icon="&#xe098;" style="color: #00baff;">
+        {% if site.googleplus_url %}
+        <a href="{{ site.googleplus_url }}" data-icon="&#xe098;" style="color: #00baff;">
           <span class="icon-links-label">Google+</span>
         </a>
+        {% endif %}
       </li>
       <li>
-        <a href="&#35;" data-icon="&#xe076;" style="color: #00baff;">
+        {% if site.facebook_url %}
+        <a href="{{ site.facebook_url }}" data-icon="&#xe076;" style="color: #00baff;">
           <span class="icon-links-label">Facebook</span>
         </a>
+        {% endif %}
       </li>
       <li>
-        <a href="https://www.xing.com/profile/Daniel_Fasel3&#35;" data-icon="&#xe14b;" style="color: #00baff;">
+        {% if site.xing_url %}
+        <a href="{{ site.xing_url }}" data-icon="&#xe14b;" style="color: #00baff;">
           <span class="icon-links-label">Xing</span>
         </a>
+        {% endif %}
       </li>
     </ul>
   </div>
