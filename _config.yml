@@ -35,49 +35,28 @@ collections:
     output: true
   projects:
     output: true
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      comments: false
-      author: ""
-  -
-    scope:
-      path: ""
-      type: "products"
-    values:
-      comments: false
-      author: ""
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      comments: false
-      author: ""
+  jobs:
+    output: true
 
 # Languages configuration
 
 defaultlanguage: "de"
 t:
   en:
-    home:  "Home"
-    contact: "Contact"
-    top_1st: "go"
-    top_2nd: "up"
+    home:  Home
+    contact: Contact
+    top_1st: go
+    top_2nd: up
   fr:
-    home:  "Accueil"
-    contact: "Contact"
-    top_1st: "En"
-    top_2nd: "Haut"
+    home:  Accueil
+    contact: Contact
+    top_1st: En
+    top_2nd: Haut
   de:
-    home:  "Home"
-    contact: "Kontakt"
-    top_1st: "Nach"
-    top_2nd: "oben"
+    home:  Home
+    contact: Kontakt
+    top_1st: Nach
+    top_2nd: oben
 
 # Contact
 

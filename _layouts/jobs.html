@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="mod_article first last block">
+  <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start first ">
+    <div class="centered-wrapper-inner">
+      <div class="ce_text block">
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.subtitle }}</p>
+      </div>
+      <section class="teaser-boxes -boxed ce_rsce_tao_boxes">
+        {% assign jobs=site.jobs | where:"lang", page.lang %}
+        {% for job in jobs %}
+        <section class="teaser-boxes-item rs-column -large-col-2-1 -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last {% cycle "-large-first -medium-first-row -small-first-row", "-large-last" %} bottom-20">
+          {{ job }}
+        </section>
+        {% endfor %}
+      </section>
+    </div>
+  </div>
+</div>
