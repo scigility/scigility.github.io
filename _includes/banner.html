@@ -1,83 +1,83 @@
 {% if page.slider %}
-<div class="slider">
-  <div class="mod_rocksolid_slider main-slider block">
-  {% assign projects=site.projects | where:"lang", page.lang %}
-  {% for project in projects %}
-    <a href="{{ project.url }}" data-rsts-name="1" data-rsts-center="true" data-rsts-thumb="/assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1920.png">
-      <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start -color-inverted" style="background-size: contain; background-position: 50% 100%;">
-        <section class="feature-box is-animated ce_rsce_tao_feature_box does-repeat">
-          <div class="feature-box-text -move -fade -move-left">
-            <h1>{{ project.description }}</h1>
-            <p>{{ project.title }}</p>
-          </div>
-        </section>
-      </div>
-      <img data-rsts-background src="/assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1920.png" srcset="/assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1920.png 1920w, /assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w480.png 480w, /assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w960.png 960w, /assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1440.png 1440w" sizes="100vw" alt="">
-    </a>
-  {% endfor %}
+  <div class="slider">
+    <div class="mod_rocksolid_slider main-slider block">
+    {% assign projects=site.projects | where:"lang", page.lang %}
+    {% for project in projects %}
+      <a href="{{ project.url }}" data-rsts-name="1" data-rsts-center="true" data-rsts-thumb="/assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1920.png">
+        <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start -color-inverted" style="background-size: contain; background-position: 50% 100%;">
+          <section class="feature-box is-animated ce_rsce_tao_feature_box does-repeat">
+            <div class="feature-box-text -move -fade -move-left">
+              <h1>{{ project.description }}</h1>
+              <p>{{ project.title }}</p>
+            </div>
+          </section>
+        </div>
+        <img data-rsts-background src="/assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1920.png" srcset="/assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1920.png 1920w, /assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w480.png 480w, /assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w960.png 960w, /assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1440.png 1440w" sizes="100vw" alt="">
+      </a>
+    {% endfor %}
+    </div>
   </div>
-</div>
-<script>
-(function() {
-  var sliderElement = [].slice.call(document.getElementsByClassName('mod_rocksolid_slider'), -1)[0];
-  if (window.jQuery && jQuery.fn.rstSlider) {
-    init()
-  } else {
-    document.addEventListener('DOMContentLoaded', init)
-  }
+  <script>
+  (function() {
+    var sliderElement = [].slice.call(document.getElementsByClassName('mod_rocksolid_slider'), -1)[0];
+    if (window.jQuery && jQuery.fn.rstSlider) {
+      init();
+    } else {
+      document.addEventListener('DOMContentLoaded', init);
+    }
 
-  function init() {
-    var $ = jQuery;
-    var slider = $(sliderElement);
-    slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function() {
-      this.player = !1
-    });
-    slider.rstSlider({
-      "type": "slide",
-      "direction": "x",
-      "skin": "tao",
-      "navType": "thumbs",
-      "scaleMode": "crop",
-      "imagePosition": "center",
-      "centerContent": !0,
-      "random": !1,
-      "loop": !0,
-      "videoAutoplay": !1,
-      "autoplayProgress": !1,
-      "pauseAutoplayOnHover": !1,
-      "keyboard": !0,
-      "captions": !1,
-      "controls": !0,
-      "combineNavItems": !0,
-      "preloadSlides": 1,
-      "gapSize": "1%"
-    });
-    $(function() {
-      if (!$.fn.colorbox) {
-        return
-      }
-      var lightboxConfig = {
-        loop: !1,
-        rel: function() {
-          return $(this).attr('data-lightbox')
-        },
-        maxWidth: '95%',
-        maxHeight: '95%'
-      };
-      var update = function(links) {
-        links.colorbox(lightboxConfig)
-      };
-      slider.on('rsts-slidestart rsts-slidestop', function(event) {
+    function init() {
+      var $ = jQuery;
+      var slider = $(sliderElement);
+      slider.find('video[data-rsts-background], [data-rsts-type=video] video').each(function() {
+        this.player = false;
+      });
+      slider.rstSlider({
+        "type": "slide",
+        "direction": "x",
+        "skin": "tao",
+        "navType": "thumbs",
+        "scaleMode": "crop",
+        "imagePosition": "center",
+        "centerContent": true,
+        "random": false,
+        "loop": true,
+        "videoAutoplay": false,
+        "autoplayProgress": false,
+        "pauseAutoplayOnHover": false,
+        "keyboard": true,
+        "captions": false,
+        "controls": true,
+        "combineNavItems": true,
+        "preloadSlides": 1,
+        "gapSize": "1%"
+      });
+      $(function() {
+        if (!$.fn.colorbox) {
+          return
+        }
+        var lightboxConfig = {
+          loop: false,
+          rel: function() {
+            return $(this).attr('data-lightbox')
+          },
+          maxWidth: '95%',
+          maxHeight: '95%'
+        };
+        var update = function(links) {
+          links.colorbox(lightboxConfig)
+        };
+        slider.on('rsts-slidestart rsts-slidestop', function(event) {
+          update(slider.find('a[data-lightbox]'))
+        });
         update(slider.find('a[data-lightbox]'))
       });
-      update(slider.find('a[data-lightbox]'))
-    });
-  }
-})();
-window.respimage && window.respimage({
-  elements: [document.images[document.images.length - 1]]
-});
-</script>
+    }
+  })();
+  window.respimage && window.respimage({
+    elements: [document.images[document.images.length - 1]]
+  });
+  </script>
 {% else %}
   {% if page.title %}
   <div class="tagline">
