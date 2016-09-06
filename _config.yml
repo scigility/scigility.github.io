@@ -44,16 +44,19 @@ defaultlanguage: "de"
 t:
   en:
     home: Home
+    products_services: Products and Services
     contact: Contact
     top_1st: go
     top_2nd: up
   fr:
     home: Accueil
+    products_services: Produits et services
     contact: Contact
     top_1st: En
     top_2nd: Haut
   de:
     home: Home
+    products_services: Produkte & Dienstleistungen
     contact: Kontakt
     top_1st: Nach
     top_2nd: oben

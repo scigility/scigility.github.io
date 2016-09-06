@@ -1,10 +1,10 @@
 <nav class="mod_rocksolid_mega_menu main-navigation block">
   <ul class="level_1">
     <li class="{% if '/{{page.lang}}' == page.url %}trail {% endif %}home tagline-no-border first">
-      <a href="/{{page.lang}}" title="Home" class="{% if '/{{page.lang}}' == page.url %}trail {% endif %}home tagline-no-border first">Home</a>
+      <a href="/{{page.lang}}" title="{{ site.t[page.lang].home }}" class="{% if '/{{page.lang}}' == page.url %}trail {% endif %}home tagline-no-border first">{{ site.t[page.lang].home }}</a>
     </li>
     <li class="{% if page.layout == 'product' %}trail {% endif %}submenu">
-      <a title="Produkte &amp; Dienstleistungen" class="{% if page.layout == 'product' %}trail {% endif %}submenu" aria-haspopup="true">Produkte &amp; Dienstleistungen</a>
+      <a title="{{ site.t[page.lang].products_services }}" class="{% if page.layout == 'product' %}trail {% endif %}submenu" aria-haspopup="true">{{ site.t[page.lang].products_services }}</a>
       <ul class="level_2">
         {% assign items=site.products | where:"lang", page.lang %}
         {% for item in items %}
@@ -15,7 +15,8 @@
       </ul>
     </li>
     <li class="submenu">
-      <a href="index.php/projekte.html" title="Projekte" class="{% if page.layout == 'project' %}trail {% endif %}submenu" aria-haspopup="true">Projekte</a>
+      {% assign item=site.pages | where:"ref", "projects" | where:"lang", page.lang %}
+      <a href="{{ item[0].url }}" title="{{ item[0].title }}" class="{% if page.ref == 'projects' %}trail {% endif %}submenu" aria-haspopup="true">{{ item[0].title }}</a>
       <ul class="level_2">
         {% assign items=site.projects | where:"lang", page.lang %}
         {% for item in items %}
