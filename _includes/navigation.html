@@ -9,7 +9,7 @@
       <ul class="level_2">
         {% assign products=site.products | where:"lang", page.lang %}
         {% for product in products %}
-          <li>
+          <li {% if forloop.last == true %}class="tagline-no-border last"{% endif %}>
             <a href="{{ product.url | prepend: site.baseurl }}">{{ product.title }}</a>
           </li>
         {% endfor %}
@@ -20,7 +20,7 @@
       <ul class="level_2">
         {% assign projects=site.projects | where:"lang", page.lang %}
         {% for project in projects %}
-          <li>
+          <li {% if forloop.last == true %}class="tagline-no-border last"{% endif %}>
             <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
           </li>
         {% endfor %}
@@ -34,7 +34,7 @@
       <ul class="level_2">
         {% assign pages=site.pages | where:"lang", page.lang %}
         {% for page in pages %}
-          <li>
+          <li {% if forloop.last == true %}class="tagline-no-border last"{% endif %}>
             <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           </li>
         {% endfor %}
