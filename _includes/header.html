@@ -2,8 +2,8 @@
   <div class="header-navigation">
     <div class="header-navigation-inner">
       <h1 class="ce_rsce_tao_logo logo">
-        <a href="{{ page.lang | prepend: '/' | prepend: site.baseurl | prepend: site.url }}">
-          <img src="/assets/img/Scigility_logo.png" width="375" height="80" alt="">
+        <a href="{{ page.lang | replace:site.defaultlanguage,'' | prepend: '/' | prepend: site.baseurl | prepend: site.url }}">
+          <img src="/assets/img/Scigility_logo.png" width="375" height="80" alt="Scigility logo">
         </a>
       </h1>
       {% include navigation.html %}
