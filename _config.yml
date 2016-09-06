@@ -45,21 +45,30 @@ t:
   en:
     home: Home
     products_services: Products and Services
+    company: Company
     contact: Contact
     top_1st: go
     top_2nd: up
   fr:
     home: Accueil
     products_services: Produits et services
+    company: Entreprise
     contact: Contact
     top_1st: En
     top_2nd: Haut
   de:
     home: Home
     products_services: Produkte & Dienstleistungen
+    company: Unternehmen
     contact: Kontakt
     top_1st: Nach
     top_2nd: oben
+
+# Menu
+## put here the "ref:" of each page, otherwise the multilang won't work
+company_menu:
+  - contact
+  - jobs
 
 # Contact
 

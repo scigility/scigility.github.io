@@ -27,18 +27,18 @@
       </ul>
     </li>
     <li>
-      {% assign item=site.pages | where:"ref", "partner" | where:"lang", page.lang %}
-      <a href="{{ item[0].url }}" title="{{ item[0].title }}" class="{% if page.ref == 'partner' %}trail{% endif %}">{{ item[0].title }}</a>
+      {% assign item=site.pages | where:"ref", "partners" | where:"lang", page.lang %}
+      <a href="{{ item[0].url }}" title="{{ item[0].title }}" class="{% if page.ref == 'partners' %}trail{% endif %}">{{ item[0].title }}</a>
     </li>
     <li class="submenu">
-      {% assign item=site.pages | where:"ref", "partner" | where:"lang", page.lang %}
-      <a href="{{ item[0].url }}" title="Unternehmen" class="{% if page.layout == 'page' or page.layout == 'contact' or page.layout == 'jobs' or page.layout == 'impressum' %}trail {% endif %}submenu" aria-haspopup="true">Unternehmen</a>
+      {% assign item=site.pages | where:"ref", "contact" | where:"lang", page.lang %}
+      <a href="{{ item[0].url }}" title="{{ site.t[page.lang].company }}" class="{% if site.company_menu contains page.ref %}trail {% endif %}submenu" aria-haspopup="true">{{ site.t[page.lang].company }}</a>
       <ul class="level_2">
-        {% assign items=site.pages | where:"lang", page.lang %}
-        {% for item in items %}
-          {% if item.title %}
+        {% for ref in site.company_menu %}
+          {% assign item=site.pages | where:"ref", ref | where:"lang", page.lang %}
+          {% if item[0].title %}
             <li {% if forloop.last %}class="tagline-no-border last"{% endif %}>
-              <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+              <a href="{{ item[0].url | prepend: site.baseurl }}">{{ item[0].title }}</a>
             </li>
           {% endif %}
         {% endfor %}
