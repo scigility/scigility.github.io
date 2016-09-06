@@ -113,16 +113,15 @@
   <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start -border-top">
     <div class="centered-wrapper-inner">
       <p class="footer-copyright ce_rsce_tao_footer_copyright">
-        © Copyright 2016. Scigility. All rights reserved. <a href="http://cinzia-aeberhard.ch/" class="rocksolid-copyright">Design by Cinzia Aeberhard</a></a>
+        Copyright {{ site.time | date: '%Y' }} © Scigility AG. All rights reserved. <a href="http://cinzia-aeberhard.ch/" class="rocksolid-copyright">Design by Cinzia Aeberhard</a></a>
       </p>
-      <nav class="mod_customnav footer-links block"><!-- TODO: translate string -->
-        <a href="#skipNavigation91" class="invisible">Navigation überspringen</a>
+      <nav class="mod_customnav footer-links block">
         <ul class="level_1">
-          <li class="first last"><!-- TODO: fix link -->
-            <a href="index.php/impressum.html" title="Impressum" class="first last">Impressum</a>
+          <li class="first last">
+            {% assign impressum=site.pages | where:"ref", "impressum" | where:"lang", page.lang %}
+            <a href="{{ impressum.url }}" title="{{ impressum.title }}" class="first last">{{ impressum.title }}</a>
           </li>
         </ul>
-        <a id="skipNavigation91" class="invisible">&nbsp;</a>
       </nav>
     </div>
   </div>
