@@ -4,50 +4,58 @@ permalink: /sitemaps.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  {% for post in site.posts %}
-    {% if post.id contains "404" %}{% else %}
+  {% for item in site.posts %}
+    {% if item.id contains "404" %}{% else %}
       <url>
-        <loc>{{site.base}}{{ post.url }}</loc>
-        {% assign versions=site.posts | where:"ref", post.ref %}
+        <loc>{{site.base}}{{ item.url }}</loc>
+        {% assign versions=site.posts | where:"ref", item.ref %}
         {% for version in versions %}
-          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
+          {% if version.lang != item.lang %}
+            <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
+          {% endif %}
         {% endfor %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        <lastmod>{{ item.date | date_to_xmlschema }}</lastmod>
         <changefreq>weekly</changefreq>
       </url>
     {% endif %}
   {% endfor %}
-  {% for page in site.pages %}
-    {% if page.id contains "404" %}{% else %}
+  {% for item in site.pages %}
+    {% if item.id contains "404" %}{% else %}
       <url>
-        <loc>{{site.base}}{{ page.url }}</loc>
-        {% assign versions=site.pages | where:"ref", page.ref %}
+        <loc>{{site.base}}{{ item.url }}</loc>
+        {% assign versions=site.pages | where:"ref", item.ref %}
         {% for version in versions %}
-          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
-        {% endfor %}
-        <changefreq>weekly</changefreq>
-      </url>
-    {% endif %}
-  {% endfor %}
-  {% for page in site.projects %}
-    {% if page.id contains "404" %}{% else %}
-      <url>
-        <loc>{{site.base}}{{ page.url }}</loc>
-        {% assign versions=site.projects | where:"ref", page.ref %}
-        {% for version in versions %}
-          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
+          {% if version.lang != item.lang %}
+            <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
+          {% endif %}
         {% endfor %}
         <changefreq>weekly</changefreq>
       </url>
     {% endif %}
   {% endfor %}
-  {% for page in site.products %}
-    {% if page.id contains "404" %}{% else %}
+  {% for item in site.projects %}
+    {% if item.id contains "404" %}{% else %}
       <url>
-        <loc>{{site.base}}{{ page.url }}</loc>
-        {% assign versions=site.products | where:"ref", page.ref %}
+        <loc>{{site.base}}{{ item.url }}</loc>
+        {% assign versions=site.projects | where:"ref", item.ref %}
         {% for version in versions %}
-          <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
+          {% if version.lang != item.lang %}
+            <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
+          {% endif %}
+        {% endfor %}
+        <changefreq>weekly</changefreq>
+      </url>
+    {% endif %}
+  {% endfor %}
+  {% for item in site.products %}
+    {% if item.id contains "404" %}{% else %}
+      <url>
+        <loc>{{site.base}}{{ item.url }}</loc>
+        {% assign versions=site.products | where:"ref", item.ref %}
+        {% for version in versions %}
+          {% if version.lang != item.lang %}
+            <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
+          {% endif %}
         {% endfor %}
         <changefreq>weekly</changefreq>
       </url>
