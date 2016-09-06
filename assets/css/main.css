@@ -5289,9 +5289,6 @@ input[type="submit"].-quaternary:focus:after,
   height: 100%;
 }
 
-
-}
-
 @media screen and (max-width: 900px) {
   .logo a {
     display: inline;
