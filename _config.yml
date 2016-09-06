@@ -65,10 +65,16 @@ defaultlanguage: "de"
 t:
   en:
     home:  "Home"
+    top_1st: "go"
+    top_2nd: "up"
   fr:
     home:  "Accueil"
+    top_1st: "En"
+    top_2nd: "Haut"
   de:
     home:  "Home"
+    top_1st: "Nach"
+    top_2nd: "oben"
 
 # Social accounts
 
@@ -76,5 +82,25 @@ linkedin_url: https://www.linkedin.com/company/scigility
 # googleplus_url:
 # facebook_url:
 # xing_url:
+# zoom_url:
 # twitter_username: jekyllrb
 github_username: scigility
+
+# Footer
+
+## "Quick links" section
+## put here the "ref:" of each page, otherwise the multilang won't work
+
+quicklinks:
+  - team
+  - architecture-conception
+
+## "Links" section
+
+footer_links:
+  - text: Scigility Big Data Book
+    url: http://www.springer.com/de/book/9783658115883
+  - text: Swiss Big Data User Group
+    url: http://www.meetup.com/de-DE/swiss-big-data/?chapter_analytics_code&#61;UA-34163083-2
+  - text: Our sister company Dashcom
+    url: http://www.dashcom.ch/

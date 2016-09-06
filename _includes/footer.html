@@ -5,56 +5,80 @@
         <div class="rs-column -large-col-4-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
           <h1>Quick-Links</h1>
           <ul class="icon-links ce_rsce_tao_icon_links">
-            <li><!-- TODO: generate these automatically -->
-              <a href="index.php/architektur-konzeption.html">
-                <span class="icon-links-label">Produkte & Dienstleistungen</span>
-              </a>
-            </li>
-            <li>
-              <a href="index.php/projekte.html">
-                <span class="icon-links-label">Projekte</span>
-              </a>
-            </li>
-            <li>
-              <a href="index.php/partner.html">
-                <span class="icon-links-label">Partner</span>
-              </a>
-            </li>
-            <li>
-              <a href="index.php/kontakt.html">
-                <span class="icon-links-label">Unternehmen</span>
-              </a>
-            </li>
-            <li>
-              <a href="index.php/media.html">
-                <span class="icon-links-label">News</span>
-              </a>
-            </li>
+            {% for link in site.quicklinks %}
+              {% assign post_refs=site.posts | where:"ref", link | where:"lang", page.lang %}
+              {% assign page_refs=site.pages | where:"ref", link | where:"lang", page.lang %}
+              {% assign product_refs=site.products | where:"ref", link | where:"lang", page.lang %}
+              {% assign project_refs=site.projects | where:"ref", link | where:"lang", page.lang %}
+              {% if post_refs[0].title %}
+              <li>
+                <a href="{{ post_refs[0].url }}">
+                  <span class="icon-links-label">{{ post_refs[0].title }}</span>
+                </a>
+              </li>
+              {% endif %}
+              {% if page_refs[0].title %}
+              <li>
+                <a href="{{ page_refs[0].url }}">
+                  <span class="icon-links-label">{{ page_refs[0].title }}</span>
+                </a>
+              </li>
+              {% endif %}
+              {% if product_refs[0].title %}
+              <li>
+                <a href="{{ product_refs[0].url }}">
+                  <span class="icon-links-label">{{ product_refs[0].title }}</span>
+                </a>
+              </li>
+              {% endif %}
+              {% if project_refs[0].title %}
+              <li>
+                <a href="{{ project_refs[0].url }}">
+                  <span class="icon-links-label">{{ project_refs[0].title }}</span>
+                </a>
+              </li>
+              {% endif %}
+            {% endfor %}
           </ul>
         </div>
         <div class="rs-column -large-col-4-1 -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
           <h3>Social Media</h3>
           <ul class="icon-links ce_rsce_tao_icon_links">
-            <li><!-- TODO: store these in _config.yml -->
-              <a href="https://www.linkedin.com/company/scigility?trk&#61;company_logo" data-icon="&#xe0b6;">
+            {% if site.linkedin_url %}
+            <li>
+              <a href="{{ site.linkedin_url }}" data-icon="&#xe0b6;">
                 <span class="icon-links-label">LinkedIn</span>
               </a>
             </li>
+            {% endif %}
+            {% if site.googleplus_url %}
             <li>
-              <a href="https://www.xing.com/profile/Christian_Guegi" data-icon="&#xe14b;">
-                <span class="icon-links-label">Xing</span>
-              </a>
-            </li>
-            <li>
-              <a href="" data-icon="&#xe097;">
+              <a href="{{ site.googleplus_url }}" data-icon="&#xe098;">
                 <span class="icon-links-label">Google+</span>
               </a>
             </li>
+            {% endif %}
+            {% if site.facebook_url %}
             <li>
-              <a href="https://zoom.us/" data-icon="&#xe042;">
+              <a href="{{ site.facebook_url }}" data-icon="&#xe076;">
+                <span class="icon-links-label">Facebook</span>
+              </a>
+            </li>
+            {% endif %}
+            {% if site.xing_url %}
+            <li>
+              <a href="{{ site.xing_url }}" data-icon="&#xe14b;">
+                <span class="icon-links-label">Xing</span>
+              </a>
+            </li>
+            {% endif %}
+            {% if site.zoom_url %}
+            <li>
+              <a href="{{ site.zoom_url }}" data-icon="&#xe042;">
                 <span class="icon-links-label">Zoom Conference Service</span>
               </a>
             </li>
+            {% endif %}
           </ul>
         </div>
         <div class="rs-column -large-col-4-1 -large-first-row -medium-col-2-1 -medium-first -small-col-1-1 -small-first -small-last">
@@ -72,21 +96,13 @@
         <div class="rs-column -large-col-4-1 -large-last -large-first-row -medium-col-2-1 -medium-last -small-col-1-1 -small-first -small-last">
           <h3>Links</h3>
           <ul class="icon-links ce_rsce_tao_icon_links">
-            <li><!-- TODO: store these in config -->
-              <a href="http://www.springer.com/de/book/9783658115883">
-                <span class="icon-links-label">Scigility Big Data Book</span>
-              </a>
-            </li>
+            {% for link in site.footer_links %}
             <li>
-              <a href="http://www.meetup.com/de-DE/swiss-big-data/?chapter_analytics_code&#61;UA-34163083-2">
-                <span class="icon-links-label">Swiss Big Data User Group</span>
+              <a href="{{ link.url }}">
+                <span class="icon-links-label">{{ link.text }}</span>
               </a>
             </li>
-            <li>
-              <a href="http://www.dashcom.ch/">
-                <span class="icon-links-label">Our sister company Dashcom</span>
-              </a>
-            </li>
+            {% endfor %}
           </ul>
         </div>
       </div>
@@ -109,7 +125,6 @@
     </div>
   </div>
   <a href="#top" class="footer-top-link ce_rsce_tao_footer_top">
-    <!-- TODO: translate string -->
-    <span>Nach</span> <span>oben</span>
+    <span>{{ site.t[page.lang].top_1st }}</span> <span>{{ site.t[page.lang].top_2nd }}</span>
   </a>
 </footer>

@@ -17,34 +17,34 @@
   <div class="main-navigation-mobile">
     {% include navigation.html %}
     <ul class="icon-links ce_rsce_tao_icon_links main-navigation-mobile-icons">
+      {% if site.linkedin_url %}
       <li>
-        {% if site.linkedin_url %}
         <a href="{{ site.linkedin_url }}" data-icon="&#xe0b6;" style="color: #00baff;">
           <span class="icon-links-label">LinkedIn</span>
         </a>
-        {% endif %}
       </li>
+      {% endif %}
+      {% if site.googleplus_url %}
       <li>
-        {% if site.googleplus_url %}
         <a href="{{ site.googleplus_url }}" data-icon="&#xe098;" style="color: #00baff;">
           <span class="icon-links-label">Google+</span>
         </a>
-        {% endif %}
       </li>
+      {% endif %}
+      {% if site.facebook_url %}
       <li>
-        {% if site.facebook_url %}
         <a href="{{ site.facebook_url }}" data-icon="&#xe076;" style="color: #00baff;">
           <span class="icon-links-label">Facebook</span>
         </a>
-        {% endif %}
       </li>
+      {% endif %}
+      {% if site.xing_url %}
       <li>
-        {% if site.xing_url %}
         <a href="{{ site.xing_url }}" data-icon="&#xe14b;" style="color: #00baff;">
           <span class="icon-links-label">Xing</span>
         </a>
-        {% endif %}
       </li>
+      {% endif %}
     </ul>
   </div>
 </header>
