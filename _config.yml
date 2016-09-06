@@ -97,9 +97,9 @@ kramdown:
 input: GFM
 
 collections:
-products:
-  output: true
-projects:
-  output: true
-jobs:
-  output: true
+  products:
+    output: true
+  projects:
+    output: true
+  jobs:
+    output: true

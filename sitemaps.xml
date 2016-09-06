@@ -75,4 +75,4 @@ permalink: /sitemaps.xml
       </url>
     {% endif %}
   {% endfor %}
-  </urlset>
+</urlset>
