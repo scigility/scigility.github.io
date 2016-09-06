@@ -1,68 +1,70 @@
 <nav class="mod_rocksolid_mega_menu main-navigation block">
-  <a href="#skipNavigation78" class="invisible">Navigation überspringen</a>
   <ul class="level_1">
-    <li class="trail home tagline-no-border sibling first">
-      <a href="/{{page.lang}}" title="Home" class="trail home tagline-no-border sibling first">Home</a>
+    <li class="{% if '/{{page.lang}}' == page.url %}trail {% endif %}home tagline-no-border first">
+      <a href="/{{page.lang}}" title="Home" class="{% if '/{{page.lang}}' == page.url %}trail {% endif %}home tagline-no-border first">Home</a>
     </li>
-    <li class="submenu sibling">
-      <a href="#" title="Produkte &amp; Dienstleistungen" class="submenu sibling" aria-haspopup="true">Produkte &amp; Dienstleistungen</a>
+    <li class="{% if page.layout == 'product' %}trail {% endif %}submenu">
+      <a title="Produkte &amp; Dienstleistungen" class="{% if page.layout == 'product' %}trail {% endif %}submenu" aria-haspopup="true">Produkte &amp; Dienstleistungen</a>
       <ul class="level_2">
-        {% assign products=site.products | where:"lang", page.lang %}
-        {% for product in products %}
-          <li {% if forloop.last == true %}class="tagline-no-border last"{% endif %}>
-            <a href="{{ product.url | prepend: site.baseurl }}">{{ product.title }}</a>
+        {% assign items=site.products | where:"lang", page.lang %}
+        {% for item in items %}
+          <li {% if forloop.last %}class="tagline-no-border last"{% endif %}>
+            <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
           </li>
         {% endfor %}
       </ul>
     </li>
-    <li class="submenu sibling">
-      <a href="index.php/projekte.html" title="Projekte" class="submenu sibling" aria-haspopup="true">Projekte</a>
+    <li class="submenu">
+      <a href="index.php/projekte.html" title="Projekte" class="{% if page.layout == 'project' %}trail {% endif %}submenu" aria-haspopup="true">Projekte</a>
       <ul class="level_2">
-        {% assign projects=site.projects | where:"lang", page.lang %}
-        {% for project in projects %}
-          <li {% if forloop.last == true %}class="tagline-no-border last"{% endif %}>
-            <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+        {% assign items=site.projects | where:"lang", page.lang %}
+        {% for item in items %}
+          <li {% if forloop.last %}class="tagline-no-border last"{% endif %}>
+            <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
           </li>
         {% endfor %}
       </ul>
     </li>
-    <li class="sibling">
-      <a href="index.php/partner.html" title="Partner" class="sibling">Partner</a>
+    <li>
+      {% assign item=site.pages | where:"ref", "partner" | where:"lang", page.lang %}
+      <a href="{{ item[0].url }}" title="{{ item[0].title }}" class="{% if page.ref == 'partner' %}trail{% endif %}">{{ item[0].title }}</a>
     </li>
-    <li class="submenu sibling">
-      <a href="index.php/kontakt.html" title="Unternehmen" class="submenu sibling" aria-haspopup="true">Unternehmen</a>
+    <li class="submenu">
+      {% assign item=site.pages | where:"ref", "partner" | where:"lang", page.lang %}
+      <a href="{{ item[0].url }}" title="Unternehmen" class="{% if page.layout == 'page' or page.layout == 'contact' or page.layout == 'jobs' or page.layout == 'impressum' %}trail {% endif %}submenu" aria-haspopup="true">Unternehmen</a>
       <ul class="level_2">
-        {% assign pages=site.pages | where:"lang", page.lang %}
-        {% for page in pages %}
-          <li {% if forloop.last == true %}class="tagline-no-border last"{% endif %}>
-            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          </li>
+        {% assign items=site.pages | where:"lang", page.lang %}
+        {% for item in items %}
+          {% if item.title %}
+            <li {% if forloop.last %}class="tagline-no-border last"{% endif %}>
+              <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+            </li>
+          {% endif %}
         {% endfor %}
       </ul>
     </li>
-    <li class="bordernav submenu sibling">
-      <a href="#" title="Lang" class="bordernav sibling last">{{ page.lang | upcase }}</a>
+    <li class="bordernav submenu">
+      <a title="Lang" class="bordernav last">{{ page.lang | upcase }}</a>
       <ul class="level_2">
-        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-        {% for page in pages %}
-          <li>
-            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.lang | upcase }}</a>
+        {% assign items=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for item in items %}
+          <li {% if forloop.last %}class="tagline-no-border last"{% endif %}>
+            <a href="{{ item.url | prepend: site.baseurl }}">{{ item.lang | upcase }}</a>
           </li>
         {% endfor %}
-        {% assign pages=site.projects | where:"ref", page.ref | sort: 'lang' %}
-        {% for page in pages %}
-          <li>
-            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.lang | upcase }}</a>
+        {% assign items=site.projects | where:"ref", page.ref | sort: 'lang' %}
+        {% for item in items %}
+          <li {% if forloop.last %}class="tagline-no-border last"{% endif %}>
+            <a href="{{ item.url | prepend: site.baseurl }}">{{ item.lang | upcase }}</a>
           </li>
         {% endfor %}
-        {% assign pages=site.products | where:"ref", page.ref | sort: 'lang' %}
-        {% for page in pages %}
-          <li>
-            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.lang | upcase }}</a>
+        {% assign items=site.products | where:"ref", page.ref | sort: 'lang' %}
+        {% for item in items %}
+          <li {% if forloop.last %}class="tagline-no-border last"{% endif %}>
+            <a href="{{ item.url | prepend: site.baseurl }}">{{ item.lang | upcase }}</a>
           </li>
         {% endfor %}
       </ul>
     </li>
   </ul>
-  <a id="skipNavigation11" class="invisible">&nbsp;</a>
 </nav>

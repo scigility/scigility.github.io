@@ -17,11 +17,16 @@ layout: default
               <h1>{{ contact.alt_name }}</h1>
               <div>{{ contact.name }}</div>
               <div>{{ contact.address1 }}</div>
+              {% if contact.address2 %}
+                <div>{{ contact.address2 }}</div>
+              {% endif %}
               <div>{{ contact.city }}</div>
               <div>&nbsp;</div>
               <div>{{ contact.phone }}</div>
               <div><a style="color: #2e70b1;" href="mailto:{{ contact.email }}">{{ contact.email }}</a></div>
-              <div><a href="{{ site.linkedin_url }}" target="_blank">LinkedIn</a></div>
+              {% if contact.linkedin_url %}
+                <div><a href="{{ site.linkedin_url }}" target="_blank">LinkedIn</a></div>
+              {% endif %}
             </div>
           </div>
         {% endfor %}
