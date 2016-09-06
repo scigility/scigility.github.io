@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="mod_article first last block">
+  <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start first ">
+    <div class="centered-wrapper-inner">
+      <section class="teaser-boxes ce_rsce_tao_boxes">
+        {% assign projects=site.projects | where:"lang", page.lang %}
+        {% for project in projects %}
+          <section class="teaser-boxes-item rs-column -large-col-4-1 -large-first-row -medium-col-4-1 -medium-first-row -small-col-1-1 -small-first -small-last -align-center{% if forloop.first %} -small-first-row -medium-first -large-first{% endif %}">
+            {% if project.right.picture.url %}
+              <a class="image-wrapper" href="{{ project.url }}">
+                <img src="{{ project.right.picture.url }}" width="{% if project.right.picture.width %}{{project.right.picture.width}}{% else %}500{% endif %}" height="{% if project.right.picture.height %}{{project.right.picture.height}}{% else %}250{% endif %}" alt="">
+              </a>
+            {% endif %}
+            <h3>{{ project.title }}</h3>
+            <div class="teaser-boxes-item-text">
+              <p>{{ project.description }}</p>
+            </div>
+            <a href="{{ project.url }}">{{ site.t[page.lang].details  }}</p>
+          </section>
+        {% endfor %}
+      </section>
+    </div>
+  </div>
+</div>

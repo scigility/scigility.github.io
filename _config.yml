@@ -47,6 +47,7 @@ t:
     products_services: Products and Services
     company: Company
     contact: Contact
+    details: Details
     top_1st: go
     top_2nd: up
   fr:
@@ -54,6 +55,7 @@ t:
     products_services: Produits et services
     company: Entreprise
     contact: Contact
+    details: Details
     top_1st: En
     top_2nd: Haut
   de:
@@ -61,6 +63,7 @@ t:
     products_services: Produkte & Dienstleistungen
     company: Unternehmen
     contact: Kontakt
+    details: Details
     top_1st: Nach
     top_2nd: oben
 
@@ -74,7 +77,7 @@ company_menu:
 
 contacts:
   - name: Scigility AG
-    alt_name: Standord Zürich
+    alt_name: Zürich
     address1: Europaallee 41
     address2:
     city: 8021 Zürich
@@ -82,7 +85,7 @@ contacts:
     email: hallo@scigility.com
     maps: https://maps.google.com/maps?key=&amp;q=47.379040%2C+8.532423&amp;z=16&amp;output=embed&amp;iwloc=near
   - name: Scigility AG
-    alt_name: Standord Marly
+    alt_name: Marly
     address1: Rte du Confin 32
     address2:
     city: 1723 Marly
