@@ -1,10 +1,10 @@
 ---
 layout: project
-permalink: /fr/projects/project-name
-ref: project-name
-lang: fr
+permalink: /de/projects/logistic-transport
+ref: logistic-transport
+lang: de
 
-title: SAMPLE PROJECT NAME
+title: Logistic un Transport
 description: Projektbeschreibung mit Keywords.
 left:
   logo:

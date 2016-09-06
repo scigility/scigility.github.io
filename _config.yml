@@ -1,19 +1,85 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+# Webpage title
 title:
   de: Scigility AG
   en: Scigility Ltd
   fr: Scigility SA
-email: hallo@scigility.com
+# HTML <head> description, good content means good SEO
 description:
-  en: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-  fr: Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.
+  de: Blah blah
+  en: Blah blah
+  fr: Blah blah
+
+defaultlanguage: "de"
+
+# Translatable strings
+t:
+  en:
+    home: Home
+    products_services: Products and Services
+    company: Company
+    contact: Contact
+    details: Details
+    position: Position
+    top_1st: go
+    top_2nd: up
+  fr:
+    home: Accueil
+    products_services: Produits et services
+    company: Entreprise
+    contact: Contact
+    details: Details
+    position: Titre
+    top_1st: En
+    top_2nd: Haut
+  de:
+    home: Home
+    products_services: Produkte & Dienstleistungen
+    company: Unternehmen
+    contact: Kontakt
+    details: Details
+    position: Funktion
+    top_1st: Nach
+    top_2nd: oben
+
+# Menu
+## put here the "ref:" of each page, otherwise the multilang won't work
+company_menu:
+  - contact
+  - team
+  - jobs
+  - media
+
+# Social accounts
+
+linkedin_url: https://www.linkedin.com/company/scigility
+# googleplus_url:
+# facebook_url:
+# xing_url:
+# zoom_url:
+# twitter_username:
+github_username: scigility
+
+# Footer
+
+## "Quick links" section
+## put here the "ref:" of each page, otherwise the multilang won't work
+quicklinks:
+  - team
+  - architecture-conception
+
+## "Links" section
+footer_links:
+  - text: Scigility Big Data Book
+    url: http://www.springer.com/de/book/9783658115883
+  - text: Swiss Big Data User Group
+    url: http://www.meetup.com/de-DE/swiss-big-data/
+  - text: Our sister company Dashcom
+    url: http://www.dashcom.ch/
+
+
+#############################################################################
+#############################################################################
+# Misc settings, you shouldn't have to change these
 index:
   de: index.de.html
   en: index.en.html
@@ -23,101 +89,17 @@ feed:
   fr: /feed-fr.xml
   fr: /feed-de.xml
 baseurl: ""
-url: "https://scigility.github.io"
+url: ""
 
 # Build settings
 markdown: kramdown
 kramdown:
-  input: GFM
+input: GFM
 
 collections:
-  products:
-    output: true
-  projects:
-    output: true
-  jobs:
-    output: true
-
-# Languages configuration
-
-defaultlanguage: "de"
-t:
-  en:
-    home: Home
-    products_services: Products and Services
-    company: Company
-    contact: Contact
-    details: Details
-    top_1st: go
-    top_2nd: up
-  fr:
-    home: Accueil
-    products_services: Produits et services
-    company: Entreprise
-    contact: Contact
-    details: Details
-    top_1st: En
-    top_2nd: Haut
-  de:
-    home: Home
-    products_services: Produkte & Dienstleistungen
-    company: Unternehmen
-    contact: Kontakt
-    details: Details
-    top_1st: Nach
-    top_2nd: oben
-
-# Menu
-## put here the "ref:" of each page, otherwise the multilang won't work
-company_menu:
-  - contact
-  - jobs
-
-# Contact
-
-contacts:
-  - name: Scigility AG
-    alt_name: Zürich
-    address1: Europaallee 41
-    address2:
-    city: 8021 Zürich
-    phone: +41 79 202 47 89
-    email: hallo@scigility.com
-    maps: https://maps.google.com/maps?key=&amp;q=47.379040%2C+8.532423&amp;z=16&amp;output=embed&amp;iwloc=near
-  - name: Scigility AG
-    alt_name: Marly
-    address1: Rte du Confin 32
-    address2:
-    city: 1723 Marly
-    phone: +41 79 202 47 89
-    email: hallo@scigility.com
-    maps: https://maps.google.com/maps?key=&amp;q=46.773830%2C+7.166038&amp;z=16&amp;output=embed&amp;iwloc=near
-
-# Social accounts
-
-linkedin_url: https://www.linkedin.com/company/scigility
-# googleplus_url:
-# facebook_url:
-# xing_url:
-# zoom_url:
-# twitter_username: jekyllrb
-github_username: scigility
-
-# Footer
-
-## "Quick links" section
-## put here the "ref:" of each page, otherwise the multilang won't work
-
-quicklinks:
-  - team
-  - architecture-conception
-
-## "Links" section
-
-footer_links:
-  - text: Scigility Big Data Book
-    url: http://www.springer.com/de/book/9783658115883
-  - text: Swiss Big Data User Group
-    url: http://www.meetup.com/de-DE/swiss-big-data/?chapter_analytics_code&#61;UA-34163083-2
-  - text: Our sister company Dashcom
-    url: http://www.dashcom.ch/
+products:
+  output: true
+projects:
+  output: true
+jobs:
+  output: true

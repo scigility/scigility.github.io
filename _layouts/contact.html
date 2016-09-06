@@ -6,7 +6,7 @@ layout: default
   <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start first ">
     <div class="centered-wrapper-inner">
       <div class="rs-columns ce_rs_columns_start" style="margin-top:36px; margin-bottom:36px;">
-        {% for contact in site.contacts %}
+        {% for contact in site.data.contacts %}
           <div class="rs-column -large-col-2-1 -large-first -small-first -small-last -small-col-1-1 -medium-col-2-1 -medium-first {% if forloop.index0 == 0 %}-large-first-row -medium-first-row -small-first-row{% endif %}">
             <div class="google-map ce_rsce_tao_map" style="padding-bottom: 50%">
               <iframe src="{{ contact.maps }}" frameborder="0" scrolling="no"></iframe>

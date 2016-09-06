@@ -84,15 +84,15 @@
         <div class="rs-column -large-col-4-1 -large-first-row -medium-col-2-1 -medium-first -small-col-1-1 -small-first -small-last">
           <div class="ce_text block">
             <h3>{{ site.t[page.lang].contact }}</h3>
-            <div>{{ site.contacts[0].name }}</div>
-            <div>{{ site.contacts[0].address1 }}</div>
-            {% if site.contacts[0].address2 %}
-              <div>{{ site.contacts[0].address2 }}</div>
+            <div>{{ site.data.contacts[0].name }}</div>
+            <div>{{ site.data.contacts[0].address1 }}</div>
+            {% if site.data.contacts[0].address2 %}
+              <div>{{ site.data.contacts[0].address2 }}</div>
             {% endif %}
-            <div>{{ site.contacts[0].city }}</div>
+            <div>{{ site.data.contacts[0].city }}</div>
             <div>&nbsp;</div>
-            <div>{{ site.contacts[0].phone }}</div>
-            <div><a style="color: #2e70b1;" href="mailto:{{ site.contacts[0].email }}">{{ site.contacts[0].email }}</a></div>
+            <div>{{ site.data.contacts[0].phone }}</div>
+            <div><a style="color: #2e70b1;" href="mailto:{{ site.data.contacts[0].email }}">{{ site.data.contacts[0].email }}</a></div>
           </div>
         </div>
         <div class="rs-column -large-col-4-1 -large-last -large-first-row -medium-col-2-1 -medium-last -small-col-1-1 -small-first -small-last">

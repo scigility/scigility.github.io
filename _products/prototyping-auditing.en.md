@@ -1,10 +1,10 @@
 ---
 layout: product
-permalink: /en/architecture-conception/
-ref: architecture-conception
+permalink: /en/prototyping-auditing/
+ref: prototyping-auditing
 lang: en
 
-title: Architecture & Conception
+title: Prototyping and Auditing
 description: We are highly trained Shaolin Kung-Fu Masters.
 paragraphs:
   - "Here are our special skill:"

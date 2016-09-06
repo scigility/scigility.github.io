@@ -1,10 +1,10 @@
 ---
 layout: project
-permalink: /de/projects/project-name
-ref: project-name
+permalink: /de/projects/technology-communication
+ref: technology-communication
 lang: de
 
-title: SAMPLE PROJECT NAME
+title: Technology und Kommunikation
 description: Projektbeschreibung mit Keywords.
 left:
   logo:

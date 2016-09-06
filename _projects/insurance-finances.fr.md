@@ -1,10 +1,10 @@
 ---
 layout: project
-permalink: /en/projects/project-name
-ref: project-name
-lang: en
+permalink: /fr/projects/assurances-finances
+ref: insurance-finances
+lang: fr
 
-title: SAMPLE PROJECT NAME
+title: Insurance and Finances
 description: Projektbeschreibung mit Keywords.
 left:
   logo:

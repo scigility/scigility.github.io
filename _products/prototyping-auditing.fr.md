@@ -1,10 +1,10 @@
 ---
 layout: product
-permalink: /fr/architecture-conception/
-ref: architecture-conception
+permalink: /fr/prototypage-audit/
+ref: prototyping-auditing
 lang: fr
 
-title: Architecture & Conception
+title: Prototypage et audits
 description: Nous sommes des experts
 paragraphs:
   - "Voici ce que nous pouvons faire:"
