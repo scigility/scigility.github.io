@@ -65,16 +65,29 @@ defaultlanguage: "de"
 t:
   en:
     home:  "Home"
+    contact: "Contact"
     top_1st: "go"
     top_2nd: "up"
   fr:
     home:  "Accueil"
+    contact: "Contact"
     top_1st: "En"
     top_2nd: "Haut"
   de:
     home:  "Home"
+    contact: "Kontakt"
     top_1st: "Nach"
     top_2nd: "oben"
+
+# Contact
+
+contact:
+  name: Scigility AG
+  address1: Europaallee 41
+  address2:
+  city: 8021 Zürich
+  phone: +41 79 202 47 89
+  email: hallo@scigility.com
 
 # Social accounts
 

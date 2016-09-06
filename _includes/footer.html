@@ -83,14 +83,16 @@
         </div>
         <div class="rs-column -large-col-4-1 -large-first-row -medium-col-2-1 -medium-first -small-col-1-1 -small-first -small-last">
           <div class="ce_text block">
-            <!-- TODO: translate string, fix it with real info -->
-            <h3>Kontakt</h3>
-            <div>Scigility AG</div>
-            <div>Rte du Confin 32</div>
-            <div>1723 Marly</div>
+            <h3>{{ site.t[page.lang].contact }}</h3>
+            <div>{{ site.contact.name }}</div>
+            <div>{{ site.contact.address1 }}</div>
+            {% if site.contact.address2 %}
+              <div>{{ site.contact.address2 }}</div>
+            {% endif %}
+            <div>{{ site.contact.city }}</div>
             <div>&nbsp;</div>
-            <div>+41 79 202 47 89</div>
-            <div><a style="color: #2e70b1;" href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#104;&#97;&#108;&#108;&#111;&#x40;&#x73;&#x63;&#105;&#x67;&#105;&#x6C;&#x69;&#x74;&#121;&#x2E;&#99;&#x6F;&#109;">hallo&nbsp;(at)&nbsp;scigility.com</a></div>
+            <div>{{ site.contact.phone }}</div>
+            <div><a style="color: #2e70b1;" href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></div>
           </div>
         </div>
         <div class="rs-column -large-col-4-1 -large-last -large-first-row -medium-col-2-1 -medium-last -small-col-1-1 -small-first -small-last">
