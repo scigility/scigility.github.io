@@ -12,9 +12,9 @@ layout: default
       <section class="teaser-boxes -boxed ce_rsce_tao_boxes">
         {% assign jobs=site.jobs | where:"lang", page.lang %}
         {% for job in jobs %}
-        <section class="teaser-boxes-item rs-column -large-col-2-1 -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last {% cycle "-large-first -medium-first-row -small-first-row", "-large-last" %} bottom-20">
-          {{ job }}
-        </section>
+          <section class="teaser-boxes-item rs-column -large-col-2-1 -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last {% cycle "-large-first -medium-first-row -small-first-row", "-large-last" %} bottom-20">
+            {{ job }}
+          </section>
         {% endfor %}
       </section>
     </div>

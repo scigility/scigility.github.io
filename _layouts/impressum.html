@@ -13,15 +13,15 @@ layout: default
         </div>
         <div class="ce_rs_column_start  rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
           <div class="icon-text-block ce_rsce_tao_icon_text_blocks" data-icon="&#xe0a1;">
-          <div>{{ site.contact.name }}</div>
-          <div>{{ site.contact.address1 }}</div>
-          {% if site.contact.address2 %}
-            <div>{{ site.contact.address2 }}</div>
+          <div>{{ site.contacts[0].name }}</div>
+          <div>{{ site.contacts[0].address1 }}</div>
+          {% if site.contacts[0].address2 %}
+            <div>{{ site.contacts[0].address2 }}</div>
           {% endif %}
-          <div>{{ site.contact.city }}</div>
+          <div>{{ site.contacts[0].city }}</div>
           </div>
           <div class="icon-text-block ce_rsce_tao_icon_text_blocks" data-icon="&#xe043;">
-            <p><strong>T:</strong> {{ site.contact.phone }}<br><strong>E:</strong> <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></p>
+            <p><strong>T:</strong> {{ site.contacts[0].phone }}<br><strong>E:</strong> <a href="mailto:{{ site.contacts[0].email }}">{{ site.contacts[0].email }}</a></p>
           </div>
         </div>
       </div>

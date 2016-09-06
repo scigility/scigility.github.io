@@ -43,30 +43,40 @@ collections:
 defaultlanguage: "de"
 t:
   en:
-    home:  Home
+    home: Home
     contact: Contact
     top_1st: go
     top_2nd: up
   fr:
-    home:  Accueil
+    home: Accueil
     contact: Contact
     top_1st: En
     top_2nd: Haut
   de:
-    home:  Home
+    home: Home
     contact: Kontakt
     top_1st: Nach
     top_2nd: oben
 
 # Contact
 
-contact:
-  name: Scigility AG
-  address1: Europaallee 41
-  address2:
-  city: 8021 Zürich
-  phone: +41 79 202 47 89
-  email: hallo@scigility.com
+contacts:
+  - name: Scigility AG
+    alt_name: Standord Zürich
+    address1: Europaallee 41
+    address2:
+    city: 8021 Zürich
+    phone: +41 79 202 47 89
+    email: hallo@scigility.com
+    maps: https://maps.google.com/maps?key=&amp;q=47.379040%2C+8.532423&amp;z=16&amp;output=embed&amp;iwloc=near
+  - name: Scigility AG
+    alt_name: Standord Marly
+    address1: Rte du Confin 32
+    address2:
+    city: 1723 Marly
+    phone: +41 79 202 47 89
+    email: hallo@scigility.com
+    maps: https://maps.google.com/maps?key=&amp;q=46.773830%2C+7.166038&amp;z=16&amp;output=embed&amp;iwloc=near
 
 # Social accounts
 
