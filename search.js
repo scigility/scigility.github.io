@@ -83,11 +83,15 @@ window.store = {
 function displaySearchResults(results, store) {
   var searchResults = document.getElementById('searchResults');
 
-  if (results.length) { // Are there any results?
+  if (results.length) {
     var appendString = '';
-    for (var i = 0; i < results.length; i++) {  // Iterate over the results
+    var displayed = [];
+    for (var i = 0; i < results.length && displayed.length <= 12; i++) {
       var item = store[results[i].ref];
-      appendString += '<li><span class="search-result-lang">' + item.lang + '</span> <a href="' + item.url + '">' + item.title + '</a>';
+      if (displayed.indexOf(item.url) === -1) {
+        appendString += '<li><span class="search-result-lang">' + item.lang + '</span> <a href="' + item.url + '">' + item.title + '</a></li>';
+        displayed.push(item.url);
+      }
     }
 
     searchResults.innerHTML = appendString;
