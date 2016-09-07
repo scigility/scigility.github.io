@@ -109,3 +109,7 @@ collections:
     output: true
   jobs:
     output: true
+
+# UA-83800555-1 : scigility.com
+# UA-83800555-2 : scigility.github.io
+analytics: UA-83800555-2
