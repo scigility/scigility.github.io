@@ -102,7 +102,6 @@ function displaySearchResults(results, store) {
 
 function onSearchType() {
   var searchTerm = $(this).val().trim();
-  console.log(searchTerm);
   if (searchTerm) {
     var idx = lunr(function () {
       this.field('id');
@@ -138,4 +137,8 @@ function onSearchType() {
 $('#search').keyup(event, onSearchType);
 $('#searchForm').submit(function () {
   return false
+});
+$('#searchForm').mouseout(function () {
+  $('#searchResults').html('');
+  $('#search').val('');
 });
