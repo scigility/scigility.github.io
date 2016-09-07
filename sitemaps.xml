@@ -1,11 +1,11 @@
 ---
-layout:
+layout: null
 permalink: /sitemaps.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   {% for item in site.posts %}
-    {% if item.id contains "404" %}{% else %}
+    {% unless item.id contains "404" %}
       <url>
         <loc>{{site.base}}{{ item.url }}</loc>
         {% assign versions=site.posts | where:"ref", item.ref %}
@@ -17,10 +17,10 @@ permalink: /sitemaps.xml
         <lastmod>{{ item.date | date_to_xmlschema }}</lastmod>
         <changefreq>weekly</changefreq>
       </url>
-    {% endif %}
+    {% endunless %}
   {% endfor %}
   {% for item in site.pages %}
-    {% if item.id contains "404" %}{% else %}
+    {% unless item.id contains "404" %}
       <url>
         <loc>{{site.base}}{{ item.url }}</loc>
         {% assign versions=site.pages | where:"ref", item.ref %}
@@ -31,10 +31,10 @@ permalink: /sitemaps.xml
         {% endfor %}
         <changefreq>weekly</changefreq>
       </url>
-    {% endif %}
+    {% endunless %}
   {% endfor %}
   {% for item in site.projects %}
-    {% if item.id contains "404" %}{% else %}
+    {% unless item.id contains "404" %}
       <url>
         <loc>{{site.base}}{{ item.url }}</loc>
         {% assign versions=site.projects | where:"ref", item.ref %}
@@ -45,10 +45,10 @@ permalink: /sitemaps.xml
         {% endfor %}
         <changefreq>weekly</changefreq>
       </url>
-    {% endif %}
+    {% endunless %}
   {% endfor %}
   {% for item in site.products %}
-    {% if item.id contains "404" %}{% else %}
+    {% unless item.id contains "404" %}
       <url>
         <loc>{{site.base}}{{ item.url }}</loc>
         {% assign versions=site.products | where:"ref", item.ref %}
@@ -59,10 +59,10 @@ permalink: /sitemaps.xml
         {% endfor %}
         <changefreq>weekly</changefreq>
       </url>
-    {% endif %}
+    {% endunless %}
   {% endfor %}
   {% for item in site.jobs %}
-    {% if item.id contains "404" %}{% else %}
+    {% unless item.id contains "404" %}
       <url>
         <loc>{{site.base}}{{ item.url }}</loc>
         {% assign versions=site.jobs | where:"ref", item.ref %}
@@ -73,6 +73,6 @@ permalink: /sitemaps.xml
         {% endfor %}
         <changefreq>weekly</changefreq>
       </url>
-    {% endif %}
+    {% endunless %}
   {% endfor %}
 </urlset>

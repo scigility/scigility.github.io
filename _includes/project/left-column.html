@@ -7,14 +7,14 @@
   </div>
   {% endif %}
   <div class="ce_text block">
-    <h1>Projektüberschrift</h1><!-- TODO: translate string -->
+    <h1>{{ page.title }}</h1>
     {% for paragraph in page.left.paragraphs %}
       <p>{{ paragraph }}</p>
     {% endfor %}
   </div>
   {% if page.left.more_projects %}
     <section class="teaser-boxes -boxed ce_rsce_tao_boxes">
-      <h1 style="margin-bottom: 0">Weitere Projekte</h1><!-- TODO: translate string -->
+      <h1 style="margin-bottom: 0">{{ site.t[page.lang].more_projects }}</h1>
       {% for project in page.left.more_projects %}
         <section class="teaser-boxes-item rs-column -large-col-1-1 -medium-col-1-1 -small-col-1-1">
           <h3>{{ project.description }}</h3>

@@ -991,13 +991,13 @@ button:active, .button:active {
   top: 50%;
   right: 3.7037%;
   z-index: 3;
-  height: 2.85714em;
+  /*height: 2.85714em;*/
   min-width: 3.42857em;
   margin-top: -1.35714em;
   border-radius: 0px;
-  overflow: hidden;
   font-size: 0.875em;
   background: #ffffff;
+  padding-right: 12px;
 }
 @media screen and (max-width: 900px) {
   .main-navigation-search {
@@ -1030,7 +1030,7 @@ button:active, .button:active {
   margin: 0.57143em 0.85714em 0 -10.35714em;
   padding: 0.14286em 0 0.21429em;
   border: 0;
-  border-bottom: 1px solid #ffffff;
+  border-bottom: 1px solid transparent;
   border-radius: 0;
   font-size: inherit;
   background: none;
@@ -1071,7 +1071,7 @@ button:active, .button:active {
   top: 0;
   right: 0;
   width: 3.57143em;
-  height: 100%;
+  height: 34px;
   margin: 0;
   padding: 0;
   border: 0;
@@ -2208,4 +2208,18 @@ li.tagline-no-border.last {
 
 section.bottom-20 {
   margin-bottom: 20px;
+}
+
+ul.search-results {
+  margin-top: 38px;
+  list-style: none;
+  list-style-type: none;
+  padding-left: 14px;
+}
+.search-result-lang {
+  font-size: 12px;
+  margin-right: 6px;
+  color: black;
+  font-variant: small-caps;
+  vertical-align: top;
 }

@@ -9,10 +9,11 @@
       <nav class="mod_rocksolid_mega_menu main-navigation block">
         {% include navigation.html %}
       </nav>
-      <!-- TODO: lunr.js -->
-      <form action="" method="get" class="ce_rsce_tao_nav_search main-navigation-search">
-        <input type="search" name="keywords" placeholder="" />
+      <form id="searchForm" action="" method="get" class="ce_rsce_tao_nav_search main-navigation-search">
+        <input id="search" type="search" name="keywords" placeholder="" />
         <button type="submit"></button>
+        <ul id="searchResults" class="search-results">
+        </ul>
       </form>
     </div>
   </div>
