@@ -5,7 +5,11 @@ layout: default
 <div class="centered-wrapper-medium">
   <div class="centered-wrapper-inner">
     <div class="rs-columns">
-      {% include product/left-column.html %}
+      <div class="rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
+        <div class="ce_text block">
+          {{ content }}
+        </div>
+      </div>
       {% include product/right-column.html %}
     </div>
   </div>

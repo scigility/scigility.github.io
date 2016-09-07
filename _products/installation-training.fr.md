@@ -6,8 +6,11 @@ lang: fr
 
 title: Installation, exploitation et formation
 description: Nous sommes des experts
-paragraphs:
-  - "Voici ce que nous pouvons faire:"
-bullet_points:
-  - Manger des pommes
 ---
+
+## Some title
+
+A paragraph.
+
+* A list
+* of items.
