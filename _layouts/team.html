@@ -2,30 +2,28 @@
 layout: default
 ---
 
-<div class="mod_article first last block">
-  <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start first -medium">
-    <div class="centered-wrapper-inner">
-      {{ content }}
-      <section class="team-boxes ce_rsce_tao_team_boxes">
-        {% for member in site.data.members %}
-          <div class="team-boxes-item rs-column -large-col-4-1 -medium-col-4-1 -small-col-1-1">
-            <div class="image-wrapper">
-              <img src="{{ member.picture | prepend: site.baseurl }}" width="400" height="600" alt="{{ member.name }}">
-            </div>
-            <h3>{{ member.name }}</h3>
-            <h4>{{ site.t[page.lang].position }}</h4>
-            <p>{{ member.position }}</p>
-            <ul>
-              {% if member.email %}
-                <li><a href="{{ member.email }}" data-icon="&#xe0cc;" style="color: #888888" target="_blank">E-Mail</a></li>
-              {% endif %}
-              {% if member.linkedin %}
-                <li><a href="{{ member.linkedin }}" data-icon="&#xe0b6;" style="color: #0e76a8" target="_blank">LinkedIn</a></li>
-              {% endif %}
-            </ul>
+<div class="centered-wrapper-medium">
+  <div class="centered-wrapper-inner">
+    {{ content }}
+    <section class="team-boxes">
+      {% for member in site.data.members %}
+        <div class="team-boxes-item rs-column -large-col-4-1 -medium-col-4-1 -small-col-1-1">
+          <div class="image-wrapper">
+            <img src="{{ member.picture | prepend: site.baseurl }}" width="400" height="600" alt="{{ member.name }}">
           </div>
-        {% endfor %}
-      </section>
-    </div>
+          <h3>{{ member.name }}</h3>
+          <h4>{{ site.t[page.lang].position }}</h4>
+          <p>{{ member.position }}</p>
+          <ul>
+            {% if member.email %}
+              <li><a href="{{ member.email }}" data-icon="&#xe0cc;" style="color: #888888" target="_blank">E-Mail</a></li>
+            {% endif %}
+            {% if member.linkedin %}
+              <li><a href="{{ member.linkedin }}" data-icon="&#xe0b6;" style="color: #0e76a8" target="_blank">LinkedIn</a></li>
+            {% endif %}
+          </ul>
+        </div>
+      {% endfor %}
+    </section>
   </div>
 </div>

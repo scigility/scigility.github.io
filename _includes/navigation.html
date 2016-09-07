@@ -1,6 +1,6 @@
 <ul class="level_1">
-  <li class="{% if '/{{page.lang}}' == page.url %}trail {% endif %}home tagline-no-border first">
-    <a href="{{ page.lang | replace:site.defaultlanguage,'' | prepend: '/' | prepend: site.baseurl | prepend: site.url }}" title="{{ site.t[page.lang].home }}" class="{% if '/{{page.lang}}' == page.url %}trail {% endif %}home tagline-no-border first">{{ site.t[page.lang].home }}</a>
+  <li class="{% if '/{{page.lang}}' == page.url %}trail {% endif %}home tagline-no-border">
+    <a href="{{ page.lang | replace:site.defaultlanguage,'' | prepend: '/' | prepend: site.baseurl | prepend: site.url }}" title="{{ site.t[page.lang].home }}" class="{% if '/{{page.lang}}' == page.url %}trail {% endif %}home tagline-no-border">{{ site.t[page.lang].home }}</a>
   </li>
   <li class="{% if page.layout == 'product' %}trail {% endif %}submenu">
     <a title="{{ site.t[page.lang].products_services }}" class="{% if page.layout == 'product' %}trail {% endif %}submenu" aria-haspopup="true">{{ site.t[page.lang].products_services }}</a>

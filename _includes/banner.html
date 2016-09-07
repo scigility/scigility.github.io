@@ -4,7 +4,7 @@
     {% assign projects=site.projects | where:"lang", page.lang %}
     {% for project in projects %}
       <a href="{{ project.url }}" data-rsts-name="1" data-rsts-center="true" data-rsts-thumb="/assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1920.png">
-        <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start -color-inverted" style="background-size: contain; background-position: 50% 100%;">
+        <div class="centered-wrapper -color-inverted" style="background-size: contain; background-position: 50% 100%;">
           <section class="feature-box is-animated ce_rsce_tao_feature_box does-repeat">
             <div class="feature-box-text -move -fade -move-left">
               <h1>{{ project.description }}</h1>
@@ -82,7 +82,7 @@
   {% if page.title %}
   <div class="tagline">
     <div class="tagline-inner">
-      <div class="centered-wrapper ce_rsce_tao_centered_wrapper_start">
+      <div class="centered-wrapper">
         <div class="centered-wrapper-inner">
           <h3 class="page-title">{{ page.title }}</h3>
         </div>
