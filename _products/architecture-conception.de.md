@@ -8,7 +8,7 @@ title: Architektur & Konzeption
 description: Wir bieten Ihnen Unterstützung bei der Architektur und der Konzeption von neuen Big Data Lösungen an.
 ---
 
-## Architektuf und Design
+## Architektur und Design
 
 Wir bieten Ihnen Unterstützung bei der Architektur und der Konzeption von neuen Big Data Lösungen an. Dies beinhaltet:
 

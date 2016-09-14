@@ -5,11 +5,18 @@ ref: architecture-conception
 lang: en
 
 title: Architecture & Conception
-description: xyz We are highly trained Shaolin Kung-Fu Masters.
+description: We support you in finding the optimal architecture and concept for your Big Data challenges 
 ---
 
-xyz Here is an ordered list:
+## Architecture and Conception
 
-1. xyz Roundhouse kick
-1. xyz High kick
-1. xyz Low kick
+Wir bieten Ihnen Unterstützung bei der Architektur und der Konzeption von neuen Big Data Lösungen an. Dies beinhaltet:
+
+* Machbarkeitsstudien
+* Architekturdokumentation
+* Logische Konzeption
+* Integration in existierende Infrastrukturen und Sicherheitsframeworks
+* Erarbeiten von Guidelines
+* Sizing von Hardware
+* Unterstützung bei Softwareauswahl
+* Radmap definieren
