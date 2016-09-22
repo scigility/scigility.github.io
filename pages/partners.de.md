@@ -8,11 +8,9 @@ banner:
   title: Partners
 
 sections:
-  - title: Business Partners
-    description: Scigility ist überzeugt davon, dass wir unseren Kunden die besten Leistungen anbieten können, wenn wir mit guten Partnern zusammenarbeiten. Darum sind wir stets darum bestrebt ein gutes Netzwerk zu haben und arbeiten mit folgenden Unternehmungen zusammen.
+  - title: Hortonworks
+    description: Hortonworks beitet mit Hortonworks Data Platform und Hortonworks Data Flow zwei 100% Open Source Technologie Stacks für Ihre moderne Informationsplatform. Scigility gehört seit 2013 zu den Hortonworks System Integratoren und waren damit die ersten Hortonworkspartner in der Schweiz.
     logos:
-    - /assets/img/partners/callistagroup-300x126.jpg
-    - /assets/img/partners/Edorex_Logo_Web-300x120.png
     - /assets/img/partners/Hor_4cLogo_hr-300x113.jpg
 
   - title: Academy Partners
