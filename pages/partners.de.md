@@ -8,8 +8,10 @@ banner:
   title: Partners
 
 sections:
-  - title: Hortonworks
-    description: Hortonworks beitet mit Hortonworks Data Platform und Hortonworks Data Flow zwei 100% Open Source Technologie Stacks für Ihre moderne Informationsplatform. Scigility gehört seit 2013 zu den Hortonworks System Integratoren und waren damit die ersten Hortonworkspartner in der Schweiz.
+  - title: Hadoop Enterprise Providers
+    description: 
+    ##Hortonworks 
+    beitet mit Hortonworks Data Platform und Hortonworks Data Flow zwei 100% Open Source Technologie Stacks für Ihre moderne Informationsplatform. Scigility gehört seit 2013 zu den Hortonworks System Integratoren und waren damit die ersten Hortonworkspartner in der Schweiz.
     logos:
     - /assets/img/partners/Hor_4cLogo_hr-300x113.jpg
 
