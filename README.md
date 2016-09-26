@@ -36,10 +36,6 @@ left: # left column
     url: /assets/img/projects/project1-logo.png # project logo
     width: 150 # this line is optional, it'll default to 150
     height: 148 # this line is optional, it'll default to 1148
-  paragraphs: # a list of paragraphs, each item will be wrapped in <p>, html allowed
-    - a
-    - b
-    - c
   more_projects: # a list of other projects to display
     - title: SAMPLE PROJECT
       description: Projektbeschreibung Kurz mit Keywords hinterlegt.
@@ -55,6 +51,8 @@ right: # right column
     - some optional paragraph
     - another optional paragraph
 ---
+
+Here goes the markdown content of the **left column**, describing the project.
 ```
 
 # Products and services
