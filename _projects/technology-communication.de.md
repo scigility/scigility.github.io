@@ -8,23 +8,24 @@ title: Technology und Kommunikation
 description: Projektbeschreibung mit Keywords.
 left:
   logo:
-    url: /assets/img/projects/project1-logo.png
+    url: /assets/img/projects/Swisscom_logo1-150x150.png
     width: 150
-    height: 148
+    height: 150
   paragraphs:
-    - Venis aut alitiunt, sintium, offictem ilitatias illupta con re nime nes vendand erescimet laturitio quid que aut mod moloreperume peratet accabor untiumquide postrum ut fugiaes siminventem accullit qui tem laces dis aut omnimodis perum quam, optioris alicab ipid quaspis et eum dolupit dem. Volenih illuptaes nem reiumquam dolo temporum ellia porumet est ipsam fugia que doluptium volore vero quia quam, sedi consequaspel esernam eate optam non pedi iniam velibus nonsed erfernam quas at ommoles andandae volut ut et voluptatur?
-    - Cus ulpa quid quo vendis et od mo tes conecae venis alitint arum ratem ratust lis nobitis exceatinisit aut pa volut eum, comnihicit eos di aut ut eiuntur sim illacep ellescilis nobit veles ium veribus.<br>Atium nim cuptae pari blabo. Ullabo. Eniendi discidit arum rere vellatem faccum nim recae inctas atis eum nonse aut essimporest apiendi deliaspe odit.
+    - Swisscom ist das führende Telekommunikations- und eines der führenden IT-Unternehmen der Schweiz . Die Swisscom ist für viele Schweizer Kunden der vertrauenswürdige Begleiter in der digitalen Welt. Ziel von Swisscom ist es, Kunden mit dem besten Netz, ausgezeichneten Angeboten und hervorragendem Service zu begeistern. 
+ 
+    - Technologischer Wandel, intensiver lokaler und globaler Wettbewerb und die sich verändernden Kundenbedürfnisse führen dazu, dass die Preise und Volumen im klassischen Geschäftsmodell mit nutzungsabhängigen Angeboten kontinuierlich erodieren. Mit einer langfristigen Strategie will Swisscom den Umsatz- und Ergebnisrückgang kompensieren, um die Finanzkraft für die hohen Investitionen in neue Technologien zu bewahren. Zu dieser Strategie zählt auch der Einsatz neuer und innovativen Technologien wie Big Data und NoSQL Informationssysteme. Scigility AG unterstützt das Big Data Delivery Team beim Aufbau von Komponenten wie das Sourcing von Daten in den Data Lake, ein generisches (ELT) Transformationswerkzeug auf Hadoop und Kafka, die Integration von Daten aus dem Data Lake in das Data Warehouse und einem globalen Delivery Framework für Big Data, welches auf agilen Continuous Integration Grundsätzen basiert. 
+
+    - Stefan Salvisberg, Head of BI and Big Data Delivery, Swisscom AG
+ 
   more_projects:
-    - title: SAMPLE PROJECT
+    - title: Retail Projekt
       description: Projektbeschreibung Kurz mit Keywords hinterlegt.
-      url: /projects/project-name
-    - title: FAKE PROJECT
-      description: Projektbeschreibung Kurz mit Keywords hinterlegt.
-      url: /projects/project-name
+      url: /projects/retail
+
 right:
   picture:
     url: /assets/img/projects/project1-picture.png
   paragraphs:
-    - some optional paragraph
-    - another optional paragraph
+
 ---
