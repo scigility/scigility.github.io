@@ -13,7 +13,7 @@ left:
   more_projects:
     - title: Swisscom AG
       description: Telekommunikaton, Data Lake, genersiches (ELT) Transformationsframework, Continuous Integration, Data Warehouse Integration
-      url: /projects/swisscom
+      url: /de/projects/swisscom
 
 right:
   picture:

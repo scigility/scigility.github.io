@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /de/projects/technology-communication
+permalink: /de/projects/swisscom
 ref: technology-communication
 lang: de
 
