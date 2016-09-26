@@ -4,8 +4,8 @@ permalink: /de/projects/swisscom
 ref: technology-communication
 lang: de
 
-title: Technology und Kommunikation
-description: Projektbeschreibung mit Keywords.
+title: Unterstützung BI und Big Data Delivery bei Swisscom
+description: Unterstützung BI und Big Data Delivery bei Swisscom
 left:
   logo:
     url: /assets/img/projects/Swisscom_logo1-150x150.png
@@ -20,7 +20,7 @@ left:
  
   more_projects:
     - title: Retail Projekt
-      description: Projektbeschreibung Kurz mit Keywords hinterlegt.
+      description: Retail Prjekt
       url: /de/projects/retail
 
 ---
