@@ -7,10 +7,6 @@ lang: de
 title: Unterstützung BI und Big Data Delivery bei Swisscom
 description: Unterstützung BI und Big Data Delivery bei Swisscom
 left:
-  logo:
-    url: /assets/img/projects/Swisscom_logo1-150x150.png
-    width: 150
-    height: 150
   paragraphs:
     - Swisscom ist das führende Telekommunikations- und eines der führenden IT-Unternehmen der Schweiz . Die Swisscom ist für viele Schweizer Kunden der vertrauenswürdige Begleiter in der digitalen Welt. Ziel von Swisscom ist es, Kunden mit dem besten Netz, ausgezeichneten Angeboten und hervorragendem Service zu begeistern. 
  
@@ -22,5 +18,10 @@ left:
     - title: Retail Projekt
       description: Retail Prjekt
       url: /de/projects/retail
+right:
+  picture:
+    url: /assets/img/projects/Swisscom_logo1-150x150.png
+    width: 150
+    height: 150
 
 ---
