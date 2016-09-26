@@ -7,25 +7,17 @@ lang: de
 title: Technology und Kommunikation
 description: Projektbeschreibung mit Keywords.
 left:
-  logo:
-    url: /assets/img/projects/Swisscom_logo1-150x150.png
-    width: 150
-    height: 150
   paragraphs:
-    - Swisscom ist das führende Telekommunikations- und eines der führenden IT-Unternehmen der Schweiz . Die Swisscom ist für viele Schweizer Kunden der vertrauenswürdige Begleiter in der digitalen Welt. Ziel von Swisscom ist es, Kunden mit dem besten Netz, ausgezeichneten Angeboten und hervorragendem Service zu begeistern. 
- 
-    - Technologischer Wandel, intensiver lokaler und globaler Wettbewerb und die sich verändernden Kundenbedürfnisse führen dazu, dass die Preise und Volumen im klassischen Geschäftsmodell mit nutzungsabhängigen Angeboten kontinuierlich erodieren. Mit einer langfristigen Strategie will Swisscom den Umsatz- und Ergebnisrückgang kompensieren, um die Finanzkraft für die hohen Investitionen in neue Technologien zu bewahren. Zu dieser Strategie zählt auch der Einsatz neuer und innovativen Technologien wie Big Data und NoSQL Informationssysteme. Scigility AG unterstützt das Big Data Delivery Team beim Aufbau von Komponenten wie das Sourcing von Daten in den Data Lake, ein generisches (ELT) Transformationswerkzeug auf Hadoop und Kafka, die Integration von Daten aus dem Data Lake in das Data Warehouse und einem globalen Delivery Framework für Big Data, welches auf agilen Continuous Integration Grundsätzen basiert. 
-
-    - Stefan Salvisberg, Head of BI and Big Data Delivery, Swisscom AG
+    - Für den Sektor Technologie und Kommunikation ist Big Data heute ein wichtiger Enabaler und ein wertvolles Asset. Scigility AG hilft Kunden in diesem Sektor Big Data optimal zu nutzen. Aber lassen wir doch unsere Kunden sprechen:
  
   more_projects:
-    - title: Retail Projekt
-      description: Projektbeschreibung Kurz mit Keywords hinterlegt.
-      url: /projects/retail
+    - title: Swisscom AG
+      description: Telekommunikaton, Data Lake, genersiches (ELT) Transformationsframework, Continuous Integration, Data Warehouse Integration
+      url: /projects/swisscom
 
 right:
   picture:
     url: /assets/img/projects/project1-picture.png
-  paragraphs:
+
 
 ---
