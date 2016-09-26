@@ -21,11 +21,6 @@ left:
   more_projects:
     - title: Retail Projekt
       description: Projektbeschreibung Kurz mit Keywords hinterlegt.
-      url: /projects/retail
-
-right:
-  picture:
-    url: /assets/img/projects/project1-picture.png
-  paragraphs:
+      url: /de/projects/retail
 
 ---
