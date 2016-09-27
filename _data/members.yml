@@ -1,41 +1,47 @@
-- name: James Bond
-  picture: /assets/members/1.jpg
-  position: CEO
-  email: james@example.com
-  linkedin: https://linkedin.com/james
+- name: Dr. Daniel Fasel
+  picture: /assets/members/dani.jpg
+  position: CEO, Memebr of the board of directors
+  email: df@scigility.com
+  linkedin: https://ch.linkedin.com/in/danielfasel
 
-- name: James Bond
-  picture: /assets/members/1.jpg
-  position: CEO
-  email: james@example.com
-  linkedin: https://linkedin.com/james
+- name: Prof. Dr. Philippe Cudré-Mauroux
+  picture: /assets/members/pcm.jpg
+  position: CTO, Memebr of the board of directors
+  email: pcm@scigility.com
+  linkedin: https://ch.linkedin.com/in/p-c-m
 
-- name: James Bond
-  picture: /assets/members/1.jpg
-  position: CEO
-  email: james@example.com
-  linkedin: https://linkedin.com/james
+- name: Christian Gügi
+  picture: /assets/members/christian.png
+  position: Sulution Architect, Managing Partner
+  email: christian.guegi@scigility.com
+  linkedin: https://ch.linkedin.com/in/cguegi
 
-- name: James Bond
-  picture: /assets/members/1.jpg
-  position: CEO
-  email: james@example.com
-  linkedin: https://linkedin.com/james
+- name: Gerd König
+  picture: /assets/members/gerd.png
+  position: Big Data Engineer, Managing Partner
+  email: gerd.koenig@scigility.com
+  linkedin: https://ch.linkedin.com/in/gerdkoenig
 
-- name: James Bond
-  picture: /assets/members/1.jpg
-  position: CEO
-  email: james@example.com
-  linkedin: https://linkedin.com/james
+- name: Olivier Heuberger
+  picture: /assets/members/olivier.png
+  position: Legal Counsel, Managing Partner
+  email: heuberger@scigility.com
+  linkedin: https://ch.linkedin.com/in/olivier-heuberger-götsch-7b52007b/en
 
-- name: James Bond
+- name: Pavlin Mavrodiev
   picture: /assets/members/1.jpg
-  position: CEO
-  email: james@example.com
-  linkedin: https://linkedin.com/james
+  position: Data Scientist, Big Data Engineer
+  email: pavlin.mavrodiev@scigility.com
+  linkedin: https://ch.linkedin.com/in/pavlinmavrodiev
 
-- name: James Bond
+- name: Dominic Egger
   picture: /assets/members/1.jpg
-  position: CEO
-  email: james@example.com
-  linkedin: https://linkedin.com/james
+  position: Software Engineer
+  email: dominic.egger@scigility.com
+  linkedin: https://ch.linkedin.com/in/dominic-egger-9ba181112
+
+- name: Marco Zucconelli
+  picture: /assets/members/1.jpg
+  position: Big Data System Engineer
+  email: marco.zucconelli@scigility.com
+  linkedin: https://ch.linkedin.com/in/marco-zucconelli-5ab8448b
