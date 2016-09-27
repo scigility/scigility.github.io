@@ -55,7 +55,7 @@ sections:
         - img: /assets/img/partners/t-systems.png
         - url: https://www.t-systems.com/ch/de
       - title: Oracle  
-        description: 
+        description: Oracle
   - title: Academy Partners
     description: Scigility ist überzeugt davon, dass wir unseren Kunden die besten Leistungen anbieten können, wenn wir mit guten Partnern zusammenarbeiten. Darum sind wir stets darum bestrebt ein gutes Netzwerk zu haben und arbeiten mit folgenden Unternehmungen zusammen.
     logos:
