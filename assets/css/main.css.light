@@ -1319,7 +1319,7 @@ button:active, .button:active {
   zoom: 1;
   border-bottom: 1px solid #ffffff;
   background-image: url("/assets/img/Breadcrump_bg.jpg");
-  text-transform: capitalize;
+  text-transform: uppercase;
   background-repeat: no-repeat;
   }
 
