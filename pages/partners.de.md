@@ -9,16 +9,23 @@ banner:
 
 sections:
   - title: Hadoop Enterprise Providers
-    description: Hortonworks bietet mit Hortonworks Data Platform und Hortonworks Data Flow zwei 100% Open Source Technologie Stacks für Ihre moderne Informationsplatform. Scigility gehört seit 2013 zu den Hortonworks System Integratoren und waren damit die ersten Hortonworkspartner in der Schweiz.
-    logos:
-      - img: /assets/img/partners/Hor_4cLogo_hr-300x113.jpg
-        url: http://example.com
+    description: Apche Hadoop gehört zu den bekanntesten Big Data Technologien. Mit den Enterprise Hadoop Distributionen haben Sie nicht nur Apache Hadoop, sondern eine breite Palette an Technologien, die sich in einem Big Data Stack vereinen. Scigility AG hat Partnerschaften mit allen grossen Enterprise Hadoop Distributoren. 
     subsections:
-      - title: Sample subsection
-        description: Sample description for 1st subsection
+      - title: Hortonworks
+        description: Hortonworks bietet mit Hortonworks Data Platform und Hortonworks Data Flow zwei 100% Open Source Technologie Stacks für Ihre moderne Informationsplattform. Scigility AG gehört seit 2013 zu den Hortonworks System Integratoren und waren damit die ersten Hortonworkspartner in der Schweiz.
         logos:
           - img: /assets/img/partners/Hor_4cLogo_hr-300x113.jpg
-            url: http://example.com
+            url: http://www.hortonworks.com
+      - title: Cloudera
+        description: Cloudera bietet eine moderne Plattform für Datenmanagement und Analytik an, welche schnell, einfach zu bedienen und sicher ist. Scigility AG ist seit 2015 Partner von Cloudera.
+        logos:
+          - img: /assets/img/partners/cloudera.png
+            url: http://www.cloudera.com
+      - title: MapR
+        description: MapR mit ihrere Converged Datenplattform befähigt Unternehmen neuen Vorteile und Wertschöpfung aus ihren Daten zu generieren. Scigility AG ist seit 2016 Partner von MapR.
+        logos:
+          - img: /assets/img/partners/mapr.png
+            url: http://www.mapr.com
 
   - title: Academy Partners
     description: Scigility ist überzeugt davon, dass wir unseren Kunden die besten Leistungen anbieten können, wenn wir mit guten Partnern zusammenarbeiten. Darum sind wir stets darum bestrebt ein gutes Netzwerk zu haben und arbeiten mit folgenden Unternehmungen zusammen.
