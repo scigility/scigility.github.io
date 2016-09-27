@@ -53,17 +53,17 @@ layout: default
             </div>
           </div>
         </div>
-        {% unless forloop.last %}
+        {% if forloop.last %}
         <div>
           <hr>
         </div>
-        {% endunless %}
+        {% endif %}
       {% endfor %}
-      {% unless forloop.last %}
+      {% if forloop.last %}
       <div>
         <hr>
       </div>
-      {% endunless %}
+      {% endif %}
     {% endfor %}
   </div>
 </div>
