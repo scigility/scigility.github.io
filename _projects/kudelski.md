@@ -20,7 +20,7 @@ right:
 
 Die Kudelski Gruppe ist ein globaler Leader im Bereich Digital Security und konvergente Media Lösungen. Kudelskis Technologien werden weltweit in verschiedenen Sektoren, wie Digital TV, Cyber Security und Public Access  eingesetzt und in vielen digitalen Produkten für Zugriffskontrolle und Rechte Management integriert.
 
-Kudelski setzt auf neue Big Data Technologien, um ihre Dienstleistungen zu verbessern und um neue, innovative Datenprodukte zu erschaffen. Dabei unterstützt Scigility Kudelski beim Aufbau der Datenplattform in folgenden Bereich:
+Kudelski setzt auf neue Big Data Technologien, um ihre Dienstleistungen zu verbessern und um neue, innovative Datenprodukte zu erschaffen. Dabei unterstützt Scigility Kudelski beim Aufbau der Datenplattform in folgenden Bereichen:
 
 * Definition der Technologien für eine globale Kudelski Datenplattform
 * Architektur der Kudelski Datenplattform
