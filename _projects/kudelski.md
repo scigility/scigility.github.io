@@ -13,9 +13,9 @@ left:
       url: /de/projects/retail
 right:
   picture:
-    url: /assets/img/projects/Swisscom_logo1-150x150.png
-    width: 150
-    height: 150
+    url: /assets/img/projects/kudelski.jpg
+    width: 300
+    height: 174
 ---
 
 Die Kudelski Gruppe ist ein globaler Leader im Bereich Digital Security und konvergente Media Lösungen. Kudelskis Technologien werden weltweit in verschiedenen Sektoren, wie Digital TV, Cyber Security und Public Access  eingesetzt und in vielen digitalen Produkten für Zugriffskontrolle und Rechte Management integriert.
