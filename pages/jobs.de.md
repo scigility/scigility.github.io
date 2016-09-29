@@ -6,5 +6,5 @@ ref: jobs
 lang: de
 banner:
   title: Offene Stellen
-subtitle: Zurzeit sind alle Stellen bei uns besetzt.
+subtitle: Wir suchen dich!
 ---
