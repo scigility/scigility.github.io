@@ -29,4 +29,5 @@ Kudelski setzt auf neue Big Data Technologien, um ihre Dienstleistungen zu verbe
 * Integration von neuen Business Applikationen in die Kudelski Datenplattform
 
 "Personal Statement"
+
 Olivier Brique, VP Advanced Infrastructure, Kudelski Group
