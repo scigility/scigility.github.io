@@ -13,7 +13,7 @@ sections:
       - title: Hortonworks
         description: Hortonworks bietet mit Hortonworks Data Platform und Hortonworks Data Flow zwei 100% Open Source Technologie Stacks für Ihre moderne Informationsplattform. Scigility gehört seit 2013 zu den Hortonworks System Integratoren und waren damit die ersten Hortonworkspartner in der Schweiz.
         logos:
-          - img: /assets/img/partners/Hor_4cLogo_hr-300x113.jpg
+          - img: /assets/img/partners/hortonworks.jpg
             url: http://www.hortonworks.com
       - title: Cloudera
         description: Cloudera bietet eine moderne Plattform für Datenmanagement und Analytik an, welche schnell, einfach zu bedienen und sicher ist.
