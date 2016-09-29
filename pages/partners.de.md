@@ -25,6 +25,7 @@ sections:
         logos:
           - img: /assets/img/partners/mapr.png
             url: http://www.mapr.com
+
   - title: NoSQL und Real Time Technologie Providers
     subsections:
       - title: Datastax
@@ -37,6 +38,7 @@ sections:
         logos:
           - img: /assets/img/partners/confluent.png
             url: http://www.confluent.io
+
   - title: Analytik und Visualisierung
     subsections:
       - title: Datameer
@@ -44,6 +46,7 @@ sections:
         logos:
           - img: /assets/img/partners/datameer.jpg
             url: http://www.datameer.com
+
   - title: Industriepartner
     subsections:
       - title: T-Systems
@@ -52,22 +55,22 @@ sections:
           - img: /assets/img/partners/t-systems.png
             url: https://www.t-systems.com/ch/de
       - title: Oracle  
-        description: Oracle
-  - title: Academy Partners
-    description: Scigility ist überzeugt davon, dass wir unseren Kunden die besten Leistungen anbieten können, wenn wir mit guten Partnern zusammenarbeiten. Darum sind wir stets darum bestrebt ein gutes Netzwerk zu haben und arbeiten mit folgenden Unternehmungen zusammen.
-    logos:
-      - img: /assets/img/partners/Hor_4cLogo_hr-300x1131.jpg
-        url: http://example.com
-      - img: /assets/img/partners/Logo_SEC_rgb-300x101.jpg
-        url: http://example.com
+        description: Oracle bietet bietet eine umfassende und voll integrierte Palette an Stack- und Cloud-Anwendungen, Plattform-Services und Engineered Systems. Viele Unternehmen, welche Big Data Technologien einsetzen, haben Oracle Systeme als Datenquellen und Datenkonsument. Scigility AG und Oracle arbeiten zusammen, um Ihnen die bestmögliche Integration von Big Data und Oracle Technologien zu gewährleisten.
+        logos:
+          - img: /assets/img/partners/oracle.png
+            url: https://www.oracle.com
+      - title:  SAP
+        description: Als einer der Marktführer bei Unternehmenssoftware hilft SAP Unternehmen und Organisationen dabei, die schädlichen Auswirkungen von Komplexität zu minimieren, neue Möglichkeiten für Innovation und Wachstum zu schaffen und im Wettbewerb erfolgreich zu sein. Scigiltiy AG hat sich spezialisiert auf die Integration von SAP HANA und Hadoop Umgebungen. Dabei arbeiten wir mit unseren SAP Partnern SEC1.01 zusammen. 
+        logos:
+          - img: /assets/img/partners/SAPMember_EBP_CG10_R_pos-300x66.jpg
+            url: https://www.sap.ch
+          - img: /assets/img/partners/Logo_SEC_rgb-300x101.jpg
+            url: http://www.sec101.ch
 
-  - title: Scigility Partners
-    description: Scigility ist überzeugt davon, dass wir unseren Kunden die besten Leistungen anbieten können, wenn wir mit guten Partnern zusammenarbeiten. Darum sind wir stets darum bestrebt ein gutes Netzwerk zu haben und arbeiten mit folgenden Unternehmungen zusammen.
+  - title: Academy Partners
+    description: Scigility ist überzeugt davon, dass wir unseren Kunden die besten Leistungen anbieten können, wenn wir mit guten Industrie- und Akademie-Partnern zusammenarbeiten. Darum sind wir stets darum bestrebt auch einen Beitrag in Forschung und Entwicklung von Big Data Technologien zu leisten. Mit dem Exascale Info Lab arbeitet Scigility auf einer täglichen Basis zusammen, damit wir unseren Kunden immer ein kompetenter Partner bei den neuesten Technologien und Methoden sind.
     logos:
-      - img: /assets/img/partners/SAPMember_EBP_CG10_R_pos-300x66.jpg
-        url: http://example.com
-      - img: /assets/img/partners/TER_4C_NOTAG-300x66.jpg
-        url: http://example.com
       - img: /assets/img/partners/xi_logo-300x82.jpg
-        url: http://example.com
+        url: http://exascale.info
+
 ---
