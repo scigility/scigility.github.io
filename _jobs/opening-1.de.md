@@ -29,4 +29,5 @@ Als einzigartiges Unternehmen vereint Scigility akademisches mit praktischem Wis
 Gestalte Deine Karriere bei Scigility: in einer Kultur, die Innovation und Eigenständigkeit fördert. Es erwartet Dich ein junges, professionelles Team in einem Umfeld, dass Dich durch Wissensaustausch, Flexibilität und Anerkennung ständig neue Türen öffnet.
 
 <b>Deine Bewerbung</b>
-Wir freuen uns auf Deine Bewerbung an <a href="mailto:jobs@scigility.com">Olivier Heuberger-Götsch</a>.
+
+Wir freuen uns auf Deine Bewerbung an Olivier Heuberger-Götsch.
