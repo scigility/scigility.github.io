@@ -8,9 +8,9 @@ title: Unterstützung BI und Big Data Delivery bei Swisscom
 description: Data Lake, Sourcing, generisches (ELT) Transformationswerkzeug, Delivery Framework für Big Data, Coninuous Integration
 left:
   other_projects:
-    - title: Retail Projekt
-      description: Retail Prjekt
-      url: /de/projects/retail
+    - title: Kudelski
+      description: Konzeption und Aufbau der Kudelski Data Plattform
+      url: /de/projects/kudelski
 right:
   picture:
     url: /assets/img/projects/Swisscom_logo1-150x150.png
