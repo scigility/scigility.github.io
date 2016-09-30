@@ -11,7 +11,7 @@ layout: default
     <section class="teaser-boxes -boxed">
       {% assign jobs=site.jobs | where:"lang", page.lang %}
       {% for job in jobs %}
-        <section class="teaser-boxes-item rs-column -large-col-2-1 -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last {% cycle "-large-first -medium-first-row -small-first-row", "-large-last" %} bottom-20">
+        <section class="teaser-boxes-item rs-column {% if jobs.size > 1 %}-large-col-2-1{% else %}-large-col-1-1{% endif %} -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last {% cycle "-large-first -medium-first-row -small-first-row", "-large-last" %} bottom-20">
           {{ job }}
         </section>
       {% endfor %}
