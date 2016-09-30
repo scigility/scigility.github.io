@@ -14,6 +14,7 @@ left:
 right:
   picture:
     url: /assets/img/projects/kudelski.jpg
+    link: https://www.nagra.com
     width: 300
     height: 174
 ---
