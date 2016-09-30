@@ -4,7 +4,7 @@
   address2:
   city: 8021 Zürich
   phone: +41 44 214 62 89
-  email: hallo@scigility.com
+  email: "&#104;&#x61;&#x6c;&#108;&#111;&#64;&#115;&#x63;&#x69;&#103;&#105;&#108;&#x69;&#x74;&#121;&#46;&#x63;&#111;&#x6d;"
   maps: https://maps.google.com/maps?key=&amp;q=47.379040%2C+8.532423&amp;z=16&amp;output=embed&amp;iwloc=near
 - name: Scigility AG
   alt_name: Marly
@@ -12,5 +12,5 @@
   address2:
   city: 1723 Marly
   phone: +41 44 214 62 89
-  email: hallo@scigility.com
+  email: "&#104;&#x61;&#x6c;&#108;&#111;&#64;&#115;&#x63;&#x69;&#103;&#105;&#108;&#x69;&#x74;&#121;&#46;&#x63;&#111;&#x6d;"
   maps: https://maps.google.com/maps?key=&amp;q=46.773830%2C+7.166038&amp;z=16&amp;output=embed&amp;iwloc=near
