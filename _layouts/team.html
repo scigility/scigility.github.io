@@ -7,7 +7,8 @@ layout: default
     {{ content }}
     <section class="team-boxes">
       {% for member in site.data.members %}
-        <div class="team-boxes-item rs-column -large-col-4-1 -medium-col-4-1 -small-col-1-1">
+        {% assign mod = forloop.index0 | modulo: 4 %}
+        <div class="{% if mod == 0 %}clear{% endif %} team-boxes-item rs-column -large-col-4-1 -medium-col-4-1 -small-col-1-1 team-div">
           <div class="image-wrapper">
             <img src="{{ member.picture | prepend: site.baseurl }}" width="400" height="600" alt="{{ member.name }}">
           </div>
