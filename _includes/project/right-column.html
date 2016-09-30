@@ -1,9 +1,11 @@
 <div class="ce_rs_column_start  rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
   {% if page.right.picture %}
     <div class="ce_image block">
+      {% if page.right.picture.link %}<a href="{{ page.right.picture.link }}" target="_blank">{% endif %}
       <figure class="image_container">
         <img src="{{ page.right.picture.url }}" width="{% if page.right.picture.width %}{{page.right.picture.width}}{% else %}500{% endif %}" height="{% if page.right.picture.height %}{{page.right.picture.height}}{% else %}250{% endif %}" alt="">
       </figure>
+      {% if page.right.picture.link %}</a>{% endif %}
     </div>
   {% endif %}
   {% for paragraph in page.right.paragraphs %}

@@ -1,9 +1,11 @@
 <div class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
   {% if page.left.logo.url %}
   <div class="ce_image block">
+    {% if page.left.logo.link %}<a href="{{ page.left.logo.link }}" target="_blank">{% endif %}
     <figure class="image_container" style="margin-right:auto;margin-left:auto;">
       <img src="{{ page.left.logo.url }}" width="{% if page.left.logo.width %}{{ page.left.logo.width }}{% else %}150{% endif %}" height="{% if page.left.logo.height %}{{ page.left.logo.height }}{% else %}148{% endif %}" alt="">
     </figure>
+    {% if page.left.logo.link %}</a>{% endif %}
   </div>
   {% endif %}
   <div class="ce_text block">
