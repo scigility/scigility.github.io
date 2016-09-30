@@ -6,25 +6,10 @@ layout: default
   <div class="centered-wrapper-inner">
     {% for section in page.sections %}
       <div class="rs-columns">
-        <div class="rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
+        <div class="rs-column -large-col-1-1 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
           <div class="ce_text block">
             <h1>{{ section.title }}</h1>
             <p>{{ section.description }}</p>
-          </div>
-        </div>
-        <div class="rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
-          <div class="ce_gallery block">
-            <ul class="cols_2">
-              {% for logo in section.logos %}
-                <li class="row_0 row_first even {% cycle section: 'col_0 col_first', 'col_1 col_last'%}">
-                  <a href="{{ logo.url }}" target="_blank">
-                    <figure class="image_container">
-                      <img src="{{ logo.img }}" width="350" height="150" alt="Partner logo">
-                    </figure>
-                  </a>
-                </li>
-              {% endfor %}
-            </ul>
           </div>
         </div>
       </div>

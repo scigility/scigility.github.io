@@ -29,7 +29,7 @@ sections:
   - title: NoSQL und Real Time Technologie Providers
     subsections:
       - title: Datastax
-        description: Datastax sind die treibende Kraft hinter Apache Cassandra. Mit der Datastax Enterprise Plattform erhalten Sie eine verteilte und hoch skalierbare NoSQL, Search und GraphDB Plattform an, welche über Rechenzentren hinweg verteilt werden kann. 
+        description: Datastax sind die treibende Kraft hinter Apache Cassandra. Mit der Datastax Enterprise Plattform erhalten Sie eine verteilte und hoch skalierbare NoSQL, Search und GraphDB Plattform an, welche über Rechenzentren hinweg verteilt werden kann.
         logos:
           - img: /assets/img/partners/datastax.png
             url: http://www.datastax.com
@@ -42,7 +42,7 @@ sections:
   - title: Analytik und Visualisierung
     subsections:
       - title: Datameer
-        description: Datameer bietet eine moderne BI Plattform aufbauend auf Hadoop an. Mit Datameer können Datenpipelines einfach aufgebaut werden. Dabei unterstützt Datameer sowohl das Einbinden von neuen Datenquellen, wie auch das Spreadsheet-ähnliche bearbeiten von Daten auf Hadoop. 
+        description: Datameer bietet eine moderne BI Plattform aufbauend auf Hadoop an. Mit Datameer können Datenpipelines einfach aufgebaut werden. Dabei unterstützt Datameer sowohl das Einbinden von neuen Datenquellen, wie auch das Spreadsheet-ähnliche bearbeiten von Daten auf Hadoop.
         logos:
           - img: /assets/img/partners/datameer.jpg
             url: http://www.datameer.com
@@ -54,13 +54,13 @@ sections:
         logos:
           - img: /assets/img/partners/t-systems.png
             url: https://www.t-systems.com/ch/de
-      - title: Oracle  
+      - title: Oracle
         description: Oracle bietet bietet eine umfassende und voll integrierte Palette an Stack- und Cloud-Anwendungen, Plattform-Services und Engineered Systems. Viele Unternehmen, welche Big Data Technologien einsetzen, haben Oracle Systeme als Datenquellen und Datenkonsument. Scigility und Oracle arbeiten zusammen, um Ihnen die bestmögliche Integration von Big Data und Oracle Technologien zu gewährleisten.
         logos:
           - img: /assets/img/partners/oracle.png
             url: https://www.oracle.com
       - title:  SAP
-        description: Als einer der Marktführer bei Unternehmenssoftware hilft SAP Unternehmen und Organisationen dabei, die schädlichen Auswirkungen von Komplexität zu minimieren, neue Möglichkeiten für Innovation und Wachstum zu schaffen und im Wettbewerb erfolgreich zu sein. Scigility hat sich spezialisiert auf die Integration von SAP HANA und Hadoop Umgebungen. Dabei arbeiten wir mit unseren SAP Partnern SEC1.01 zusammen. 
+        description: Als einer der Marktführer bei Unternehmenssoftware hilft SAP Unternehmen und Organisationen dabei, die schädlichen Auswirkungen von Komplexität zu minimieren, neue Möglichkeiten für Innovation und Wachstum zu schaffen und im Wettbewerb erfolgreich zu sein. Scigility hat sich spezialisiert auf die Integration von SAP HANA und Hadoop Umgebungen. Dabei arbeiten wir mit unseren SAP Partnern SEC1.01 zusammen.
         logos:
           - img: /assets/img/partners/sap.jpg
             url: https://www.sap.ch
