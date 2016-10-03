@@ -76,10 +76,4 @@ sections:
         logos:
           - img: /assets/img/partners/teradata.jpg
             url: https://www.teradata.ch
-
-  - title: Akademie & Forschung
-      subsections:
-        - title: Exascale Infolab
-          
-
 ---
