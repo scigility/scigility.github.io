@@ -4,7 +4,7 @@ permalink: /de/projects/logistic-transport
 ref: logistic-transport
 lang: de
 
-title: Logistik un Transport
+title: Logistik und Transport
 description: Projektbeschreibung mit Keywords.
 left:
   logo:
