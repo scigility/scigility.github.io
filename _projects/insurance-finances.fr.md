@@ -3,6 +3,7 @@ layout: project
 permalink: /fr/projects/assurances-finances
 ref: insurance-finances
 lang: fr
+main: true
 
 title: Insurance and Finances
 description: Projektbeschreibung mit Keywords.

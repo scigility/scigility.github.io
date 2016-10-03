@@ -1,7 +1,7 @@
 {% if page.slider %}
   <div class="slider">
     <div class="mod_rocksolid_slider main-slider block">
-    {% assign projects=site.projects | where:"lang", page.lang %}
+    {% assign projects=site.projects | where:"lang", page.lang | where:"main", true %}
     {% for project in projects %}
       <a href="{{ project.url }}" data-rsts-name="1" data-rsts-center="true" data-rsts-thumb="/assets/img/slides/slider{{ forloop.index0 | modulo:4 }}-w1920.jpg">
         <div class="centered-wrapper -color-inverted" style="background-size: contain; background-position: 50% 100%;">

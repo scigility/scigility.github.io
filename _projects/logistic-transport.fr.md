@@ -3,6 +3,7 @@ layout: project
 permalink: /fr/projects/logistique-transports
 ref: logistic-transport
 lang: fr
+main: true
 
 title: Logistique et transports
 description: Projektbeschreibung mit Keywords.

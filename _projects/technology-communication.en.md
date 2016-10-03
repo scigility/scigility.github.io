@@ -3,6 +3,7 @@ layout: project
 permalink: /en/projects/technology-communication
 ref: technology-communication
 lang: en
+main: true
 
 title: Technology and Communication
 description: Projektbeschreibung mit Keywords.

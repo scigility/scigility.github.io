@@ -3,6 +3,7 @@ layout: project
 permalink: /fr/projects/vente
 ref: retail
 lang: fr
+main: true
 
 title: Vente
 description: Projektbeschreibung mit Keywords.

@@ -5,7 +5,7 @@ layout: default
 <div class="centered-wrapper">
   <div class="centered-wrapper-inner">
     <section class="teaser-boxes">
-      {% assign projects=site.projects | where:"lang", page.lang %}
+      {% assign projects=site.projects | where:"lang", page.lang | where:"main", true %}
       {% for project in projects %}
         <section class="teaser-boxes-item rs-column -large-col-4-1 -large-first-row -medium-col-4-1 -medium-first-row -small-col-1-1 -small-first -small-last -align-center{% if forloop.first %} -small-first-row -medium-first -large-first{% endif %}{% if forloop.last %} -small-last-row -medium-last -large-last{% endif %}">
           {% if project.right.picture.url %}

@@ -3,6 +3,7 @@ layout: project
 permalink: /en/projects/retail
 ref: retail
 lang: en
+main: true
 
 title: Retail
 description: Projektbeschreibung mit Keywords.

@@ -17,7 +17,7 @@
     {% assign item=site.pages | where:"ref", "projects" | where:"lang", page.lang %}
     <a href="{{ item[0].url }}" title="{{ item[0].title }}" class="{% if page.ref == 'projects' %}trail {% endif %}submenu" aria-haspopup="true">{{ item[0].title }}</a>
     <ul class="level_2">
-      {% assign items=site.projects | where:"lang", page.lang %}
+      {% assign items=site.projects | where:"lang", page.lang | where:"main", true %}
       {% for item in items %}
         <li {% if forloop.last %}class="tagline-no-border last"{% endif %}>
           <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
@@ -52,7 +52,7 @@
           <a href="{{ item.url | prepend: site.baseurl }}">{{ item.lang | upcase }}</a>
         </li>
       {% endfor %}
-      {% assign items=site.projects | where:"ref", page.ref | sort: 'lang' %}
+      {% assign items=site.projects | where:"ref", page.ref | where:"main", true | sort: 'lang' %}
       {% for item in items %}
         <li {% if forloop.last %}class="tagline-no-border last"{% endif %}>
           <a href="{{ item.url | prepend: site.baseurl }}">{{ item.lang | upcase }}</a>

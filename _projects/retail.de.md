@@ -3,6 +3,7 @@ layout: project
 permalink: /de/projects/retail
 ref: retail
 lang: de
+main: true
 
 title: Retail
 description: Migros
@@ -11,7 +12,7 @@ left:
     - title: Migros
       description: MGB Big-Data-Plattform
       url: /de/projects/migros
-  
+
 right:
   picture:
     url: /assets/img/projects/project1-picture.png
