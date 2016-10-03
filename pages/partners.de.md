@@ -80,9 +80,6 @@ sections:
   - title: Akademie & Forschung
       subsections:
         - title: Exascale Infolab
-          description: Scigility ist überzeugt davon, dass wir unseren Kunden die besten Leistungen anbieten können, wenn wir mit guten Industrie- und Akademie-Partnern zusammenarbeiten. Darum sind wir stets darum bestrebt auch einen Beitrag in Forschung und Entwicklung von Big Data Technologien zu leisten. Mit dem Exascale Info Lab arbeitet Scigility auf einer täglichen Basis zusammen, damit wir unseren Kunden immer ein kompetenter Partner bei den neuesten Technologien und Methoden sind.
-          logos:
-            - img: /assets/img/partners/xi.jpg
-              url: http://exascale.info
+          
 
 ---
