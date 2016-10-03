@@ -84,4 +84,3 @@ sections:
         logos:
           - img: /assets/img/partners/xi.jpg
             url: http://exascale.info
----
