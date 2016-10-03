@@ -54,7 +54,11 @@ sections:
         logos:
           - img: /assets/img/partners/t-systems.png
             url: https://www.t-systems.com/ch/de
-
+      - title: HP Enterprise
+        description: Hewlett Packard ist seit über 75 Jahren im Bereich Innovationen tätig. HPs umfassendes Portfolio sind Teil einer Innovationsstrategie, die entwickelt wurde, um Organisationen aller Grössen – vom weltweit tätigen Konzern bis hin zum lokalen Startup-Unternehmen – bei der Transformation von traditionellen Technologieplattformen auf IT-Systeme der Zukunft zu unterstützen. Scigility und HP arbeiten gemeinsam um die digitale Transformation bei Kunden optimal voranzubringen.
+        logos:
+          - img: /assets/img/partners/hpe.png
+            url: https://www.hpe.com/de/de/home.html
       - title: Oracle
         description: Oracle bietet bietet eine umfassende und voll integrierte Palette an Stack- und Cloud-Anwendungen, Plattform-Services und Engineered Systems. Viele Unternehmen, welche Big Data Technologien einsetzen, haben Oracle Systeme als Datenquellen und Datenkonsument. Scigility und Oracle arbeiten zusammen, um Ihnen die bestmögliche Integration von Big Data und Oracle Technologien zu gewährleisten.
         logos:
