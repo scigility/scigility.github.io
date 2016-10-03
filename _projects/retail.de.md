@@ -5,7 +5,7 @@ ref: retail
 lang: de
 
 title: Retail
-description: Big Data im Retailbereich.
+description: Migros
 left:
   more_projects:
     - title: Migros
