@@ -8,6 +8,7 @@ title: Legal & Governance
 description: Der wichtigste Aspekt Ihrer modernen Informationsplattform ist rechltiche Sicherheit Datenmanagemen und Datengovernance. Unsere Architekten und Juristen unterstützen Sie bei diesen Fragenstellungen.
 ---
 
+## Legal & Governance
 
 Der wichtigste Aspekt Ihrer modernen Informationsplattform ist rechltiche Sicherheit und Datengovernance. Unsere Architekten und Juristen unterstützen Sie bei diesen Fragenstellungen. Unsere Jusristen sind spezailisert auf Schweizer und EU Datenschutzaspekte, ICT- und Vertragsrecht. Mit unseren Architekten zusammen können wir Ihnen somit eine Informationsplattform definieren, die nicht nur technisch umsetzbar ist, sondern von Anfang auch die rechtlichen Aspekte bei der Datenverarbeitung miteinbezieht. Unser Angebot für Sie beinhaltet:
 
