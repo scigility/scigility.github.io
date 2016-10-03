@@ -12,7 +12,7 @@
 
 - name: Christian Gügi
   picture: /assets/members/christian.png
-  position: Sulution Architect, Managing Partner
+  position: Big Data Sulution Architect, Managing Partner
   email: "&#x6d;&#x61;&#105;&#x6c;&#x74;&#x6f;&#x3a;&#x63;&#104;&#114;&#x69;&#115;&#x74;&#x69;&#97;&#110;&#x2e;&#103;&#117;&#x65;&#103;&#105;&#x40;&#x73;&#99;&#x69;&#103;&#x69;&#108;&#x69;&#116;&#121;&#46;&#x63;&#x6f;&#109;"
   linkedin: https://ch.linkedin.com/in/cguegi
 
@@ -36,7 +36,7 @@
 
 - name: Dominic Egger
   picture: /assets/members/1.jpg
-  position: Software Engineer
+  position: Big Data Software Engineer
   email: "&#109;&#x61;&#105;&#108;&#116;&#x6f;&#x3a;&#100;&#x6f;&#109;&#x69;&#110;&#x69;&#x63;&#46;&#101;&#x67;&#103;&#101;&#114;&#64;&#115;&#99;&#x69;&#x67;&#105;&#108;&#x69;&#116;&#x79;&#x2e;&#99;&#111;&#x6d;"
   linkedin: https://ch.linkedin.com/in/dominic-egger-9ba181112
 
@@ -45,3 +45,9 @@
   position: Big Data System Engineer
   email: "&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#58;&#109;&#97;&#114;&#x63;&#x6f;&#46;&#x7a;&#117;&#x63;&#x63;&#111;&#110;&#x65;&#108;&#108;&#x69;&#x40;&#x73;&#99;&#x69;&#103;&#105;&#x6c;&#105;&#116;&#x79;&#x2e;&#99;&#111;&#x6d;"
   linkedin: https://ch.linkedin.com/in/marco-zucconelli-5ab8448b
+  
+- name: Stefan Nüesch
+  picture: /assets/members/1.jpg
+  position: Big Data Software Engineer
+  email: "&#100;&#x74;&#101;&#102;&#97;&#x6e;&#46;&#x6e;&#117;&#101;&#101;&#115;&#99;&#104;&#x40;&#x73;&#x63;&#x69;&#103;&#x69;&#x6c;&#x69;&#116;&#121;&#x2e;&#99;&#111;&#109;"
+  linkedin: tbd
