@@ -15,9 +15,6 @@ left:
 right:
   picture:
     url: /assets/img/projects/project1-picture.png
-  paragraphs:
-    - some optional paragraph
-    - another optional paragraph
 ---
 
 Mit Big Data Technologien Produkte und Dienstleistungen spezifischer auf die Kundenbedürfnisse zugeschnitten werden und optimiert werden. Im Retailbereich bringen diese neuen Möglichkeiten einen grossen Wettbewerbsvorteil. Scigility hilft Ihnen diese Wettbewerbsvorteile zu schaffen und sich als digitaler zukunftsorientierter Mitbewerber auszurichten.
