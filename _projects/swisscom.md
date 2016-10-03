@@ -14,6 +14,7 @@ left:
 right:
   picture:
     url: /assets/img/projects/Swisscom_logo1-150x150.png
+    link: https://www.swisscom.ch/de/privatkunden.html
     width: 150
     height: 150
 ---

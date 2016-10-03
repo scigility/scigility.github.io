@@ -14,6 +14,7 @@ left:
 right:
   picture:
     url: /assets/img/projects/migros.png
+    link: https://www.migros.ch/de.html
     width: 414
     height: 122
 ---
