@@ -8,6 +8,8 @@ title: Installation, Betrieb & Schulung
 description: Wir helfen Ihnen Ihre Big Data Infrastrukturen aufzubauen und beim Betrieb solcher Infrastrukturen zu helfen. Wir bieten Ihnen sowohl theoretische Einführungen, wie auch praktische Trainings für Big Data Technologien an.
 ---
 
+## Installation, Betrieb & Schulung
+
 Unsere DevOps Spezialisten betreuen heute einige der grössten Hadoop Cluster Infrastrukturen in der Schweiz! Wir helfen Ihnen Ihre Big Data Infrastrukturen aufzubauen und beim Betrieb solcher Infrastrukturen zu helfen. Wir bieten Ihnen sowohl theoretische Einführungen, wie auch praktische Trainings für Big Data Technologien an. Dies beinhaltet:
 
 - Unsere DevOps Spezialisten bauen und betreuen Ihre Infrastruktur.
