@@ -5,12 +5,8 @@ ref: retail
 lang: de
 
 title: Retail
-description: Projektbeschreibung mit Keywords.
+description: Big Data im Retailbereich.
 left:
-  logo:
-    url: /assets/img/projects/project1-logo.png
-    width: 150
-    height: 148
   more_projects:
     - title: Migros
       description: MGB Big-Data-Plattform
