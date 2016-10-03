@@ -4,11 +4,11 @@ permalink: /de/architektur-konzeption/
 ref: architecture-conception
 lang: de
 
-title: Architektur und Konzeption
+title: Architektur & Konzeption
 description: Big Data Technologien sind vielfältig und komplex. Damit Sie sich nicht in dem Technologie-Chaos verlieren, helfen wir Ihnen bei Ihrer Konzeption und Architektur Ihrer modernen Informationsplattform.
 ---
 
-## Architektur und Konzeption
+## Architektur & Konzeption
 
 Big Data Technologien sind vielfältig und komplex. Damit Sie sich nicht in dem Technologie-Chaos verlieren, helfen wir Ihnen bei Ihrer Konzeption, Design und Architektur Ihrer modernen Informationsplattform. Dies beinhaltet:
 
