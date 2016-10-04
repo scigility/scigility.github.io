@@ -8,7 +8,7 @@ title: Kudelski Data Plattform
 description: Konzeption und Aufbau der Kudelski Data Plattform
 left:
   other_projects:
-    - title: Swisscom AG
+    - title: Details
       description: Unterstützung BI und Big Data Delivery bei Swisscom
       url: /de/projects/swisscom
 right:
