@@ -10,7 +10,7 @@ description: Swisscom AG, Kudelski
 left:
   logo:
   more_projects:
-    - title: Swisscom AG
+    - title: Lesen Sie mehr über unsere Unterstützung bei Swisscom
       description: Unterstützung BI und Big Data Delivery bei Swisscom
       url: /de/projects/swisscom
     - title: Kudelski
