@@ -13,8 +13,8 @@ left:
     - title: Details
       description: Unterstützung BI und Big Data Delivery bei Swisscom
       url: /de/projects/swisscom
-    - title: Kudelski
-      description: Details
+    - title: Details
+      description: Konzeption und Aufbau der Kudelski Data Plattform
       url: /de/projects/kudelski
 
 right:
