@@ -27,4 +27,7 @@ Am Mittwochnachmittag 19. Oktober findet organisieren Scigility und Datastax gem
 * 17:30 : Apero 
 
 ### Ort
-Scigility AG, Europaallee 41 8021 Zürich
+Scigility AG, Europaallee 41, 8021 Zürich
+
+### Anmeldung
+Für die Anmeldung kontaktieren sie uns &#99;&#111;&#110;&#116;&#x61;&#99;&#116;&#x40;&#x73;&#x63;&#105;&#x67;&#105;&#108;&#105;&#116;&#x79;&#46;&#x63;&#x6f;&#x6d;
