@@ -18,11 +18,11 @@ Am Mittwochnachmittag 19. Oktober findet organisieren Scigility und Datastax gem
 * 15:00-15:30: Begrüssung und Einführung (Dr. Daniel Fasel und Steve van den Berg)
 * 15:30-16:30: Scigility Use Cases mit Wide Column Stores und Echtzeitverarbeitung (Dr. Daniel Fasel)
 * 16:00-17:15: Datastax Präsentation (Negib Marhoul) inklusive:
-** Cassandra Architecture Overview
-** Data Modeling
-** DataStax Enterprise (DSE)
-** DataStax Enteprise Analytics and Search 
-** DataStax Enteprise  Graph 
+	* Cassandra Architecture Overview
+	* Data Modeling
+	* DataStax Enterprise (DSE)
+	* DataStax Enteprise Analytics and Search 
+	* DataStax Enteprise  Graph 
 * 17:15-17:30: Wrap-up and Q&A
 * 17:30 : Apero 
 
