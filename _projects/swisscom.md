@@ -8,7 +8,7 @@ title: Unterstützung BI und Big Data Delivery bei Swisscom
 description: Data Lake, Sourcing, generisches (ELT) Transformationswerkzeug, Delivery Framework für Big Data, Coninuous Integration
 left:
   other_projects:
-    - title: Kudelski
+    - title: Details
       description: Konzeption und Aufbau der Kudelski Data Plattform
       url: /de/projects/kudelski
 right:
