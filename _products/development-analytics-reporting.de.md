@@ -8,7 +8,7 @@ title: Entwicklung, Analytik & Reporting
 description: Haben Sie Ihre Big Data Infrastruktur aufgebaut helfen wir Ihnen Ihre neuen Datendienstleistungen und Datenprodukte zu realisieren.
 ---
 
-##Entwicklung, Analytik & Reporting
+## Entwicklung, Analytik & Reporting
 
 Haben Sie Ihre Big Data Infrastruktur aufgebaut helfen wir Ihnen Ihre neuen Datendienstleistungen und Datenprodukte zu realisieren. Unsere Entwickler bedienen sich aus einer breiten Palette von Technologien, wie Hadoop, HBase, Hive, Kafka, Spark, Cassandra, Neo4j und viele mehr. Ziel ist es Ihnen die Umsetzung mit der optimalen Technologie für Ihre Anforderungen zu implementieren. 
 
