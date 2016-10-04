@@ -9,8 +9,8 @@ title: Retail
 description: Migros
 left:
   more_projects:
-    - title: Migros
-      description: MGB Big-Data-Plattform
+    - title: Details
+      description: MGB Big-Data-Plattform bei Migros
       url: /de/projects/migros
 
 right:
