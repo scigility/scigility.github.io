@@ -3,12 +3,22 @@
   link_text: ICT Journal
   order: 1
 
-- title: SBB startet Big-Data-Vorprojekt
-  link: http://www.inside-it.ch/articles/36795
-  link_text: Inside IT
+- title: Springer Big Data - Grundlagen, Systeme und Nutzungspotenziale
+  link: http://www.springer.com/de/book/9783658115883
+  link_text: Springer
   order: 2
 
-- title: Bier neben Pampers erhöht den Umsatz
-  link: http://www.netzwoche.ch/news/2015-03-01/bier-neben-pampers-erhoeht-den-umsatz
-  link_text: Netzwoche
+- title: European Research Council has just awarded a grant of 2 million euros to Philippe Cudré-Mauroux
+  link: http://www.unifr.ch/news/en/15550/
+  link_text: Universtity of Fribourg
   order: 3
+
+- title: Prédire le futur grâce au Big Data - Prof. Dr. Philippe Cudré-Mauroux
+  link: https://www.migrosmagazine.ch/societe/portrait/article/predire-l-avenir-grace-aux-donnees-numeriques
+  link_text: Migors Magazine
+  order: 3
+
+- title: HMD Praxis der Wirtschaftsinformatik - Big Data
+  link: http://link.springer.com/article/10.1365/s40702-014-0054-8
+  link_text: Springer
+  order: 4
