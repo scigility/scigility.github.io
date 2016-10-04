@@ -8,7 +8,7 @@ title: MGB Big-Data-Plattform
 description: MGB Big-Data-Plattform
 left:
   other_projects:
-    - title: Swisscom AG
+    - title: Details
       description: Unterstützung BI und Big Data Delivery bei Swisscom
       url: /de/projects/swisscom
 right:
