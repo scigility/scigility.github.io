@@ -10,7 +10,7 @@ banner:
 
 ## Scigility und Datastax ein starkes Team
 
-Am Mittwochnachmittag 19. Oktober findet organisieren Scigility und Datastax gemeinsam eine Veranstaltung zum Thema DataStax Enterprise (DSE) und Apache Cassandra. Als Teilnehmer werden Sie exklusiv eine Übersicht über die Architektur von Cassandra und oeprative Use Cases erhalten. 
+Am Mittwochnachmittag 19. Oktober organisieren Scigility und Datastax gemeinsam eine Veranstaltung zum Thema DataStax Enterprise (DSE) und Apache Cassandra. Als Teilnehmer werden Sie exklusiv eine Übersicht über die Architektur von Cassandra und oeprative Use Cases erhalten. 
 
 ### Agenda
 
