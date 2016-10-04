@@ -73,6 +73,7 @@ github_username: scigility
 ## put here the "ref:" of each page, otherwise the multilang won't work
 quicklinks:
   - team
+  - media
 
 ## "Links" section
 footer_links:
