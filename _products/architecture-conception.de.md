@@ -17,4 +17,4 @@ Big Data Technologien sind vielfältig und komplex. Damit Sie sich nicht in dem 
 * Architektur und Konzeption einer modernen Informationsplattform mit SQL, NoSQL und Big Data Technologien
 * Integration der Big Data Architektur in existierende Infrastrukturen, Prozesse und Sicherheitsframeworks
 * Erarbeiten von Guidelines und neuer Prozessstrukturen
-* Definition Ihrer Big Data Roadmap definieren
+* Definition Ihrer Big Data Roadmap
