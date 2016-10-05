@@ -3,7 +3,7 @@ layout: project
 permalink: /de/projects/insurance-finances
 ref: project-name
 lang: de
-main: true
+main: false
 
 title: Versicherungen und Finanzsektor
 description: Projektbeschreibung mit Keywords.
