@@ -6,7 +6,7 @@ lang: de
 main: true
 
 title: Retail
-description: Migros
+description: Big-Data-Plattform bei Migros
 left:
   more_projects:
     - title: Details
@@ -18,4 +18,4 @@ right:
     url: /assets/img/projects/project1-picture.png
 ---
 
-Mit Big Data Technologien Produkte und Dienstleistungen spezifischer auf die Kundenbedürfnisse zugeschnitten werden und optimiert werden. Im Retailbereich bringen diese neuen Möglichkeiten einen grossen Wettbewerbsvorteil. Scigility hilft Ihnen diese Wettbewerbsvorteile zu schaffen und sich als digitaler zukunftsorientierter Mitbewerber auszurichten.
+Mit Big-Data-Technologien lassen sich Produkte und Dienstleistungen spezifischer auf Kundenbedürfnisse zuschneiden und optimieren. Im Retailbereich bringen diese neuen Möglichkeiten einen grossen Wettbewerbsvorteil. Scigility hilft Ihnen diese Wettbewerbsvorteile zu schaffen und sich als digitaler zukunftsorientierter Mitbewerber auszurichten.
