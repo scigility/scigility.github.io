@@ -21,7 +21,7 @@ t:
     our_services: Our services
     more_projects: More Projects
     details: Details
-    position: Position
+    #position: Position
     top_1st: go
     top_2nd: up
   fr:
@@ -33,7 +33,7 @@ t:
     more_projects: Plus de projets
     other_projects: Plus de projets
     details: Details
-    position: Titre
+    #position: Titre
     top_1st: En
     top_2nd: Haut
   de:
