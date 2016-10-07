@@ -5,7 +5,7 @@ ref: architecture-conception
 lang: de
 
 title: Architektur & Konzeption
-description: Wir arbeiten mit unseren Kunden eng zusammen, von der Konzeption bis hin zur Architektur, um eine auf Ihre Bedürfnisse zugeschnitte Informationsplattform sicherzustellen. Unser Expertenteam begleitet Sie in jeder Phase des Big-Data-Lebenszyklus. 
+description: Wir arbeiten mit unseren Kunden eng zusammen um eine auf Ihre Bedürfnisse zugeschnitte Informationsplattform sicherzustellen.
 ---
 
 ## Architektur & Konzeption
