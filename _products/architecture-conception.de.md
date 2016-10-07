@@ -5,7 +5,7 @@ ref: architecture-conception
 lang: de
 
 title: Architektur & Konzeption
-description: Big Data Technologien sind vielfältig und komplex. Damit Sie sich nicht in dem Technologie-Chaos verlieren, helfen wir Ihnen bei Ihrer Konzeption und Architektur Ihrer modernen Informationsplattform.
+description: Wir arbeiten mit unseren Kunden eng zusammen, von der Konzeption bis hin zur Architektur, um eine auf Ihre Bedürfnisse zugeschnitte Informationsplattform sicherzustellen. Unser Expertenteam begleitet Sie in jeder Phase des Big-Data-Lebenszyklus. 
 ---
 
 ## Architektur & Konzeption
