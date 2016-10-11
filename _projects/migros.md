@@ -11,7 +11,7 @@ left:
     - title: Details
       description: Unterstützung BI und Big Data Delivery bei Swisscom
       url: /de/projects/swisscom
-      picture:
+      logo:
         url: /assets/img/projects/migros.png
         link: https://www.migros.ch/de.html
         width: 414
