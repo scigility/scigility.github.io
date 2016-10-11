@@ -5,7 +5,7 @@ ref: kudelski-project
 lang: de
 
 title: Kudelski Data Plattform
-description: Konzeption und Aufbau der Kudelski Data Plattform
+description: Konzeption und Aufbau der Kudelski Data Platform
 left:
   logo:
     url: /assets/img/projects/kudelski.jpg
