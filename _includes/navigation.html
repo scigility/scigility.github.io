@@ -43,6 +43,7 @@
       {% endfor %}
     </ul>
   </li>
+  {% if site.enablelanguages = "true" %}
   <li class="bordernav submenu">
     <a title="Lang" class="bordernav last">{{ page.lang | upcase }}</a>
     <ul class="level_2">
@@ -66,4 +67,5 @@
       {% endfor %}
     </ul>
   </li>
+  {% endif %}
 </ul>
