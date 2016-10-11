@@ -9,7 +9,6 @@ description: MGB Big-Data-Plattform
 left:
   logo:
     url: /assets/img/projects/migros.png
-    link: https://www.migros.ch/de.html
     width: 414
     height: 122
   other_projects:
