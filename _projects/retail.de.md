@@ -10,7 +10,7 @@ description: Big-Data-Plattform bei Migros
 left:
   more_projects:
     - title: Details
-      description: Migros
+      description: Big-Data-Plattform bei Migros
       url: /de/projects/migros
 
 right:
