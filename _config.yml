@@ -10,6 +10,7 @@ description:
   fr: Blah blah
 
 defaultlanguage: "de"
+enabledlanguages: "de"
 
 # Translatable strings
 t:
@@ -90,8 +91,8 @@ footer_links:
 # Misc settings, you shouldn't have to change these
 index:
   de: index.de.html
-#  en: index.en.html
-#  fr: index.fr.html
+  en: index.en.html
+  fr: index.fr.html
 feed:
   en: /feed-en.xml
   fr: /feed-fr.xml
