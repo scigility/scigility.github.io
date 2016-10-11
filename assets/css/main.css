@@ -3320,6 +3320,7 @@ body.background-variation-2 {
   display: inline-block;
   vertical-align: top;
   width: 100%;
+  text-align: justify;
 }
 
 .rs-column {
