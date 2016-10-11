@@ -7,15 +7,16 @@ lang: de
 title: MGB Big-Data-Plattform
 description: MGB Big-Data-Plattform
 left:
+  logo:
+    url: /assets/img/projects/migros.png
+    link: https://www.migros.ch/de.html
+    width: 414
+    height: 122
   other_projects:
     - title: Details
       description: Unterstützung BI und Big Data Delivery bei Swisscom
       url: /de/projects/swisscom
-      logo:
-        url: /assets/img/projects/migros.png
-        link: https://www.migros.ch/de.html
-        width: 414
-        height: 122
+      
 ---
 
 Die 1925 durch den Schweizer Pionier Gottlieb Duttweiler gegründete Migros ist die grösste Detailhändlerin der Schweiz und genossenschaftlich organisiert. In den fünf strategischen Geschäftsfeldern Genossenschaftlicher Detailhandel, Handel, Industrie & Grosshandel, Finanzdienstleistungen sowie Reisen bietet die Migros ihren Kunden ein umfangreiches Angebot an Produkten und Dienstleistungen. Der Migros-Genossenschafts-Bund (MGB) repräsentiert die Migros-Gruppe gegen aussen und koordiniert die Geschäftspolitik, die Zielsetzung und die Tätigkeit der zehn Migros-Genossenschaften und angegliederten Unternehmen.
