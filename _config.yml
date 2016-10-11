@@ -13,17 +13,17 @@ defaultlanguage: "de"
 
 # Translatable strings
 t:
-  en:
-    home: Home
-    products_services: Products and Services
-    company: Company
-    contact: Contact
-    our_services: Our services
-    more_projects: More Projects
-    details: Details
-    #position: Position
-    top_1st: go
-    top_2nd: up
+#  en:
+#    home: Home
+#    products_services: Products and Services
+#    company: Company
+#    contact: Contact
+#    our_services: Our services
+#    more_projects: More Projects
+#    details: Details
+#    #position: Position
+#    top_1st: go
+#    top_2nd: up
   fr:
     home: Accueil
     products_services: Produits et services
