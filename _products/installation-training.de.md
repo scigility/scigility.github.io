@@ -3,9 +3,12 @@ layout: product
 permalink: /de/installation-betrieb-schulung/
 ref: installation-training
 lang: de
+main: true
 
 title: Installation, Betrieb & Schulung
 description: Wir helfen Ihnen Ihre Big Data Infrastrukturen aufzubauen und beim Betrieb solcher Infrastrukturen zu helfen. Wir bieten Ihnen sowohl theoretische Einführungen, wie auch praktische Trainings für Big Data Technologien an.
+picture:
+  url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_2.jpg
 ---
 
 ## Installation, Betrieb & Schulung

@@ -2,10 +2,11 @@
   <li class="{% if '/{{page.lang}}' == page.url %}trail {% endif %}home tagline-no-border">
     <a href="{{ page.lang | replace:site.defaultlanguage,'' | prepend: '/' | prepend: site.baseurl | prepend: site.url }}" title="{{ site.t[page.lang].home }}" class="{% if '/{{page.lang}}' == page.url %}trail {% endif %}home tagline-no-border">{{ site.t[page.lang].home }}</a>
   </li>
-  <li class="{% if page.layout == 'product' %}trail {% endif %}submenu">
-    <a title="{{ site.t[page.lang].products_services }}" class="{% if page.layout == 'product' %}trail {% endif %}submenu" aria-haspopup="true">{{ site.t[page.lang].products_services }}</a>
+  <li class="submenu">
+    {% assign item=site.pages | where:"ref", "products" | where:"lang", page.lang %}
+    <a href="{{ item[0].url }}" title="{{ item[0].title }}" class="{% if page.ref == 'products' %}trail {% endif %}submenu" aria-haspopup="true">{{ item[0].title }}</a>
     <ul class="level_2">
-      {% assign items=site.products | where:"lang", page.lang %}
+      {% assign items=site.products | where:"lang", page.lang | where:"main", true %}
       {% for item in items %}
         <li {% if forloop.last %}class="tagline-no-border last"{% endif %}>
           <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>

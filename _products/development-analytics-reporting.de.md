@@ -3,9 +3,12 @@ layout: product
 permalink: /de/entwicklung-analytik-reporting/
 ref: dev-analytics-reporting
 lang: de
+main: true
 
 title: Entwicklung, Analytik & Reporting
 description: Haben Sie Ihre Big Data Infrastruktur aufgebaut helfen wir Ihnen Ihre neuen Datendienstleistungen und Datenprodukte zu realisieren.
+picture:
+  url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_3.jpg
 ---
 
 ## Entwicklung, Analytik & Reporting

@@ -3,9 +3,12 @@ layout: product
 permalink: /en/architecture-conception/
 ref: architecture-conception
 lang: en
+main: true
 
 title: Architecture & Conception
-description: We support you in finding the optimal architecture and concept for your Big Data challenges 
+description: We support you in finding the optimal architecture and concept for your Big Data challenges
+picture:
+  url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_4.jpg
 ---
 
 ## Architecture and Conception

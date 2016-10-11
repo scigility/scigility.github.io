@@ -3,9 +3,12 @@ layout: product
 permalink: /de/legal-governance/
 ref: legal-governance
 lang: de
+main: true
 
 title: Legal & Governance
 description: Der wichtigste Aspekt Ihrer modernen Informationsplattform ist rechltiche Sicherheit Datenmanagemen und Datengovernance. Unsere Architekten und Juristen unterstützen Sie bei diesen Fragenstellungen.
+picture:
+  url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_1.jpg
 ---
 
 ## Legal & Governance

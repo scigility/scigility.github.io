@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="centered-wrapper">
+  <div class="centered-wrapper-inner">
+    <section class="teaser-boxes">
+      {% assign products=site.products | where:"lang", page.lang | where:"main", true %}
+      {% for product in products %}
+        <section class="teaser-boxes-item rs-column -large-col-4-1 -large-first-row -medium-col-4-1 -medium-first-row -small-col-1-1 -small-first -small-last -align-center{% if forloop.first %} -small-first-row -medium-first -large-first{% endif %}{% if forloop.last %} -small-last-row -medium-last -large-last{% endif %}">
+          {% if product.picture.url %}
+            <a class="image-wrapper" href="{{ product.url }}">
+              <img src="{{ product.picture.url }}" width="{% if product.picture.width %}{{product.picture.width}}{% else %}500{% endif %}" height="{% if product.picture.height %}{{product.picture.height}}{% else %}250{% endif %}" alt="">
+            </a>
+          {% endif %}
+          <h3>{{ product.title }}</h3>
+          <div class="teaser-boxes-item-text">
+            <p>{{ product.description }}</p>
+          </div>
+          <a href="{{ product.url }}">{{ site.t[page.lang].details  }}</a>
+        </section>
+      {% endfor %}
+    </section>
+  </div>
+</div>

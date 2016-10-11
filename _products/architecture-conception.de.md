@@ -3,9 +3,12 @@ layout: product
 permalink: /de/architektur-konzeption/
 ref: architecture-conception
 lang: de
+main: true
 
 title: Architektur & Konzeption
 description: Wir arbeiten mit unseren Kunden eng zusammen um eine auf Ihre Bedürfnisse zugeschnitte Informationsplattform sicherzustellen.
+picture:
+  url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_4.jpg
 ---
 
 ## Architektur & Konzeption
