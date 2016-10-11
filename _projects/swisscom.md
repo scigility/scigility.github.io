@@ -7,7 +7,7 @@ lang: de
 title: Unterstützung BI und Big Data Delivery bei Swisscom
 description: Data Lake, Sourcing, generisches (ELT) Transformationswerkzeug, Delivery Framework für Big Data, Coninuous Integration
 left:
-  picture:
+  logo:
     url: /assets/img/projects/Swisscom_logo1-150x150.png
     link: https://www.swisscom.ch/de/privatkunden.html
     width: 150
