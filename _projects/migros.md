@@ -26,4 +26,5 @@ Die neue Plattform ermöglicht auch den Umgang mit aktuellen und zukünftigen An
  
 > Mit Scigility haben wir einen zuverlässigen und vertrauenswürdigen Partner gefunden, der uns seit der ersten Stunde zum Thema Big-Data inkl. den notwendigen Technologien unterstützt. Sowohl bei der Konzeption, dem Aufbau der Architektur sowie auch bei der Problemlösung und der Umsetzung von diversen Datenverarbeitungen konnten wir von ihrem Fachwissen profitieren. Mit Ihnen zusammen sind wir in der Lage, zukünftige Business-Anforderungen schnell zu implementieren.
 > 
+
 Renato Walliser, Leiter Data Management New Technologies, MGB
