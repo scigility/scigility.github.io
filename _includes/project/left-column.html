@@ -1,4 +1,8 @@
+{% if page.right %}
 <div class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
+{% else %}
+<div class="ce_rs_column_start  rs-column -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row"> 
+{% endif %}
   {% if page.left.logo.url %}
   <div class="ce_image block">
     {% if page.left.logo.link %}<a href="{{ page.left.logo.link }}" target="_blank">{% endif %}
