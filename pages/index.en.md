@@ -1,7 +1,7 @@
 ---
 layout: index
 ref: index
-lang: en
+# lang: en
 slider: true
 permalink: /en/
 ---
