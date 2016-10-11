@@ -6,7 +6,7 @@ lang: de
 main: true
 
 title: Retail
-description: Big-Data-Plattform bei Migros
+description: Migros
 left:
   more_projects:
     - title: Details
