@@ -401,6 +401,7 @@ body {
   display: inline-block;
   vertical-align: top;
   width: 100%;
+  text-align: justify;
 }
 
 .rs-column {
