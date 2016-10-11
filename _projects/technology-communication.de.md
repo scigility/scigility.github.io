@@ -6,7 +6,7 @@ lang: de
 main: true
 
 title: Technologie und Kommunikation
-description: Swisscom AG, Kudelski
+description: Unterstützung Swisscom AG, Kudelski Data Platform
 left:
   logo:
   more_projects:
@@ -14,7 +14,7 @@ left:
       description: Unterstützung BI und Big Data Delivery bei Swisscom
       url: /de/projects/swisscom
     - title: Details
-      description: Konzeption und Aufbau der Kudelski Data Plattform
+      description: Konzeption und Aufbau der Kudelski Data Platform
       url: /de/projects/kudelski
 
 right:
