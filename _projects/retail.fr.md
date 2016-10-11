@@ -21,7 +21,7 @@ left:
       url: /projects/project-name
 right:
   picture:
-    url: /assets/img/projects/project1-picture.png
+    url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_2.jpg
   paragraphs:
     - some optional paragraph
     - another optional paragraph
