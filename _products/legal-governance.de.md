@@ -18,9 +18,9 @@ Der wichtigste Aspekt Ihrer modernen Informationsplattform ist rechltiche Sicher
 -	Rechts- und Compliance-Beratung 
 -	Umsetzung von regulatorischen branchenspezifischen Vorgaben
 -	Wir beraten und unterstützen Sie beispielsweise bei der Umsetzung von ICT- und Datenschutzaspekten in der Schweiz und der EU, zu immaterialgüter- und wettbewerbsrechtlichen Fragestellungen oder zu Themen der Geldwäscherei und Internetkriminalität
--	Wir erarbeiten für Sie verständliche und technisch umsetzbare sowie betrieblich sinnvolle Guidlines, Direktiven und Controlling-Prozesse
+-	Wir erarbeiten für Sie verständliche und technisch umsetzbare sowie betrieblich sinnvolle Guidelines, Direktiven und Controlling-Prozesse
 -	Projektentwicklung und Implementierung eines stringenten Daten Managements
 -	Entwicklung und Implementierung rechtlicher und technisch abgestimmter sowie auditierbarer Data Governance Prozessen
 -	Wir entwickeln Ihre Informationsplattform und Applikationen sicher und konform mit den relevanten datenschutzrechtlichen- und branchenspezifischen regulatorischer Bestimmungen
--	Wir erstellen Risikoanalysen und evaluieren Risiken, wie das Reputationsrisiko für Ihre Informationsplattform und zeigen Ihnen sowohl technische als auch nicht technische Massnahmen um diese Risiken zu vermeiden
+-	Wir erstellen Risikoanalysen und evaluieren Risiken, wie das Reputationsrisiko für Ihre Informationsplattform und zeigen Ihnen sowohl technische als auch nicht-technische Massnahmen um diese Risiken zu vermeiden
 
