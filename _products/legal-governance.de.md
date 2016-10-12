@@ -6,14 +6,14 @@ lang: de
 main: true
 
 title: Legal & Governance
-description: Der wichtigste Aspekt Ihrer modernen Informationsplattform ist rechltiche Sicherheit Datenmanagemen und Datengovernance. Unsere Architekten und Juristen unterstützen Sie bei diesen Fragenstellungen.
+description: Der wichtigste Aspekt Ihrer modernen Informationsplattform ist rechltiche Sicherheit, Datenmanagement und Datengovernance. Unsere Architekten und Juristen unterstützen Sie bei diesen Fragenstellungen.
 picture:
   url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_1.jpg
 ---
 
 ## Legal & Governance
 
-Der wichtigste Aspekt Ihrer modernen Informationsplattform ist rechltiche Sicherheit und Datengovernance. Bei der Projektentwicklung und Implementierung unterstützen wir Sie zu diesen Fragenstellungen. Unsere Juristen beraten Sie zu Rechts- und Compliance-Themen und unterstützen Sie bei der Umsetzung regulatorischer Vorgaben. Zusammen mit unseren Architekten definieren wir somit eine Informationsplattform, die nicht nur technisch umsetzbar ist, sondern von Anfang an die rechtlichen Aspekte bei der Datenverarbeitung miteinbezieht. Unser Angebot für Sie beinhaltet:
+Der wichtigste Aspekt Ihrer modernen Informationsplattform ist rechltiche Sicherheit, Datenmanagement und Datengovernance. Bei der Projektentwicklung und Implementierung unterstützen wir Sie zu diesen Fragenstellungen. Unsere Juristen beraten Sie zu Rechts- und Compliance-Themen und unterstützen Sie bei der Umsetzung regulatorischer Vorgaben. Zusammen mit unseren Architekten definieren wir somit eine Informationsplattform, die nicht nur technisch umsetzbar ist, sondern von Anfang an die rechtlichen Aspekte der Datenverarbeitung miteinbezieht. Unser Angebot für Sie beinhaltet:
 
 -	Rechts- und Compliance-Beratung 
 -	Umsetzung von regulatorischen branchenspezifischen Vorgaben
