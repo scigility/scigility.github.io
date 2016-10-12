@@ -25,5 +25,4 @@ Der MGB nutzt eine Big-Data-Plattform (Data Lake), um verschiedenste Einsatzzwec
 Die neue Plattform ermöglicht auch den Umgang mit aktuellen und zukünftigen Anforderungen und gewährleistet ein optimales Zusammenspiel von Batch- und Echtzeitverarbeitung. So ist die Architektur flexibel genug, um Technologien gegeneinander auszutauschen und stellt damit eine effiziente, fortschrittliche Suche, Analyse und Exploration der Daten sicher.
  
 > Mit Scigility haben wir einen zuverlässigen und vertrauenswürdigen Partner gefunden, der uns seit der ersten Stunde zum Thema Big-Data inkl. den notwendigen Technologien unterstützt. Sowohl bei der Konzeption, dem Aufbau der Architektur sowie auch bei der Problemlösung und der Umsetzung von diversen Datenverarbeitungen konnten wir von ihrem Fachwissen profitieren. Mit Ihnen zusammen sind wir in der Lage, zukünftige Business-Anforderungen schnell zu implementieren.
-
-Renato Walliser, Leiter Data Management New Technologies, MGB
+> Renato Walliser, Leiter Data Management New Technologies, MGB
