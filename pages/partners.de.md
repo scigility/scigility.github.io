@@ -53,34 +53,34 @@ sections:
         description: T-Systems bietet in der Schweiz eine Hadoop Cloud Lösung an. Mit dieser Lösung können Unternehmen ein bare-metal Hadoop Cluster in einem PaaS Angebot erhalten, welches neben optimaler Anbindung an das Kundennetzwerk auch garantiert, dass Ihre Daten nur auf dedizierter Hardware für Sie in der Schweiz liegt. Scigility und T-Systems arbeiten eng zusammen, um diese PaaS optimal für Sie einzusetzen.
         logos:
           - img: /assets/img/partners/t-systems.png
-            url: https://www.t-systems.com/ch/de
+            url: http://www.t-systems.com/ch/de
       - title: HP Enterprise
         description: Hewlett Packard ist seit über 75 Jahren im Bereich Innovationen tätig. HPs umfassendes Portfolio sind Teil einer Innovationsstrategie, die entwickelt wurde, um Organisationen aller Grössen – vom weltweit tätigen Konzern bis hin zum lokalen Startup-Unternehmen – bei der Transformation von traditionellen Technologieplattformen auf IT-Systeme der Zukunft zu unterstützen. Scigility und HP arbeiten gemeinsam um die digitale Transformation bei Kunden optimal voranzubringen.
         logos:
           - img: /assets/img/partners/hpe.png
-            url: https://www.hpe.com/de/de/home.html
+            url: http://www.hpe.com/de/de/home.html
       - title: Oracle
         description: Oracle bietet bietet eine umfassende und voll integrierte Palette an Stack- und Cloud-Anwendungen, Plattform-Services und Engineered Systems. Viele Unternehmen, welche Big Data Technologien einsetzen, haben Oracle Systeme als Datenquellen und Datenkonsument. Scigility und Oracle arbeiten zusammen, um Ihnen die bestmögliche Integration von Big Data und Oracle Technologien zu gewährleisten.
         logos:
           - img: /assets/img/partners/oracle.png
-            url: https://www.oracle.com
+            url: http://www.oracle.com
       - title:  SAP
         description: Als einer der Marktführer bei Unternehmenssoftware hilft SAP Unternehmen und Organisationen dabei, die schädlichen Auswirkungen von Komplexität zu minimieren, neue Möglichkeiten für Innovation und Wachstum zu schaffen und im Wettbewerb erfolgreich zu sein. Scigility hat sich spezialisiert auf die Integration von SAP HANA und Hadoop Umgebungen. Dabei arbeiten wir mit unseren SAP Partnern SEC1.01 zusammen.
         logos:
           - img: /assets/img/partners/sap.jpg
-            url: https://www.sap.ch
+            url: http://www.sap.ch
           - img: /assets/img/partners/sec101.jpg
             url: http://www.sec101.ch
       - title:  Edorex
         description: Edorex ist ein Schweizer Solution Integrator. Mit Edorex zusammen erarbeitet Scigility innovative, datengetriebene Lösungen für unsere Kunden.
         logos:
           - img: /assets/img/partners/edorex.png
-            url: https://www.edorex.ch
+            url: http://www.edorex.ch
       - title:  Teradata
         description: Teradata bietet End-to-End-Data Warehousing Services sowie Lösungen für Big Data Analytics, mit denen Sie zu einem datenbasierten Unternehmen avancieren und so Ihren Umsatz steigern, die Effizienz erhöhen und überzeugende Kundenerfahrungen bewirken können. Scigility arbeitet mit Teradata zusammen um Hadoop, Teradata Data Warehouse und Teradata AsterData bestmöglich zu integrieren.
         logos:
           - img: /assets/img/partners/teradata.jpg
-            url: https://www.teradata.ch
+            url: http://www.teradata.ch
   
   - title: Akademie und Forschung
     subsections:
