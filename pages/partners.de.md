@@ -34,7 +34,7 @@ sections:
           - img: /assets/img/partners/datastax.png
             url: http://www.datastax.com
       - title: Confluent.io
-        description: Confluent wurde von den Machern von Apache Kafka gegründet. Confluent bietet eine Echtzeitverarbeitungsplattform an, welche es erlaubt Unternehmungen die maximale Wertschöpfung aus ihren Datenströmen zu generieren. Scigility ist seit 2016 Partner von Confluent.
+        description: Confluent wurde von den Machern von Apache Kafka gegründet. Confluent bietet eine Echtzeitverarbeitungsplattform an, welche es Unternehmungen erlaubt die maximale Wertschöpfung aus Datenströmen zu generieren. Scigility ist seit 2016 Partner von Confluent.
         logos:
           - img: /assets/img/partners/confluent.png
             url: http://www.confluent.io
@@ -42,7 +42,7 @@ sections:
   - title: Analytik und Visualisierung
     subsections:
       - title: Datameer
-        description: Datameer bietet eine moderne BI Plattform aufbauend auf Hadoop an. Mit Datameer können Datenpipelines einfach aufgebaut werden. Dabei unterstützt Datameer sowohl das Einbinden von neuen Datenquellen, wie auch das Spreadsheet-ähnliche bearbeiten von Daten auf Hadoop.
+        description: Datameer bietet eine moderne BI Plattform aufbauend auf Hadoop an. Mit Datameer können Datenpipelines einfach erstellt werden. Dabei unterstützt Datameer sowohl das Einbinden von neuen Datenquellen, wie auch das Spreadsheet-ähnliche Bearbeiten von Daten auf Hadoop.
         logos:
           - img: /assets/img/partners/datameer.jpg
             url: http://www.datameer.com
@@ -60,7 +60,7 @@ sections:
           - img: /assets/img/partners/hpe.png
             url: http://www.hpe.com/de/de/home.html
       - title: Oracle
-        description: Oracle bietet bietet eine umfassende und voll integrierte Palette an Stack- und Cloud-Anwendungen, Plattform-Services und Engineered Systems. Viele Unternehmen, welche Big Data Technologien einsetzen, haben Oracle Systeme als Datenquellen und Datenkonsument. Scigility und Oracle arbeiten zusammen, um Ihnen die bestmögliche Integration von Big Data und Oracle Technologien zu gewährleisten.
+        description: Oracle bietet bietet eine umfassende und voll integrierte Palette an Stack- und Cloud-Anwendungen, Plattform-Services und Engineered Systems. Viele Unternehmen, welche Big Data Technologien einsetzen, haben Oracle Systeme als Datenquellen und Datenkonsumenten. Scigility und Oracle arbeiten zusammen, um Ihnen die bestmögliche Integration von Big Data und Oracle Technologien zu gewährleisten.
         logos:
           - img: /assets/img/partners/oracle.png
             url: http://www.oracle.com
@@ -85,7 +85,7 @@ sections:
   - title: Akademie und Forschung
     subsections:
       - title: Exascale Infolab
-        description: Scigility ist überzeugt davon, dass wir unseren Kunden die besten Leistungen anbieten können, wenn wir mit guten Industrie- und Akademie-Partnern zusammenarbeiten. Darum sind wir stets darum bestrebt auch einen Beitrag in Forschung und Entwicklung von Big Data Technologien zu leisten. Mit dem Exascale Info Lab arbeitet Scigility auf einer täglichen Basis zusammen, damit wir unseren Kunden immer ein kompetenter Partner bei den neuesten Technologien und Methoden sind.
+        description: Scigility ist überzeugt davon, dass wir unseren Kunden die besten Leistungen anbieten können, wenn wir mit guten Industrie- und Akademie-Partnern zusammenarbeiten. Darum sind wir stets darum bestrebt auch einen Beitrag in Forschung und Entwicklung von Big Data Technologien zu leisten. Mit dem Exascale Info Lab arbeitet Scigility auf einer täglichen Basis zusammen, damit wir für unsere Kunden immer ein kompetenter Partner bei den neuesten Technologien und Methoden sind.
         logos:
           - img: /assets/img/partners/xi.jpg
             url: http://exascale.info
