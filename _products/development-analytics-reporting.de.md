@@ -13,7 +13,7 @@ picture:
 
 ## Entwicklung, Analytik & Reporting
 
-Haben Sie Ihre Big Data Infrastruktur aufgebaut helfen wir Ihnen Ihre neuen Datendienstleistungen und Datenprodukte zu realisieren. Unsere Entwickler bedienen sich aus einer breiten Palette von Technologien, wie Hadoop, HBase, Hive, Kafka, Spark, Cassandra, Neo4j und viele mehr. Ziel ist es Ihnen die Umsetzung mit der optimalen Technologie für Ihre Anforderungen zu implementieren. 
+Unsere Entwickler bedienen sich aus einer breiten Palette von Technologien wie Hadoop, HBase, Hive, Kafka, Spark, Cassandra, Neo4j und vielen mehr um Ihre Applikationen optimal zu realisieren. Ziel ist es Ihre Anforderungen mit der optimalen Technologie umzusetzen. 
 
 Wir unterstützen Sie bei der Entwicklung nativer Big Data Applikationen, beim Analysieren Ihrer Daten und beim Aufbau von Reporting Lösungen. Dies beinhaltet:
 
