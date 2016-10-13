@@ -17,7 +17,7 @@ Bei der Projektentwicklung und Implementierung unterstützen wir Sie zu rechtlic
 
 -	Rechts- und Compliance-Beratung 
 -	Umsetzung von regulatorischen branchenspezifischen Vorgaben
--	Wir beraten und unterstützen Sie bei der Umsetzung von ICT- und Datenschutzaspekten in der Schweiz und der EU, zu immaterialgüter- und wettbewerbsrechtlichen Fragestellungen oder zu Themen der Geldwäscherei und Internetkriminalität
+-	Wir beraten und unterstützen Sie bei der Umsetzung von ICT- und Datenschutzaspekten in der Schweiz und der EU, zu immaterialgüter- und wettbewerbsrechtlichen Fragestellungen oder zu Themen der Geldwäscherei und Internetkriminalität.
 -	Wir erarbeiten für Sie verständliche und technisch umsetzbare sowie betrieblich sinnvolle Guidelines, Direktiven und Controlling-Prozesse.
 -	Projektentwicklung und Implementierung eines stringenten Daten Managements
 -	Entwicklung und Implementierung rechtlicher und technisch abgestimmter sowie auditierbarer Data Governance Prozessen
