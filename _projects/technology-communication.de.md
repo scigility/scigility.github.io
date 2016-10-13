@@ -22,4 +22,4 @@ right:
     url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_1.jpg
 ---
 
-Für den Sektor Technologie und Kommunikation ist Big Data heute ein wichtiger Enabler und ein wertvolles Asset. Scigility hilft Kunden in diesem Sektor Big Data optimal zu nutzen.
+Für den Sektor Technologie und Kommunikation ist Big Data heute ein wichtiger Enabler und Daten sind ein wertvolles Asset. Scigility hilft Kunden in diesem Sektor Big Data optimal zu nutzen.
