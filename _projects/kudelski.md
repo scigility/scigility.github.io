@@ -28,6 +28,4 @@ Kudelski setzt auf neue Big Data Technologien, um ihre Dienstleistungen zu verbe
 * Datensicherheit, Datenmanagement und Daten Governance auf der Kudelski Datenplattform
 * Integration von neuen Business Applikationen in die Kudelski Datenplattform
 
-"Personal Statement"
-
 Olivier Brique, VP Advanced Infrastructure, Kudelski Group
