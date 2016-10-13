@@ -6,7 +6,7 @@ lang: de
 main: true
 
 title: Installation, Betrieb & Schulung
-description: Wir helfen Ihnen Ihre Big Data Infrastrukturen aufzubauen und diese produktiv und sicher zu betreiben. Wir bieten Ihnen sowohl theoretische Einführungen, wie auch praktische Trainings für Big Data Technologien an.
+description: Wir helfen Ihnen Ihre Big Data Infrastrukturen aufzubauen und diese produktiv und sicher zu betreiben. Wir schulen Sie und bereiten Ihre Mitarbeiter auf die neuen Herausforderungen vor.
 picture:
   url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_2.jpg
 ---
