@@ -54,7 +54,7 @@ t:
 ## put here the "ref:" of each page, otherwise the multilang won't work
 company_menu:
   - contact
-  - team
+#  - team
   - jobs
   - media
 
