@@ -14,8 +14,8 @@ left:
     height: 174
   other_projects:
     - title: Details
-      description: Unterstützung BI und Big Data Delivery bei Swisscom
-      url: /de/projects/swisscom
+      description: MGB Big-Data-Plattform
+      url: /de/projects/migros
 ---
 
 Die Kudelski Gruppe ist ein globaler Leader im Bereich Digital Security und konvergente Media Lösungen. Kudelskis Technologien werden weltweit in verschiedenen Sektoren, wie Digital TV, Cyber Security und Public Access  eingesetzt und in vielen digitalen Produkten für Zugriffskontrolle und Rechte Management integriert.
