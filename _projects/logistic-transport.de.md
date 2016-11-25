@@ -27,6 +27,11 @@ right:
     - another optional paragraph
 ---
 
-Venis aut alitiunt, sintium, offictem ilitatias illupta con re nime nes vendand erescimet laturitio quid que aut mod moloreperume peratet accabor untiumquide postrum ut fugiaes siminventem accullit qui tem laces dis aut omnimodis perum quam, optioris alicab ipid quaspis et eum dolupit dem. Volenih illuptaes nem reiumquam dolo temporum ellia porumet est ipsam fugia que doluptium volore vero quia quam, sedi consequaspel esernam eate optam non pedi iniam velibus nonsed erfernam quas at ommoles andandae volut ut et voluptatur?
+Datenvalidierung auf Messzügen 
 
-Cus ulpa quid quo vendis et od mo tes conecae venis alitint arum ratem ratust lis nobitis exceatinisit aut pa volut eum, comnihicit eos di aut ut eiuntur sim illacep ellescilis nobit veles ium veribus.<br>Atium nim cuptae pari blabo. Ullabo. Eniendi discidit arum rere vellatem faccum nim recae inctas atis eum nonse aut essimporest apiendi deliaspe odit.
+Die SBB unterhält ein ständig wachsendes Gleissystem mit inzwischen über 3200 Kilometern, welches 365 Millionen Personen und über 48 Millionen Tonnen Fracht pro Jahr transportiert. Ein solches Schienennetz muss ständig gewartet und überwacht werden. Für diese Aufgabe nutzt die SBB spezielle Messzüge die mit diversen Sensoren ausgestattet sind, um den Zustand von Streckenabschnitten in Diagnosefahrten festzustellen.
+
+Scigility liefert hierzu eine Softwarelösung die es erlaubt, die Daten dieser Messfahrten mit verschiedenen statistischen Analysen zu plausibilisieren und eventuell fehlerhafte Datenpunkte zu bereinigen. Es erlaubt insbesondere die Einbindung von DSL-Scripts, so dass sich die Experten der SBB auf ihre Kernkompetenz konzentrieren können und die Analyse der Daten effizient abgewickelt werden kann. Eine hilfreiche Folge davon ist die Verminderung von „Fehlalarmen“ welche die Leute zur Nachkontrolle von nichtvorhandenen Fehlerstellen im Gleis veranlassen würde. 
+
+Manuel Kolly
+SBB AG, Mess- und Diagnosetechnik
