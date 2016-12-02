@@ -15,6 +15,7 @@ picture:
 
 Big Data Technologien sind vielfältig und komplex. Damit Sie sich nicht in dem Technologie-Chaos verlieren, helfen wir Ihnen bei der Konzeption, dem Design und der Architektur Ihrer modernen Informationsplattform. Dies beinhaltet:
 
+
 * Machbarkeitsstudien
 * Unterstützung bei Ihrer Big Data Strategie
 * Architektur und Konzeption einer modernen Informationsplattform mit SQL, NoSQL und Big Data Technologien
