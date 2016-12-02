@@ -13,7 +13,7 @@ picture:
 
 ## Architecture and Conception
 
-Wir bieten Ihnen Unterstützung bei der Architektur und der Konzeption von neuen Big Data Lösungen an. Dies beinhaltet:
+We bieten Ihnen Unterstützung bei der Architektur und der Konzeption von neuen Big Data Lösungen an. Dies beinhaltet:
 
 * Machbarkeitsstudien
 * Architekturdokumentation
