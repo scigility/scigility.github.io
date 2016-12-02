@@ -5,28 +5,21 @@ ref: technology-communication
 lang: en
 main: true
 
-title: Technology and Communication
-description: Projektbeschreibung mit Keywords.
+title: Technologie und Kommunikation
+description: Unterstützung Swisscom AG, Kudelski Data Platform
 left:
   logo:
-    url: /assets/img/projects/project1-logo.png
-    width: 150
-    height: 148
   more_projects:
-    - title: SAMPLE PROJECT
-      description: Projektbeschreibung Kurz mit Keywords hinterlegt.
-      url: /projects/project-name
-    - title: FAKE PROJECT
-      description: Projektbeschreibung Kurz mit Keywords hinterlegt.
-      url: /projects/project-name
+    - title: Details
+      description: Unterstützung BI und Big Data Delivery bei Swisscom
+      url: /en/projects/swisscom
+    - title: Details
+      description: Konzeption und Aufbau der Kudelski Data Platform
+      url: /en/projects/kudelski
+
 right:
   picture:
     url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_1.jpg
-  paragraphs:
-    - some optional paragraph
-    - another optional paragraph
 ---
 
-Venis aut alitiunt, sintium, offictem ilitatias illupta con re nime nes vendand erescimet laturitio quid que aut mod moloreperume peratet accabor untiumquide postrum ut fugiaes siminventem accullit qui tem laces dis aut omnimodis perum quam, optioris alicab ipid quaspis et eum dolupit dem. Volenih illuptaes nem reiumquam dolo temporum ellia porumet est ipsam fugia que doluptium volore vero quia quam, sedi consequaspel esernam eate optam non pedi iniam velibus nonsed erfernam quas at ommoles andandae volut ut et voluptatur?
-
-Cus ulpa quid quo vendis et od mo tes conecae venis alitint arum ratem ratust lis nobitis exceatinisit aut pa volut eum, comnihicit eos di aut ut eiuntur sim illacep ellescilis nobit veles ium veribus.<br>Atium nim cuptae pari blabo. Ullabo. Eniendi discidit arum rere vellatem faccum nim recae inctas atis eum nonse aut essimporest apiendi deliaspe odit.
+Für den Sektor Technologie und Kommunikation ist Big Data heute ein wichtiger Enabler und Daten sind ein wertvolles Asset. Scigility hilft Kunden in diesem Sektor Big Data optimal zu nutzen.

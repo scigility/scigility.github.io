@@ -6,27 +6,16 @@ lang: en
 main: true
 
 title: Retail
-description: Projektbeschreibung mit Keywords.
+description: Big-Data-Plattform bei Migros
 left:
-  logo:
-    url: /assets/img/projects/project1-logo.png
-    width: 150
-    height: 148
   more_projects:
-    - title: SAMPLE PROJECT
-      description: Projektbeschreibung Kurz mit Keywords hinterlegt.
-      url: /projects/project-name
-    - title: FAKE PROJECT
-      description: Projektbeschreibung Kurz mit Keywords hinterlegt.
-      url: /projects/project-name
+    - title: Details
+      description: Big-Data-Plattform bei Migros
+      url: /en/projects/migros
+
 right:
   picture:
     url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_2.jpg
-  paragraphs:
-    - some optional paragraph
-    - another optional paragraph
 ---
 
-Venis aut alitiunt, sintium, offictem ilitatias illupta con re nime nes vendand erescimet laturitio quid que aut mod moloreperume peratet accabor untiumquide postrum ut fugiaes siminventem accullit qui tem laces dis aut omnimodis perum quam, optioris alicab ipid quaspis et eum dolupit dem. Volenih illuptaes nem reiumquam dolo temporum ellia porumet est ipsam fugia que doluptium volore vero quia quam, sedi consequaspel esernam eate optam non pedi iniam velibus nonsed erfernam quas at ommoles andandae volut ut et voluptatur?
-
-Cus ulpa quid quo vendis et od mo tes conecae venis alitint arum ratem ratust lis nobitis exceatinisit aut pa volut eum, comnihicit eos di aut ut eiuntur sim illacep ellescilis nobit veles ium veribus.<br>Atium nim cuptae pari blabo. Ullabo. Eniendi discidit arum rere vellatem faccum nim recae inctas atis eum nonse aut essimporest apiendi deliaspe odit.
+Mit Big Data Technologien lassen sich Produkte und Dienstleistungen spezifischer auf Kundenbedürfnisse zuschneiden und optimieren. Im Retailbereich bringen diese neuen Möglichkeiten einen grossen Wettbewerbsvorteil. Scigility hilft Ihnen diese Wettbewerbsvorteile zu schaffen und sich als digitaler zukunftsorientierter Mitbewerber auszurichten.

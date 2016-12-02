@@ -3,6 +3,7 @@ layout: project
 permalink: /de/projects/migros
 ref: migros-project
 lang: de
+main: false
 
 title: MGB Big-Data-Plattform
 description: MGB Big-Data-Plattform
