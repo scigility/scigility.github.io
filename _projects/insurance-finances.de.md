@@ -8,10 +8,10 @@ main: true
 title: Versicherungen und Finanzsektor
 description: Projektbeschreibung mit Keywords.
 left:
-  logo:
-    url: /assets/img/projects/project1-logo.png
-    width: 150
-    height: 148
+#  logo:
+#    url: /assets/img/projects/project1-logo.png
+#    width: 150
+#    height: 148
   more_projects:
 
 right:
