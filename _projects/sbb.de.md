@@ -9,7 +9,7 @@ title: Datenvalidierung auf Messzügen bei SBB Infrastruktur
 description: Datenvalidierung auf Messzügen
 left:
   logo:
-    url: /assets/img/projects/migros.png
+    url: /assets/img/projects/SBB_POS_2F_RGB_100.jpg
     link: http://www.sbb.ch
     width: 414
     height: 122
