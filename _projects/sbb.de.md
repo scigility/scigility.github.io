@@ -9,10 +9,10 @@ title: Datenvalidierung auf Messzügen bei SBB Infrastruktur
 description: Datenvalidierung auf Messzügen
 left:
   logo:
-    url: /assets/img/projects/SBB_logo.jpg
+    #url: /assets/img/projects/SBB_logo.jpg
     link: http://www.sbb.ch
-    width: 2000
-    height: 225
+    #width: 2000
+    #height: 225
   other_projects:
     - title: Details
       description: Unterstützung BI und Big Data Delivery bei Swisscom
