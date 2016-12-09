@@ -18,8 +18,8 @@ right:
   picture:
     url: /assets/img/projects/project1-picture.png
   paragraphs:
-    - some optional paragraph
-    - another optional paragraph
+  #  - some optional paragraph
+  #  - another optional paragraph
 ---
 
 Die Finanzdienstleistungsbranche hat Hadoop schnell für eine Reihe von Anwendungsfällen übernommen, die Erlöse, Kosten, Risiken, Reporting und Compliance beeinflussen.
