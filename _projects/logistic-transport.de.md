@@ -18,4 +18,4 @@ right:
     url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_3.jpg
 ---
 
-Big Data und Echtzeitverarbeitung von Daten revolutioniert weltweit Logistik und Transport. Dabei werden diese Technologien mannigfaltig eingesetzt, so zum Beispiel bei selbstfahrenden Autos, Stauvorhersagen oder um öffentliche Infrastrukturen zu optimieren. Scigility unterstützt einige der 
+Big Data und Echtzeitverarbeitung von Daten revolutioniert weltweit Logistik und Transport. Dabei werden diese Technologien mannigfaltig eingesetzt, so zum Beispiel bei selbstfahrenden Autos, Stauvorhersagen oder um öffentliche Infrastrukturen zu optimieren.
