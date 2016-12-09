@@ -5,7 +5,7 @@ ref: project-name
 lang: de
 main: true
 
-# title: Versicherungen und Finanzsektor
+title: Versicherungen und Finanzsektor
 # description: Projektbeschreibung mit Keywords.
 left:
 #  logo:
