@@ -6,7 +6,7 @@ lang: de
 main: true
 
 title: Versicherungen und Finanzsektor
-description: Projektbeschreibung mit Keywords.
+# description: Projektbeschreibung mit Keywords.
 left:
 #  logo:
 #    url: /assets/img/projects/project1-logo.png
