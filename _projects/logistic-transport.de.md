@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /en/projects/logistic-transport
+permalink: /de/projects/logistic-transport
 ref: logistic-transport
 lang: de
 main: true
