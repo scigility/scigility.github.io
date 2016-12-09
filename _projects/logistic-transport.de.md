@@ -3,7 +3,7 @@ layout: project
 permalink: /en/projects/logistic-transport
 ref: logistic-transport
 lang: de
-main: false
+main: true
 
 title: Logistik and Transport
 description: Datenvalidierung auf Messzügen bei SBB
