@@ -16,6 +16,9 @@ left:
     - title: Details
       description: Konzeption und Aufbau der Kudelski Data Platform
       url: /de/projects/kudelski
+    - title: Details
+      description: Datenvalidierung auf Messzügen bei SBB Infrastruktur
+      url: /de/projects/sbb
 
 right:
   picture:
