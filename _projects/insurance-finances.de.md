@@ -3,15 +3,15 @@ layout: project
 permalink: /de/projects/insurance-finances
 ref: project-name
 lang: de
-main: false
+main: true
 
 title: Versicherungen und Finanzsektor
-# description: Projektbeschreibung mit Keywords.
+description: Big-Data-Plattform bei Zürich Insurance Group
 left:
-#  logo:
-#    url: /assets/img/projects/project1-logo.png
-#    width: 150
-#    height: 148
+  logo:
+    url: /assets/img/projects/Zurich_stac_R_rgb.png
+    width: 585
+    height: 359
   more_projects:
 
 right:
