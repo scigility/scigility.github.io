@@ -6,15 +6,11 @@ lang: de
 main: true
 
 title: Versicherungen und Finanzsektor
-description: Big-Data-Plattform bei Zürich Insurance Group
+description: Big-Data-Plattform bei Zurich Insurance Group
 left:
-  logo:
-    url: /assets/img/projects/Zurich_stac_R_rgb.png
-    width: 585
-    height: 359
   more_projects:
-      - title: Details
-      description: Big-Data-Plattform bei Zürich Insurance Group
+    - title: Details
+      description: Big-Data-Plattform bei Zurich Insurance Group
       url: /de/projects/zurich
 
 right:
