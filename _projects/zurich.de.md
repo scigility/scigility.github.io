@@ -6,7 +6,7 @@ lang: de
 main: false
 
 title: Zurich Big-Data-Plattform
-description: Zurich Big-Data-Plattform
+#description: Zurich Big-Data-Plattform
 left:
   logo:
     url: /assets/img/projects/Zurich_stac_R_rgb.png
