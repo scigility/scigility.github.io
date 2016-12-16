@@ -13,6 +13,9 @@ left:
     width: 585
     height: 359
   more_projects:
+      - title: Details
+      description: Big-Data-Plattform bei Zürich Insurance Group
+      url: /de/projects/zurich
 
 right:
   picture:
