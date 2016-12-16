@@ -11,8 +11,8 @@ left:
   logo:
     url: /assets/img/projects/Zurich_stac_R_rgb.png
     link: http://www.zurich.com
-    width: 585
-    height: 359
+    width: 292
+    height: 179
   other_projects:
     - title: Details
       description: Unterstützung BI und Big Data Delivery bei Swisscom
