@@ -5,16 +5,16 @@ ref: technology-communication
 lang: en
 main: true
 
-title: Technologie und Kommunikation
-description: Unterstützung Swisscom AG, Kudelski Data Platform
+title: Technology and Communication
+description: Support Swisscom AG, Kudelski Data Platform
 left:
   logo:
   more_projects:
     - title: Details
-      description: Unterstützung BI und Big Data Delivery bei Swisscom
+      description: BI Support und Big Data Delivery at Swisscom
       url: /en/projects/swisscom
     - title: Details
-      description: Konzeption und Aufbau der Kudelski Data Platform
+      description: Conception and development of the Kudelski data platform
       url: /en/projects/kudelski
 
 right:
@@ -22,4 +22,4 @@ right:
     url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_1.jpg
 ---
 
-Für den Sektor Technologie und Kommunikation ist Big Data heute ein wichtiger Enabler und Daten sind ein wertvolles Asset. Scigility hilft Kunden in diesem Sektor Big Data optimal zu nutzen.
+For the technology and communication sector, big data is an important enabler and data is a precious asset. Scigility helps customers use big data optimally.
