@@ -15,16 +15,17 @@ left:
     height: 122
   other_projects:
     - title: Details
-      description: Unterstützung BI und Big Data Delivery bei Swisscom
+      description: BI support and Big Data Delivery with Swisscomm
       url: /en/projects/swisscom
       
 ---
 
-Die 1925 durch den Schweizer Pionier Gottlieb Duttweiler gegründete Migros ist die grösste Detailhändlerin der Schweiz und genossenschaftlich organisiert. In den fünf strategischen Geschäftsfeldern Genossenschaftlicher Detailhandel, Handel, Industrie & Grosshandel, Finanzdienstleistungen sowie Reisen bietet die Migros ihren Kunden ein umfangreiches Angebot an Produkten und Dienstleistungen. Der Migros-Genossenschafts-Bund (MGB) repräsentiert die Migros-Gruppe gegen aussen und koordiniert die Geschäftspolitik, die Zielsetzung und die Tätigkeit der zehn Migros-Genossenschaften und angegliederten Unternehmen.
+Founded 1925 by the Swiss pioneer Gottlieb Duttweiler, today Migros is the biggest retailer in Switzerland and organised as a cooperative. In the five strategic business fields cooperative retail, commerce, industry and wholesale trade, financial services as well as travel, Migros offers clients a comprehensive range of products and services. The Federation of Migros Cooperatives (FMC) represents the Migros Group and coordinates business policy, goals and the activity of the 10 Migros cooperatives and affiliated companies. 
  
-Der MGB nutzt eine Big-Data-Plattform (Data Lake), um verschiedenste Einsatzzwecke abzudecken. Ein Team von Experten der Scigility lieferte eine hochverfügbare Lösung mit umfangreichen Sicherheitsfunktionen inkl. sauberer Integration mit dem vorhandenen Data Warehouse. Dies ermöglicht nun dem Marketing MGB, über verschiedene digitale Kanäle ein besseres Verständnis für das Verhalten der Kunden zu gewinnen. Basierend auf  den gesammelten Kundenverhaltensdaten können laufend neue Erkenntnisse gewonnen und neue Services für die Kunden hervorgebracht werden.
-Die neue Plattform ermöglicht auch den Umgang mit aktuellen und zukünftigen Anforderungen und gewährleistet ein optimales Zusammenspiel von Batch- und Echtzeitverarbeitung. So ist die Architektur flexibel genug, um Technologien gegeneinander auszutauschen und stellt damit eine effiziente, fortschrittliche Suche, Analyse und Exploration der Daten sicher.
- 
-> Mit Scigility haben wir einen zuverlässigen und vertrauenswürdigen Partner gefunden, der uns seit der ersten Stunde zum Thema Big-Data inkl. den notwendigen Technologien unterstützt. Sowohl bei der Konzeption, dem Aufbau der Architektur sowie auch bei der Problemlösung und der Umsetzung von diversen Datenverarbeitungen konnten wir von ihrem Fachwissen profitieren. Mit Ihnen zusammen sind wir in der Lage, zukünftige Business-Anforderungen schnell zu implementieren.
+FMC uses a big data platform (data lake) for multiple functions. A team of Scigility experts delivered highly available solutions with comprehensive security functions including seamless integration with the existing data warehouse. This enables FMC marketing to use various digital channels to better understand customer behaviour. Based on the collected customer behaviour data, new insights can be continuously won and services developed accordingly. 
 
-<cite>Renato Walliser, Leiter Data Management New Technologies, MGB</cite>
+The new platform enables the handling of current and future challenges ensures optimal interplay between batch- and real-time processing. This makes the architecture flexible enough to allow the exchange of technologies and at the same time ensures an efficient, progressive search, analysis and exploration of the data. 
+ 
+> With Scigility we have found a reliable and trustworthy partner, who has supported us from the start with subject big data as well as the necessary technology. Both with the conception, the development of the architecture as well as with problem-solving and the implementation of various data processes were we able to profit from their expertise. Together with them, we are able to implement future business requirements quickly.  
+
+<cite>Renato Walliser, Head of Data Management New Technologies, MGB</cite>
