@@ -9,7 +9,7 @@ banner:
 
 sections:
   - title: Business Partners
-    description: Scigility ist überzeugt davon, dass wir unseren Kunden die besten Leistungen anbieten können, wenn wir mit guten Partnern zusammenarbeiten. Darum sind wir stets darum bestrebt ein gutes Netzwerk zu haben und arbeiten mit folgenden Unternehmungen zusammen.
+    description: Scigility is convinced that the best solutions can be offered to clients by working together with great partners. For this reason, we always strive to have a great network and are currently collaborating with the following partners: 
     logos:
       - img: /assets/img/partners/Hor_4cLogo_hr-300x113.jpg
         url: http://example.com
@@ -21,7 +21,7 @@ sections:
             url: http://example.com
 
   - title: Academy Partners
-    description: Scigility ist überzeugt davon, dass wir unseren Kunden die besten Leistungen anbieten können, wenn wir mit guten Partnern zusammenarbeiten. Darum sind wir stets darum bestrebt ein gutes Netzwerk zu haben und arbeiten mit folgenden Unternehmungen zusammen.
+    description: Scigility is convinced that the best solutions can be offered to clients by working together with great partners. For this reason, we always strive to have a great network and are currently collaborating with the following partners: 
     logos:
       - img: /assets/img/partners/Hor_4cLogo_hr-300x1131.jpg
         url: http://example.com
@@ -29,7 +29,7 @@ sections:
         url: http://example.com
 
   - title: Scigility Partners
-    description: Scigility ist überzeugt davon, dass wir unseren Kunden die besten Leistungen anbieten können, wenn wir mit guten Partnern zusammenarbeiten. Darum sind wir stets darum bestrebt ein gutes Netzwerk zu haben und arbeiten mit folgenden Unternehmungen zusammen.
+    description: Scigility is convinced that the best solutions can be offered to clients by working together with great partners. For this reason, we always strive to have a great network and are currently collaborating with the following partners: 
     logos:
       - img: /assets/img/partners/SAPMember_EBP_CG10_R_pos-300x66.jpg
         url: http://example.com
