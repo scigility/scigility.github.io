@@ -4,8 +4,8 @@ permalink: /en/projects/swisscom
 ref: swisscom-project
 lang: en
 
-title: Unterstützung BI und Big Data Delivery bei Swisscom
-description: Data Lake, Sourcing, generisches (ELT) Transformationswerkzeug, Delivery Framework für Big Data, Coninuous Integration
+title: BI suppert and Big Data Delivery with Swisscom 
+description: Data Lake, Sourcing, generic (ELT) transformation tool, Delivery Framework for Big Data, Continuous Integration
 left:
   logo:
     url: /assets/img/projects/Swisscom_logo1-150x150.png
@@ -14,17 +14,18 @@ left:
     height: 150
   other_projects:
     - title: Details
-      description: Konzeption und Aufbau der Kudelski Data Plattform
+      description: Conception and development of the Kudelski data platform 
       url: /en/projects/kudelski
 ---
 
-Swisscom ist das führende Telekommunikations- und eines der führenden IT-Unternehmen der Schweiz . Die Swisscom ist für viele Schweizer Kunden der vertrauenswürdige Begleiter in der digitalen Welt. Ziel von Swisscom ist es, Kunden mit dem besten Netz, ausgezeichneten Angeboten und hervorragendem Service zu begeistern.
+Swisscom is the leading telecommunications- and one of the leading IT-companies in Switzerland. Swisscom is for many Swiss customers a trusted companion in the digital world. Swisscom's goal is to inspire clients with the best network, excellent offers and outstanding services. 
 
-Technologischer Wandel, intensiver lokaler und globaler Wettbewerb und die sich verändernden Kundenbedürfnisse führen dazu, dass die Preise und Volumen im klassischen Geschäftsmodell mit nutzungsabhängigen Angeboten kontinuierlich erodieren. Mit einer langfristigen Strategie will Swisscom den Umsatz- und Ergebnisrückgang kompensieren, um die Finanzkraft für die hohen Investitionen in neue Technologien zu bewahren. Zu dieser Strategie zählt auch der Einsatz neuer und innovativen Technologien wie Big Data und NoSQL Informationssysteme. Scigility AG unterstützt das Big Data Delivery Team.
+Technological change, intense local and global competition as well as changing customer requirements are resulting in the constant lowering of prices as well as volume for classic business models with user related offers. With a long-term strategy, Swisscom plans to compensate the decline in turnover and results, in order to conserve the financing for the high investments into new technologies. Part of this strategy is investing in new and innovative technologies such as big data and NoSQUL information systems. Scigility supports the big data delivery team. 
 
-* Beim Sourcing von Daten in den Data Lake
-* Bei einem generischen (ELT) Transformationswerkzeug auf Hadoop und Kafka
-* Bei der Integration von Daten aus dem Data Lake in das Data Warehouse
-* Beim Aufbau eines globalen Delivery Frameworks für Big Data, welches auf agilen Continuous Integration Grundsätzen basiert
+
+* With sourcing data from the data lake 
+* With a generic (ELT) transformation tool on Hadoop and Kafka
+* With the integration of data from the data lake into the data warehouse 
+* With the development of a global delivery framework for big data, based on agile continuation principles 
 
 Stefan Salvisberg, Head of BI and Big Data Delivery, Swisscom AG
