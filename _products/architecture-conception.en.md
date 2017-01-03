@@ -5,20 +5,21 @@ ref: architecture-conception
 lang: en
 main: true
 
-title: Architektur & Konzeption
-description: Wir arbeiten mit unseren Kunden eng zusammen um eine auf Ihre Bedürfnisse zugeschnitte Informationsplattform sicherzustellen.
+title: Architecture & Conception
+description: We work closely together with our customers to ensure an information platform tailored to their needs
 picture:
   url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_4.jpg
 ---
 
-## Architektur & Konzeption
+## Architecture & Conception
 
-Big Data Technologien sind vielfältig und komplex. Damit Sie sich nicht in dem Technologie-Chaos verlieren, helfen wir Ihnen bei der Konzeption, dem Design und der Architektur Ihrer modernen Informationsplattform. Dies beinhaltet:
+Big data technologies are versatile and complex. We help with conception, design and the architecture of your modern information platfrom so that you don't get lost in the technology chaos. 
+This includes: 
 
 
-* Machbarkeitsstudien
-* Unterstützung bei Ihrer Big Data Strategie
-* Architektur und Konzeption einer modernen Informationsplattform mit SQL, NoSQL und Big Data Technologien
-* Integration der Big Data Technologien in existierende Infrastrukturen, Prozesse und Sicherheitsframeworks
-* Erarbeiten von Guidelines und neuer Prozessstrukturen
-* Definition Ihrer Big Data Roadmap
+* Feasability studies
+* Support for your big data strategy 
+* Architecture and conception of a modern information platform with SQL, NoSQUL and big data technologies
+* Integration of big data technologies into existing infrastructure, processes and security frameworks I
+* Development of guidelines and new process structures
+* Definition of your big data roadmap
