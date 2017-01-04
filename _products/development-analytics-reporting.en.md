@@ -5,21 +5,21 @@ ref: dev-analytics-reporting
 lang: en
 main: true
 
-title: Entwicklung, Analytik & Reporting
-description: Haben Sie Ihre Big Data Infrastruktur aufgebaut helfen wir Ihnen Ihre neuen Datendienstleistungen und Datenprodukte zu realisieren.
+title: Developement, Analytics & Reporting 
+description: Once you have your big data infrastructure we will help you create your new data services and data products. 
 picture:
   url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_3.jpg
 ---
 
-## Entwicklung, Analytik & Reporting
+## Development, Analytics & Reporting 
 
-Unsere Entwickler bedienen sich aus einer breiten Palette von Technologien wie Hadoop, HBase, Hive, Kafka, Spark, Cassandra, Neo4j und vielen mehr um Ihre Applikationen optimal zu realisieren. Ziel ist es Ihre Anforderungen mit der optimalen Technologie umzusetzen. 
+Our developers use a wide range of technologies like Hadoop, HBase, Hive, Kafka, Spark, Cassandra, Neo4j and many more in order to implement your application in the best way possible. The goal is to fulfil your requirements with the optimum technology. 
 
-Wir unterstützen Sie bei der Entwicklung nativer Big Data Applikationen, beim Analysieren Ihrer Daten und beim Aufbau von Reporting Lösungen. Dies beinhaltet:
+We support you with the development of native big data applications, the analysis of your data and the creation of reporting solutions.
 
+This includes: 
 
-- Wir setzen Ihre Proof of Concepts um.
-- Wir unterstützen Sie bei der Entwicklung von nativen Big Data Applikationen und deren Integration in Umsysteme. 
-- Wir haben ein Expertenteam von Analytik-Spezialisten, die Ihnen aufzeigen können, wie neue Advanced Analytics Methoden, Machine Learning Algorithmen und Deep Learning auf Ihre Daten angewendet werden können.
-- Wir bauen Ihnen Reporting Lösungen und Lösungen zur Daten-Visualisierung.
-
+- We implement your proof of concepts. 
+- We support you with the development of native big data applications and their integration into surrounding systems. 
+- We have a team of analytic experts who can show you how new advanced analysis methods, machine learning algorithms and deep learning can be applied to your data.
+- We build reporting solutions for you as well as solutions for data visualisation. 
