@@ -1,8 +1,8 @@
 ---
 layout: project
-permalink: /de/projects/insurance-finances
+permalink: /en/projects/insurance-finances
 ref: project-name
-lang: de
+lang: en
 main: true
 
 title: Insurance and Finances
