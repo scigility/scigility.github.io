@@ -6,6 +6,7 @@ lang: en
 main: true
 
 title: Legal & Governance
+
 description: The most important aspect of your modern information platform is legal certainty, data management and data governance. Our architects and legal team support you with these concerns.
 picture:
   url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_1.jpg
