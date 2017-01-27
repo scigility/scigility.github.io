@@ -9,10 +9,10 @@ title: Data validation of measuring trains of SBB Infrastructure
 description: Data validation of measuring trains
 left:
   logo:
-    url: /assets/img/projects/migros.png
-    link: http://www.migros.ch
-    width: 414
-    height: 122
+    url: /assets/img/projects/SBB_logo.jpg
+    link: http://www.sbb.ch
+    width: 2000
+    height: 225
   other_projects:
     - title: Details
       description: BI support and Big Data Delivery for Swisscom
