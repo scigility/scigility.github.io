@@ -11,8 +11,8 @@ left:
   logo:
     url: /assets/img/projects/SBB_logo.jpg
     link: http://www.sbb.ch
-    width: 1000
-    height: 113
+    width: 500
+    height: 57
   other_projects:
     - title: Details
       description: Unterstützung BI und Big Data Delivery bei Swisscom
