@@ -21,7 +21,7 @@ sections:
           - img: /assets/img/partners/cloudera.png
             url: http://www.cloudera.com
       - title: MapR
-        description: MapR mit ihrere Converged Datenplattform befähigt Unternehmen neuen Vorteile und Wertschöpfung aus ihren Daten zu generieren.
+        description: MapR mit ihrer Converged Datenplattform befähigt Unternehmen neuen Vorteile und Wertschöpfung aus ihren Daten zu generieren.
         logos:
           - img: /assets/img/partners/mapr.png
             url: http://www.mapr.com
