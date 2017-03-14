@@ -18,4 +18,4 @@ right:
     url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_3.jpg
 ---
 
-Big data and real time data processing is revolutionizing logistics and transportation around the globe. These technologies are utilized in many different ways, for example with self driving cars, traffic jam predictions or in order to optimize public infrastructure. Scigility supports a number of 
+Big data and real time data processing is revolutionizing logistics and transportation around the globe. These technologies are utilized in many different ways, for example with self driving cars, traffic jam predictions or in order to optimize public infrastructure.  
