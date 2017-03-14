@@ -10,7 +10,7 @@ description:
   fr: Blah blah
 
 defaultlanguage: "de"
-enablelanguages: true
+enablelanguages: "de","en"
 
 # Translatable strings
 t:
