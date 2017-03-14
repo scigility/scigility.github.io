@@ -8,6 +8,3 @@ banner:
   title: In the News
 ---
 
-# Something
-
-Some paragraph.
