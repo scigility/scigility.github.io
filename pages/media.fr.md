@@ -8,6 +8,3 @@ banner:
   title: Médias
 ---
 
-# Un titre.
-
-Un paragraphe.
