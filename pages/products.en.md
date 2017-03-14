@@ -1,7 +1,7 @@
 ---
 layout: products
 title: Products
-permalink: /en/products/
+permalink: /en/produkte/
 ref: products
 lang: en
 banner:
