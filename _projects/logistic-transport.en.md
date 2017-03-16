@@ -3,7 +3,7 @@ layout: project
 permalink: /en/projects/logistic-transport
 ref: logistic-transport
 lang: en
-main: false
+main: true
 
 title: Logistics and Transport
 description: Data validation on SBB measuring trains 
