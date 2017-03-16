@@ -1,9 +1,9 @@
 ---
 layout: partners
 title: Partner
-permalink: /de/partners/
+permalink: /en/partners/
 ref: partners
-lang: de
+lang: en
 banner:
   title: Partners
 
