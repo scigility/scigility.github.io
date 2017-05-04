@@ -1,7 +1,7 @@
 ---
 layout: product
-permalink: /en/prototyping-auditing/
-ref: prototyping-auditing
+permalink: /en/legal-governance/
+ref: legal-governance
 lang: en
 main: true
 
