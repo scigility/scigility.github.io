@@ -47,7 +47,7 @@ sections:
           - img: /assets/img/partners/datameer.jpg
             url: http://www.datameer.com
 
-  - title: Industrypartners
+  - title: Industry Partners
     subsections:
       - title: T-Systems
         description: T-Systems offers a Hadoop Cloud solution in Switzerland. With this solution companies can have a bare-metal Hadoop Cluster included in a PaaS offer, that enables next to an optimal connectivity to the client network also garanties that their data is only on their dedicated hardware in Switzerland. Scigility and T-Systems work closely together for the optimal application of this PaaS for you. 
@@ -85,7 +85,7 @@ sections:
   - title: Acadamy and Research
     subsections:
       - title: Exascale Infolab
-        description: Scigility convinced, that in order to offer clients the best services, we need to work together with industry and academic partners. This is why we also contribute to research and the development of big data technologies. Scigility works with the Exacale Info Lab on a daily basis, so that we always remain a competent partner with the newest technologies and methods.  
+        description: Scigility is convinced, that in order to offer the best services to our clients, we need to work together with industry and academic partners. This is why we also contribute to research and the development of big data technologies. Scigility works with the eXascale Infolab on a daily basis, so that we always remain a competent partner with the newest technologies and methods.  
         logos:
           - img: /assets/img/partners/xi.jpg
             url: http://exascale.info
