@@ -11,7 +11,7 @@ left:
   more_projects:
     - title: Details
       description: Big Data Platform with the Zurich Insurance Group
-      url: /de/projects/zurich
+      url: /en/projects/zurich
 
 right:
   picture:
