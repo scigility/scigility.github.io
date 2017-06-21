@@ -1,6 +1,6 @@
 ---
 layout: partners
-title: Partner
+title: Partners
 permalink: /en/partners/
 ref: partners
 lang: en
