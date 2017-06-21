@@ -11,7 +11,7 @@ left:
   more_projects:
     - title: Details
       description: Data validation on measuring trains of SBB infrastructure 
-      url: /de/projects/sbb
+      url: /en/projects/sbb
 
 right:
   picture:
