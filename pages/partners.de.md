@@ -59,11 +59,6 @@ sections:
         logos:
           - img: /assets/img/partners/hpe.png
             url: http://www.hpe.com/de/de/home.html
-      - title: Oracle
-        description: Oracle bietet bietet eine umfassende und voll integrierte Palette an Stack- und Cloud-Anwendungen, Plattform-Services und Engineered Systems. Viele Unternehmen, welche Big Data Technologien einsetzen, haben Oracle Systeme als Datenquellen und Datenkonsumenten. Scigility und Oracle arbeiten zusammen, um Ihnen die bestmögliche Integration von Big Data und Oracle Technologien zu gewährleisten.
-        logos:
-          - img: /assets/img/partners/oracle.png
-            url: http://www.oracle.com
       - title:  SAP
         description: Als einer der Marktführer bei Unternehmenssoftware hilft SAP Unternehmen und Organisationen dabei, die schädlichen Auswirkungen von Komplexität zu minimieren, neue Möglichkeiten für Innovation und Wachstum zu schaffen und im Wettbewerb erfolgreich zu sein. Scigility hat sich spezialisiert auf die Integration von SAP HANA und Hadoop Umgebungen. Dabei arbeiten wir mit unseren SAP Partnern SEC1.01 zusammen.
         logos:
