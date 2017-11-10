@@ -2,12 +2,12 @@
 title:
   de: Scigility AG
   en: Scigility Ltd
-  fr: Scigility SA
+#  fr: Scigility SA
 # HTML <head> description, good content means good SEO
 description:
   de: Scigility ist der führende Big Data Spezialist in der Schweiz. Wir bieten Consulting, Data Science, Engineering, Trainint & Support und Legal Counsel an.
   en: Scigility is a leading Big Data specialist solution provider. Offering Consulting, Data Science, Engineering, Training & Support and Legal Counsel.
-  fr: Blah blah
+#  fr: Blah blah
 
 defaultlanguage: "de"
 enablelanguages: True
@@ -25,18 +25,18 @@ t:
     #position: Position
     top_1st: go
     top_2nd: up
-  fr:
-    home: Accueil
-    products_services: Produits et services
-    company: Entreprise
-    contact: Contact
-    our_services: Nos services
-    more_projects: Plus de projets
-    other_projects: Plus de projets
-    details: Details
+#  fr:
+#   home: Accueil
+#  products_services: Produits et services
+#    company: Entreprise
+#    contact: Contact
+#    our_services: Nos services
+#    more_projects: Plus de projets
+#    other_projects: Plus de projets
+#    details: Details
     #position: Titre
-    top_1st: En
-    top_2nd: Haut
+#    top_1st: En
+#    top_2nd: Haut
   de:
     home: Home
     products_services: Produkte & Dienstleistungen
