@@ -92,10 +92,10 @@ footer_links:
 index:
   de: index.de.html
   en: index.en.html
-  fr: index.fr.html
+#  fr: index.fr.html
 feed:
   en: /feed-en.xml
-  fr: /feed-fr.xml
+#  fr: /feed-fr.xml
   de: /feed-de.xml
 baseurl: ""
 url: ""
