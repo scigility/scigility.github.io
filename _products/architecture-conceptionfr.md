@@ -1,8 +1,8 @@
 ---
 layout: product
-permalink: /en/architektur-conception/
+permalink: /fr/architecture-conception/
 ref: architecture-conception
-lang: en
+lang: fr
 main: true
 
 title: Architecture & Conception
@@ -17,9 +17,9 @@ Big data technologies are versatile and complex. We help with conception, design
 This includes: 
 
 
-* Feasibility studies
+* Feasability studies
 * Support for your big data strategy 
-* Architecture and conception of a modern information platform with SQL, NoSQL and big data technologies
-* Integration of big data technologies into existing infrastructure, processes and security frameworks
+* Architecture and conception of a modern information platform with SQL, NoSQUL and big data technologies
+* Integration of big data technologies into existing infrastructure, processes and security frameworks I
 * Development of guidelines and new process structures
 * Definition of your big data roadmap

@@ -1,8 +1,8 @@
 ---
 layout: product
-permalink: /en/installation-training/
+permalink: /fr/installation-formation/
 ref: installation-training
-lang: en
+lang: fr
 main: true
 
 title: Installation, Operation & Instruction
@@ -24,4 +24,4 @@ Our DevOps specialists maintain some of the biggest Hadoop Cluster infrastructur
 - Besides technology centered training we also offer workshops for architecture and management aspects, like for example: 
 	- Big data architecture with use cases in five days
 	- Data Lake Concept, Implementation from a legal perspective
-- If you are already using big data technologies and you are asking yourself, if your setup can be optimized, we also offer technology audits. During such an audit we analyze technical aspects, such as installation and configuration of your environment, if the best technology was chosen for the implementation of your Use Case and assess your environment based on our Best of Practice experience. 
+- If you are already using big data technologies and you are asking yourself, if your setup can be optimised, we also offer technology audits. During such an audit we analyze technical aspects, such as installation and configuration of your environment, if the best technology was chosen for the implementation of your Use Case and assess your environment based on our Best of Practice experience. 
