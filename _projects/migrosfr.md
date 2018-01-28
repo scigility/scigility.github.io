@@ -15,7 +15,7 @@ left:
     height: 122
   other_projects:
     - title: Details
-      description: Support BI et architecture Big Data
+      description: Support BI et architecture Big Data pour Swisscom
       url: /fr/projects/swisscom
 
 ---

@@ -14,7 +14,7 @@ left:
     height: 174
   other_projects:
     - title: Details
-      description: MGB Big-Data-Plattform
+      description: Plate-forme Data de Migros
       url: /fr/projects/migros
 ---
 

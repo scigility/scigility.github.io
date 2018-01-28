@@ -14,7 +14,7 @@ left:
     height: 150
   other_projects:
     - title: Details
-      description: Conception and development of the Kudelski data platform
+      description: Conception et développement de la plate-forme data de Kudelski
       url: /fr/projects/kudelski
 ---
 
@@ -25,6 +25,6 @@ Les changements technologiques, la concurrence locale et mondiale intense ainsi 
 * Avec l'approvisionnement des données pour notre lac de données (data lake)
 * Avec un outil de transformation générique (ELT) pour Hadoop et Kafka
 * Avec l'intégration des données de notre Data Lake dans notre data warehouse
-* Avec le développement d'un cadre global pour le big data basé sur des principes de dévelopement agiles.
+* Avec le développement d'un cadre global pour le big data basé sur des principes de développement agiles.
 
 Stefan Salvisberg, Head of BI and Big Data Delivery, Swisscom AG

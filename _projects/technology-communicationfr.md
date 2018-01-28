@@ -14,7 +14,7 @@ left:
       description: Support BI et architecture Big Data pour Swisscom
       url: /fr/projects/swisscom
     - title: Details
-      description: Conception et dévelopement de la plate-forme data de Kudelski
+      description: Conception et développement de la plate-forme data de Kudelski
       url: /fr/projects/kudelski
 
 right:
