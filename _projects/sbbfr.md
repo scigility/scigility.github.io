@@ -5,8 +5,8 @@ ref: sbb-project
 lang: fr
 main: false
 
-title: Data validation of measuring trains of SBB Infrastructure 
-description: Data validation of measuring trains
+title: Validation des données sur les trains de mesure CFF
+description: Validation des données sur les trains de mesure
 left:
   logo:
     url: /assets/img/projects/SBB_logo.jpg
@@ -19,9 +19,9 @@ left:
       url: /fr/projects/swisscom
 ---
 
-The SBB maintains a permanently growing track system with currently about 3200 kilometres; that transports 365 million people and over 48 million tons of freight per year. Such a track system must constantly be serviced and monitored. For this task, the SBB uses special measuring trains with various sensors that are able to assess the condition of track sections with diagnosis journeys. 
+Les CFF entretiennent un réseau de voies en croissance permanente de plus de 3200 kilomètres, qui transporte 365 millions de personnes et plus de 48 millions de tonnes de fret par an. Un tel système de rails doit être constamment entretenu et surveillé. Pour cette tâche, les CFF utilisent des trains de mesure spéciaux avec différents capteurs capables d'évaluer l'état des voies.
 
 
-Scigility delivers a software solution that allows for the data collected during these measuring trips to be made plausible and possible erroneous data to be corrected. It especially permits the integration of DSL-Scripts, so that the experts from the SBB and concentrate on their main competencies and the analysis of the data and be processed efficiently. A helpful consequence is a reduction of "false alarms" that would lead to the follow-up inspection of tracks for non-existant issues.
+Scigility propose une solution logicielle qui permet d'optimiser les données collectées lors de ces trajets de mesure et de corriger les éventuelles erreurs de données. Cette solution permet en particulier l'intégration de scripts DSL, de sorte que les experts des CFF peuvent se concentrer sur leurs compétences principales et traiter efficacement les données. En conséquence, cette solution permet une réduction des "fausses alarmes" qui conduiraient à l'inspection et au suivi des voies pour des problèmes inexistants.
 
-<cite>Manuel Kolly, SBB AG, Mess- und Diagnosetechnik</cite>
+<cite>Manuel Kolly, CFF SA</cite>

@@ -1,9 +1,9 @@
 ---
 layout: team
-title: Team
+title: Equipe
 permalink: /fr/team/
 ref: team
 lang: fr
 banner:
-  title: Team
+  title: Equipe
 ---

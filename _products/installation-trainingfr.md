@@ -5,23 +5,23 @@ ref: installation-training
 lang: fr
 main: true
 
-title: Installation, Operation & Instruction
-description: We help with the development and productive and secure operation of your big data infrastructure. We instruct you and your staff and make you fit for the new challenge. 
+title: Installation, opérations et éducation
+description: We help with the development and productive and secure operation of your big data infrastructure. We instruct you and your staff and make you fit for the new challenge.
 picture:
   url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_2.jpg
 ---
 
-## Installation, Operation & Instruction 
+## Installation, opérations et éducation
 
-Our DevOps specialists maintain some of the biggest Hadoop Cluster infrastructures in Switzerland! We will build your big data infrastructure, secure it, integrate it into the surrounding environment and help you operate it. It doesn't matter if your data platform is in a cloud or if you have your own data center. We offer introductions to the theory as well as practical training for big data technology. This includes: 
+Nos spécialistes DevOps maintiennent un bon nombre des plus grandes infrastructures Hadoop en Suisse! Nous construisons votre infrastructure de Big Data, la sécurisons, l'intégons dans votre environnement et vous aidons à l'exploiter. Peu importe si votre plate-forme de données est dans le cloud ou si vous avez votre propre centre de données. Nous offrons également des cours d'introduction à la science des données ainsi que des formations pratiques sur la technologie Big Data. Cela comprend notamment:
 
-- Our DevOps specialists build and maintain your infrastructure.
-- We are specialized in secure big data environments and integrating them into identity management infrastructures like Kerberos, LDAP or Active Directory. 
-- We provide Continuous Integration Infrastructure so that you can develop and operate data services and data products with agility and stability. 
-- We offer tailored Technology Trainings, for example:
-	- Hadoop 101 basic course
-	- Practical application of Apache Spark
-- Besides technology centered training we also offer workshops for architecture and management aspects, like for example: 
-	- Big data architecture with use cases in five days
-	- Data Lake Concept, Implementation from a legal perspective
-- If you are already using big data technologies and you are asking yourself, if your setup can be optimised, we also offer technology audits. During such an audit we analyze technical aspects, such as installation and configuration of your environment, if the best technology was chosen for the implementation of your Use Case and assess your environment based on our Best of Practice experience. 
+- La construction et l'entretien votre infrastructure.
+- Nous sommes spécialisés dans les environnements sécurisés de Big Data et nous les intégrons dans des infrastructures de gestion d'identité telles que Kerberos, LDAP ou Active Directory.
+- Nous fournissons une infrastructure d'intégration continue afin que vous puissiez développer et exploiter des services de données avec des méthodes agiles dans un environement stable
+- Nous offrons des formations technologiques sur mesure, par exemple:
+  - Hadoop 101 (cours de base)
+  - Application pratique d'Apache Spark
+- Outre les formations centrées sur la technologie, nous proposons également des ateliers d'architecture et de gestion, par exemple:
+  - Architecture de Big Data avec cas d'utilisation pratiques (en cinq jours)
+  - Concepts de base d'un Data Lake, mise en œuvre d'un point de vue juridique
+- Si vous utilisez déjà les technologies Big Data et que vous vous demandez comment votre configuration peut être optimisée, nous proposons également des audits technologiques. Lors d'un tel audit, nous analysons plusieurs aspects techniques, tels que l'installation et la configuration de votre environnement, nous étudions si la meilleure technologie a été choisie pour la mise en œuvre de votre cas d'utilisation et évaluons votre environnement basé sur notre expérience.

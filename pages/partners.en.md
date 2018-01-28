@@ -80,7 +80,7 @@ sections:
   - title: Acadamy and Research
     subsections:
       - title: Exascale Infolab
-        description: Scigility is convinced, that in order to offer the best services to our clients, we need to work together with industry and academic partners. This is why we also contribute to research and the development of big data technologies. Scigility works with the eXascale Infolab on a daily basis, so that we always remain a competent partner with the newest technologies and methods.  
+        description: Scigility is convinced that in order to offer the best services to our clients, we need to work together with industry and academic partners. This is why we also contribute to research and the development of big data technologies. Scigility works with the eXascale Infolab on a daily basis, so that we always remain a competent partner with the newest technologies and methods.  
         logos:
           - img: /assets/img/partners/xi.jpg
             url: http://exascale.info

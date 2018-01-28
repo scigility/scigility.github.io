@@ -5,21 +5,21 @@ ref: dev-analytics-reporting
 lang: fr
 main: true
 
-title: Developement, Analytics & Reporting 
-description: Once you have your big data infrastructure we will help you create your new data services and data products. 
+title: Développement, analytique et reporting
+description: Une fois que votre infrastructure Big Data installée, nous vous aidons à créer vos nouveaux services de données.
 picture:
   url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_3.jpg
 ---
 
-## Development, Analytics & Reporting 
+## Développement, analytique et reporting
 
-Our developers use a wide range of technologies like Hadoop, HBase, Hive, Kafka, Spark, Cassandra, Neo4j and many more in order to implement your application in the best way possible. The goal is to fulfil your requirements with the optimum technology. 
+Nos développeurs utilisent un large éventail de technologies telles que Hadoop, HBase, Hive, Kafka, Spark, Cassandra, Neo4j et d'autres encore afin de mettre en œuvre votre application de la meilleure façon possible. L'objectif est de toujours répondre à vos exigences avec la technologie optimale.
 
-We support you with the development of native big data applications, the analysis of your data and the creation of reporting solutions.
+Nous vous accompagnons dans le développement d'applications big data natives, l'analyse de vos données et la création de solutions de reporting.
 
-This includes: 
+Cela comprend notamment:
 
-- We implement your proof of concepts. 
-- We support you with the development of native big data applications and their integration into surrounding systems. 
-- We have a team of analytic experts who can show you how new advanced analysis methods, machine learning algorithms and deep learning can be applied to your data.
-- We build reporting solutions for you as well as solutions for data visualisation. 
+- La mise en œuvre de votre proof of concept.
+- Le développement d'applications Big Data natives et leur intégration dans les systèmes actuels.
+- L'implémentation de nouvelles méthodes d'analyse, d'algorithmes d'apprentissage automatiques et d'apprentissage profond (deep learning) et comment il peuvent être appliqués à vos données.
+- La construction de solutions de reporting et de solutions pour la visualisation de vos données.

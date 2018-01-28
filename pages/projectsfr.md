@@ -1,9 +1,9 @@
 ---
 layout: projects
-title: Projects
+title: Projets
 permalink: /fr/projects/
 ref: projects
 lang: fr
 banner:
-  title: Projects
+  title: Projets
 ---

@@ -5,12 +5,12 @@ ref: insurance-finances
 lang: fr
 main: true
 
-title: Insurance and Finances
-description: Big Data Platform with the Zurich Insurance Group
+title: Assurances et Finance
+description: La Plate-form Big Data de Zurich Assurances
 left:
   more_projects:
     - title: Details
-      description: Big Data Platform with the Zurich Insurance Group
+      description: La Plate-form Big Data de Zurich Assurances
       url: /fr/projects/zurich
 
 right:
@@ -21,4 +21,4 @@ right:
   #  - another optional paragraph
 ---
 
-The financial services sector quickly began applying Hadoop to a number of different use cases, this has influenced proceeds, costs, risks, reporting and compliance.  
+Le secteur des services financiers a rapidement adopté Hadoop pour un certain nombre de cas d'utilisation différents, ce qui a directement influencé les produits, diminué les coûts ainsi que les risques liés au secteur des assurances.

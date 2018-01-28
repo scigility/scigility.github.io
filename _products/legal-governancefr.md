@@ -5,22 +5,22 @@ ref: prototyping-auditing
 lang: fr
 main: true
 
-title: Legal & Governance
+title: Aspect légaux et gouvernance
 
-description: The most important aspect of your modern information platform is legal certainty, data management and data governance. Our architects and legal team support you with these concerns.
+description: La conformité légale et la gouvernance sont des apect essentiels de votre plate-forme d'information. Nos architectes et notre équipe juridique vous soutiennent dans ce sens.
 picture:
   url: /assets/img/vignettes/Scigility_Elephant_Pics_500x250px_Bereich_1.jpg
 ---
 
-## Legal & Governance
+## Aspect légaux et gouvernance
 
-During the project development and implementation we support you with legal issues. Our legal team consults you concerning legal and compliance issues and supports you with the implementation of regulatory requirements. Together with our architects we can create an information platform that is not only technically feasible, but also integrates the legal aspects of data processing from the start. This includes: 
+Durant le développement et la mise en œuvre de votre projet, nous vous soutenons sur tous les aspects juridiques. Notre équipe juridique vous coneille sur les questions juridiques et de conformité et vous accompagne dans la mise en œuvre des exigences réglementaires. En collaboration avec nos architectes, nous pouvons créer une plate-forme d'information non seulement optimale techniquement, mais qui intègre dès le départ les aspects juridiques du traitement des données. Cela comprend:
 
--	Law and compliance consultations  
--	Application of branch specific regulatory requirements 
--	We support you with the application of ICT and data protection regulations in Switzerland and the EU, intellectual property law, competition law as well as areas such as money laundering law and cyber crime law. 
--	We develop comprehensible and realisable guidelines, directives and controlling procedures that can feasibly be integrated into your operation. 
--	Project development and implementation of stringent data management
--	Development and implementation of synchronized legal and technical as well as auditable data governance procedures 
--	We develop your information platform and applications securely and in accordance with the relevant data protection and branch specific regulatory requirements 
--	We make risk analysis and evaluate risks such as reputational risks for your information platform and show you technical and non-technical solutions in order to avoid these risks. 
+- Des consultations au niveau légal et conformité
+- L'application des exigences réglementaires propres à une succursale
+- Nous vous soutenons dans l'application des réglementations sur les TIC et la protection des données en Suisse et dans l'UE, le droit de la propriété intellectuelle, le droit de la concurrence ainsi que des domaines tels que le droit du blanchiment d'argent et la cybercriminalité.
+- Nous développons des directives et des procédures de contrôle compréhensibles et techniquement réalisables qui peuvent être intégrées dans vos processus.
+- Le développement d'un cardre de gestion de données rigoureux
+- Le développement et la mise en œuvre de procédures de gouvernance des données vérifiables et optimale d'un point de vue technique et légal
+- Nous développons votre plate-forme d'information et vos applications en toute sécurité et en conformité avec les exigences réglementaires spécifiques à la protection des données de votre branche d'activité.
+- Nous réalisons des analyses de risques et évaluons de nombreux facteurs tels que les risques de réputation pour votre plate-forme d'information; nous vous proposons et implémentons des solutions tant techniques que non techniques afin d'éviter ces risques.

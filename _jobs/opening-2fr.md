@@ -2,34 +2,35 @@
 layout: job
 ref: job-opening-2
 lang: fr
-title: Big Data Software Engineer
+title: Ingénieur Logiciel Big Data 
 ---
 
-Scigility combines academic and practical knowhow to a unique Big Data service offering for our customers. We define, build and operate integrated Big Data platforms, build applications to create new insights to our customer’s data and support customers within the legal framework.
+Scigility allie un savoir-faire académique et pratique pour proposer des services Big Data de qualité à nos clients. Nous définissons, construisons et exploitons des plates-formes intégrées pour le Big Data afin de soutenir de nouvelles applications sur la base des données de nos clients et de les accompagner dans un cadre à la fois technique et légal.
 
-<b>Your Tasks</b>
+<b>Vos tâches</b>
 
-* Build, scale and maintain solutions based on Hadoop and/or other NoSQL systems
-* Write and tune complex near-real-time and batch data pipelines with Spark or Java MapReduce
-* Explore available technologies to provide business support to our clients
-* Work closely with customers and other stakeholders in an agile environment
+* Construire, déployer et maintenir des solutions basées sur Hadoop et/ou d'autres systèmes noSQL
+* Ecrire et optimiser des pipelines batch et temps-réel avec Spark ou MapReduce
+* Analyser les dernières technologies disponibles pour fournir des conseils techniques à nos clients 
+* Travailler main dans la main avec nos clients et partenaires dans un environnement agile
 
-<b>Your Profile</b>
+<b>Votre Profil</b>
 
-* Bachelor or Master in Computer Science / Information Management or related field
-* Proficient in OOP (Java) and FP (Scala, Clojure), willing to learn new programing languages
-* Experience in Big Data technologies (Hadoop, Spark, Kafka, HBase)
-* Knowledge of real-time processing systems like Storm, Spark Streaming or others
-* Knowledge and experience in agile software development
-* Superb problem-solving skills
-* You are a proactive team player with the ability to work independently and accurately in interdisciplinary projects
-* Knowledge of data structures and algorithms for Big Data, Machine Learning is a plus
-* Very good skills in German and English, French would be an asset
+* Bachelor ou Master en Informatique ou Information de Gestion (ou qualifications similaires)
+* Bonnes connaissance en langages orientés-objet (Java) et fonctionnels (Scala, Clojure); ouvert à l'apprentissage de nouveaux langages 
+* Expérience avec des technologies Big Data (Hadoop, Spark, Kafka, HBase)
+* Connaissances de systèmes temps-réel comme Storm, Spark ou autres 
+* Connaissances et expérience en méthodes de développement agiles
+* Excellentes capacités de résolution de problèmes 
+* Vous êtes une personne proactive et indépendante mais capable de travailler en équipe sur des projets interdisciplinaires
+* Des connaissances en structures de données et algorithmes pour le Big Data ou le Machine Learning sont des plus 
+* Bonnes connaissances en anglais; allemand ou français sont des plus
 
-<b>Your Opportunities</b>
+<b>Vos opportunités</b>
 
-Design your career with Scigility in a culture that promotes innovation and diversity. We offer you to join a young and professional team in an environment that constantly opens new doors through knowledge sharing, flexibility and recognition.
+Construisez votre carrière avec Scigility, dans une culture d'entreprise qui favorise l'innovation, l'échange et la diversité. Nous vos offrons la possibilité de travailler avec une équipe jeune, dynamique et à la pointe des nouvelles technologies de l'information.
 
 <b>Your Application</b>
 
-We are looking forward receiving your application online on jobs@scigility.com. For further information please contact Natalya Sidler (jobs@scigility.com / +41 44 214 62 89).
+Nous nous réjouissons de recevoir votre candidature en ligne à jobs@scigility.com.
+Pour plus d'informations, n'hésitez pas à contacter Natalya Sidler (jobs@scigility.com / +41 44 214 62 89).

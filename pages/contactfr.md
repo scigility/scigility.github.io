@@ -1,9 +1,9 @@
 ---
 layout: contact
-title: Contact
+title: Contacts
 permalink: /fr/contact/
 ref: contact
 lang: fr
 banner:
-  title: Contact
+  title: Contacts
 ---

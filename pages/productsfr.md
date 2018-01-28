@@ -1,9 +1,9 @@
 ---
 layout: products
-title: Produkte
+title: Produits
 permalink: /fr/produkte/
 ref: products
 lang: fr
 banner:
-  title: Produkte
+  title: Produits
 ---
