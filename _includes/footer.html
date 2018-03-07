@@ -94,6 +94,18 @@
             <div>{{ site.data.contacts[0].phone }}</div>
             <div><a style="color: #2e70b1;" href="mailto:{{ site.data.contacts[0].email }}">{{ site.data.contacts[0].email }}</a></div>
           </div>
+          <div class="ce_text block">
+            <h3>{{ site.t[page.lang].contact }}</h3>
+            <div>{{ site.data.contacts[1].name }}</div>
+            <div>{{ site.data.contacts[1].address1 }}</div>
+            {% if site.data.contacts[1].address2 %}
+              <div>{{ site.data.contacts[1].address2 }}</div>
+            {% endif %}
+            <div>{{ site.data.contacts[1].city }}</div>
+            <div>&nbsp;</div>
+            <div>{{ site.data.contacts[1].phone }}</div>
+            <div><a style="color: #2e70b1;" href="mailto:{{ site.data.contacts[1].email }}">{{ site.data.contacts[1].email }}</a></div>
+          </div>
         </div>
         <div class="rs-column -large-col-4-1 -large-last -large-first-row -medium-col-2-1 -medium-last -small-col-1-1 -small-first -small-last">
           <h3>Links</h3>
