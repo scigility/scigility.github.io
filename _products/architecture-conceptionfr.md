@@ -19,7 +19,7 @@ Cela comprend: notamment
 
 * Les études de fesabilité
 * Le support de la stratégie Big Data
-* L'architecture et la conception de plates-fromes modernes d'information avec des technologies SQL, NoSQL and Big Data
+* L'architecture et la conception de plates-formes modernes d'information avec des technologies SQL, NoSQL and Big Data
 * L'integration de technologies Big Data dans les infrastructures, processus and frameworks de sécurité actuels
 * L'élaboration des lignes directrices et des nouvelles structures de processus pour le Big Data
 * La définition de la feuille de route Big Data

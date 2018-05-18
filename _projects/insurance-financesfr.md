@@ -6,11 +6,11 @@ lang: fr
 main: true
 
 title: Assurances et Finance
-description: La Plate-form Big Data de Zurich Assurances
+description: La Plate-forme Big Data de Zurich Assurances
 left:
   more_projects:
     - title: Details
-      description: La Plate-form Big Data de Zurich Assurances
+      description: La Plate-forme Big Data de Zurich Assurances
       url: /fr/projects/zurich
 
 right:
