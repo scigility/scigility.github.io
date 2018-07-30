@@ -41,4 +41,4 @@ After this event you will be aware of general methods and techniques how to prec
 Scigility AG, Europaallee 41, 8021 Zürich
 
 ### Registration
-Please register under: https://www.eventbrite.com/e/digitalization-in-the-era-of-gdpr-tickets-48406563334 
+Please register under: <a href='https://www.eventbrite.com/e/digitalization-in-the-era-of-gdpr-tickets-48406563334'>eventbrite</a> 
