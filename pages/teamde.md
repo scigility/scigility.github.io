@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Team
-permalink: /de/team/
+permalink: /deteam/
 ref: team
 lang: de
 banner:
