@@ -5,7 +5,7 @@ ref: project-name
 lang: en
 main: true
 
-title: Insurance and Finances
+title: Insurance and Finance
 description: Big Data Platform with the Zurich Insurance Group
 left:
   more_projects:
