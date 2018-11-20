@@ -2,35 +2,34 @@
 layout: job
 ref: job-opening-3
 lang: en
-title: BUCHHALTER/IN - 40% (m/w)
+title: Big Data Software Engineer
 ---
 
-<b>Scigility</b> kombiniert akademisches und praktisches Know-how zu einem einzigartigen Big Data-Serviceangebot für seine Kunden. Wir konzipieren, bauen und betreiben integrierte Big Data- Plattformen, erstellen Anwendungen zur Gewinnung von neuen Erkenntnissen aus den Daten unserer Kunden und unterstützen sie in rechtlichen Fragen. 
+Scigility combines academic and practical knowhow to a unique Big Data service offering for our customers. We define, build and operate integrated Big Data platforms, build applications to create new insights to our customer’s data and support customers within the legal framework.
 
-Wir suchen zur Führung unserer Finanzbuchhaltung per 1. Januar 2019 oder nach Vereinbarung für unser Unternehmen im Kanton Freiburg eine engagierte, motivierte und selbständige Persönlichkeit als
+<b>Your Tasks</b>
 
+* Build, scale and maintain solutions based on Hadoop and/or other NoSQL systems
+* Write and tune complex near-real-time and batch data pipelines with Spark or Java MapReduce
+* Explore available technologies to provide business support to our clients
+* Work closely with customers and other stakeholders in an agile environment
 
-<b>Ihre Aufgaben</b>
+<b>Your Profile</b>
 
-* Sie führen selbständig die Firmen-Finanzbuchhaltungen von Scigility Switzerland AG und Scigility Holding AG (eine non-operationelle Firma). 
-* Sie führen die Debitoren- und Kreditorenbuchhaltung (ohne Rechnungsstellung).
-* Sie sind verantwortlich für die Quartals- und Jahresabschlüsse.  
-* Sie unterstützen die externe Revision.
-* Sie erstellen diverse Statistiken (Reporting).
+* Bachelor or Master in Computer Science / Information Management or related field
+* Proficient in OOP (Java) and FP (Scala, Clojure), willing to learn new programing languages
+* Experience in Big Data technologies (Hadoop, Spark, Kafka, HBase)
+* Knowledge of real-time processing systems like Storm, Spark Streaming or others
+* Knowledge and experience in agile software development
+* Superb problem-solving skills
+* You are a proactive team player with the ability to work independently and accurately in interdisciplinary projects
+* Knowledge of data structures and algorithms for Big Data, Machine Learning is a plus
+* Very good skills in German and English, French would be an asset
 
+<b>Your Opportunities</b>
 
-<b>Ihr Anforderungsprofil</b>
+Design your career with Scigility in a culture that promotes innovation and diversity. We offer you to join a young and professional team in an environment that constantly opens new doors through knowledge sharing, flexibility and recognition.
 
-* Sie haben eine kaufmännische Grundausbildung abgeschlossen, von Vorteil mit Berufsmaturität. 
-* Sie sind billingue und kommunizieren stilsicher in Französisch und Deutsch; Englischkenntnisse sind von Vorteil.
-* Sie verfügen über Erfahrung im Finanzwesen sowie im Arbeiten mit ERP-Systemen (Abacus).
-* Exakte, selbständige und zuverlässige Arbeitsweise zeichnet Sie aus.
+<b>Your Application</b>
 
-
-<b>Ihre Chancen</b>
-
-Es erwartet Sie eine interessante und vielseitige Tätigkeit in einem schnell wachsenden High Technologien-Unternehmen mit attraktiven Anstellungsbedingungen und flexiblen Arbeitszeiten. Sie können von zuhause arbeiten.
-
-<b>Ihre Bewerbung</b>
-
-Wir freuen uns auf Ihre Online-Bewerbung unter jobs@scigility.com. Für weitere Informationen kontaktieren Sie bitte Frau Natalya Sidler (natalya.sidler@scigility.com / +4144 214 62 89).
+We are looking forward receiving your application online on jobs@scigility.com. For further information please contact Natalya Sidler (jobs@scigility.com / +41 44 214 62 89).
