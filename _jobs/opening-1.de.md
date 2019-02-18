@@ -9,7 +9,7 @@ title: HR-Spezialist/in 40%-50% (M/F)
 
 Zur Erweiterung unseres Operations Team suchen wir per 1. April 2019 oder nach Vereinbarung im Kanton Freiburg eine engagierte, motivierte und selbständige Persönlichkeit als
 
-<b>HR-Spezialist/in 40%-50% (M/F)</b>
+<br><h1>HR-Spezialist/in 40%-50% (M/F)</h1><br>
 
 <b>Ihre Mission</b>
 
