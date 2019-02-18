@@ -20,7 +20,7 @@ In Zusammenarbeit mit unserer CFO / Head of Operations stellen Sie die administr
 * Abwicklung der gesamten betrieblichen Dienstleistungen der Abteilung Personalwesen (Erstellen von Arbeitsverträgen und –zeugnissen, Stellenprofile erarbeiten und aktualisieren, Korrespondenz, Übersetzungen, interne Kommunikation, Personalverwaltung)
 * Zeitkontrolle und Zeitverwaltung aller Angestellten (Zeitrapporte, Abwesenheiten, Planungsunterstützung)
 * Verantwortung für die Einführung neuer Mitarbeiter (Zurverfügungstellung und Einrichtung der Arbeitsumgebungen, On-Boarding in Prozesse und in die Arbeitswelt von Scigility, Kommunikation, Logistik, Probezeitendgespräche)
-* Verantwortung über Austrittsprozesse mit präzisem Augenmerk auf legale Prozedure und Fristeinhaltung, inklusive der ordentlichen internen und externen Kommunikation und Korrespondenz.
+* Verantwortung über Austrittsprozesse mit präzisem Augenmerk auf legale Prozeduren und Fristeinhaltung, inklusive der ordentlichen internen und externen Kommunikation und Korrespondenz.
 * Verantwortung zur korrekten Deklaration und Rapportierung von Krankheits- und Unfallabsenzen.
 * Organisation und Verwaltung von Arbeitsbewilligungen
 * Aktive Weiterentwicklung, Verbesserung und Qualitätssicherung der bestehenden Personalprozesse, wie  Vorbereitung, Redaktion, Validierung und Umsetzung von Prozeduren und Dokumente.
