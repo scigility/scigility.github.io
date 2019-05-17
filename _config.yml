@@ -110,5 +110,7 @@ collections:
     output: true
   jobs:
     output: true
+  news:
+    output: true
 
 analytics: UA-83800555-1

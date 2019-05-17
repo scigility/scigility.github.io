@@ -6,18 +6,29 @@ layout: default
   <div class="centered-wrapper-inner">
     <div class="rs-columns">
       <div class="rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
-        <div class="ce_text block">
-          {{ content }}
-        </div>
-      </div>
-      <div class="rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
+        <h1>{{ page.in_the_news_title }}</h1>
         <section class="teaser-boxes -boxed">
           {% assign in_the_news = site.data.in_the_news | sort: 'order' %}
           {% for item in in_the_news %}
+          <section class="teaser-boxes-item rs-column -large-col-1-1 -large-first -large-last -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last{% if forloop.first %} -large-first-row -medium-first-row -small-first-row{% endif %}">
+            <h3>{{ item.title }}</h3>
+            <div class="teaser-boxes-item-text">
+              <p><a href="{{ item.link }}">{{ item.link_text }}</a></p>
+            </div>
+          </section>
+          {% endfor %}
+        </section>
+      </div>
+      <div class="rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
+        <h1>{{ page.events_title }}</h1>
+        <section class="teaser-boxes -boxed">
+          {% assign events = site.data.events | sort: 'order' %}
+          {% for item in events %}
             <section class="teaser-boxes-item rs-column -large-col-1-1 -large-first -large-last -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last{% if forloop.first %} -large-first-row -medium-first-row -small-first-row{% endif %}">
               <h3>{{ item.title }}</h3>
               <div class="teaser-boxes-item-text">
-                <p><a href="{{ item.link }}">{{ item.link_text }}</a></p>
+                <span class="float-right">{{ item.date }}</span>
+                <span><a href="{% if item.scigility_news_ref %}{{ site.url }}/{{ page.lang }}/news/{{ item.scigility_news_ref }}/{% else %}{{ item.link }}{% endif %}">{{ page.event_details_link_text }}</a></span>
               </div>
             </section>
           {% endfor %}
