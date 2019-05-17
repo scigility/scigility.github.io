@@ -8,44 +8,47 @@ banner:
   title: Partners
 
 sections:
-  - title: Hadoop Enterprise Providers
+  - title: Enterprise Data Plattform
     subsections:
-      - title: Hortonworks
-        description: Hortonworks bietet mit Hortonworks Data Platform und Hortonworks Data Flow zwei 100% Open Source Technologie Stacks für Ihre moderne Informationsplattform. Scigility gehört seit 2013 zu den Hortonworks System Integratoren und waren damit die ersten Hortonworkspartner in der Schweiz.
-        logos:
-          - img: /assets/img/partners/hortonworks.jpg
-            url: http://www.hortonworks.com
       - title: Cloudera
-        description: Cloudera bietet eine moderne Plattform für Datenmanagement und Analytik an, welche schnell, einfach zu bedienen und sicher ist.
+        description: "Die Cloudera Data Platform kombiniert die besten Open Source-Technologien von Hortonworks und Cloudera mit Data Plattform- und Data-Flow-Stacks für eine moderne Informationsplattform. Cloudera bietet alle wichtigen Funktionen einer Enterprise Data Cloud: Hybrid- und Multi-Public-Cloud, Multifunktionsanalyse, gemeinsame Sicherheits- und Governance-Dienste (SDX) sowie Open-Source-Plattformen mit frei wählbaren Rechen- und Speicheroptionen."
         logos:
           - img: /assets/img/partners/cloudera.png
             url: http://www.cloudera.com
-      - title: MapR
-        description: MapR mit ihrer Converged Datenplattform befähigt Unternehmen neuen Vorteile und Wertschöpfung aus ihren Daten zu generieren.
+      - title: Databricks
+        description: Die Databricks Unified Analytics Platform, von den ursprünglichen Entwicklern von Apache Spark™, vereint Data Science und -development über den gesamten Lebenszyklus des maschinellen Lernens von der Datenaufbereitung bis zum Experimentieren und Bereitstellen von ML-Anwendungen.
         logos:
-          - img: /assets/img/partners/mapr.png
-            url: http://www.mapr.com
+          - img: /assets/img/partners/databricks.png
+            url: http://www.databricks.com
 
-  - title: NoSQL und Real Time Technologie Providers
+  - title: Enterprise Datenintegration
     subsections:
-      - title: Datastax
-        description: Datastax sind die treibende Kraft hinter Apache Cassandra. Mit der Datastax Enterprise Plattform erhalten Sie eine verteilte und hoch skalierbare NoSQL, Search und GraphDB Plattform an, welche über Rechenzentren hinweg verteilt werden kann.
+      - title: Attunity
+        description: Unternehmen auf der ganzen Welt setzen Attunity ein, um einen größeren Nutzen aus mehr Daten zu ziehen und dabei auch noch Zeit und Kosten einzusparen. Unsere Auswahl an Softwareprodukten beschleunigt die Datenübertragung und -verfügbarkeit, automatisiert die Datenbereitschaft für Analysen und optimiert das Datenmanagement auf clevere Weise. Mit der Unterstützung der verschiedensten Arten von Integration für die vielfältigsten IT-Plattformen nimmt Attunity eine Vorreiterrolle bei der Verfügbarkeit heterogener Daten ein.
         logos:
-          - img: /assets/img/partners/datastax.png
-            url: http://www.datastax.com
-      - title: Confluent.io
-        description: Confluent wurde von den Machern von Apache Kafka gegründet. Confluent bietet eine Echtzeitverarbeitungsplattform an, welche es Unternehmungen erlaubt die maximale Wertschöpfung aus Datenströmen zu generieren. Scigility ist seit 2016 Partner von Confluent.
+          - img: /assets/img/partners/attunity.png
+            url: http://www.attunity.com
+
+  - title: Datenaufbereitung, Analytik & Visualisierung
+    subsections:
+      - title: Trifacta
+        description: Trifactas Mission ist es, die Produktivität für Data Analysten auf einen neuen Level zu bringen. Trifacta konzentriert sich den Bottleneck im Data Lifecycles, das Daten-Wrangling intuitiver und effizienter gestalten.
+        logos:
+          - img: /assets/img/partners/trifacta.png
+            url: http://www.trifacta.com
+
+  - title: NoSQL & Real Time Technologie
+    subsections:
+      - title: Confluent
+        description: Event-Streaming-Plattform, die von den ursprünglichen Entwicklern von Apache Kafka® entwickelt wurde. "Confluent hat eine Open-Source-Plattform für Event-Streaming geschaffen und diese als Unternehmenslösung neu interpretiert. Das Streaming von Daten als Ereignisse ermöglicht völlig neue Möglichkeiten zur Lösung von Problemen mit hoher Skalierung."
         logos:
           - img: /assets/img/partners/confluent.png
             url: http://www.confluent.io
-
-  - title: Analytik und Visualisierung
-    subsections:
-      - title: Datameer
-        description: Datameer bietet eine moderne BI Plattform aufbauend auf Hadoop an. Mit Datameer können Datenpipelines einfach erstellt werden. Dabei unterstützt Datameer sowohl das Einbinden von neuen Datenquellen, wie auch das Spreadsheet-ähnliche Bearbeiten von Daten auf Hadoop.
+      - title: Neo4J
+        description: Weltweit führende Grafikdatenbank mit nativer Grafikspeicherung und -verarbeitung. Das Property Graph Modell und die Cypher-Abfragesprache erleichtern das Verständnis.
         logos:
-          - img: /assets/img/partners/datameer.jpg
-            url: http://www.datameer.com
+          - img: /assets/img/partners/neo4j.png
+            url: http://www.neo4j.com
 
   - title: Industriepartner
     subsections:
