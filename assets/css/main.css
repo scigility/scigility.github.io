@@ -11661,3 +11661,6 @@ ul.search-results {
   font-variant: small-caps;
   vertical-align: top;
 }
+.float-right {
+  float: right !important;
+}

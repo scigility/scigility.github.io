@@ -76,5 +76,19 @@ permalink: /sitemaps.xml
       </url>
     {% endunless %}
   {% endfor %}
+  {% for item in site.news %}
+    {% unless item.id contains "404" %}
+      <url>
+        <loc>{{site.base}}{{ item.url }}</loc>
+        {% assign versions=site.news | where:"ref", item.ref %}
+        {% for version in versions %}
+          {% if version.lang != item.lang %}
+            <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.base}}{{ version.url }}" />
+          {% endif %}
+        {% endfor %}
+        <changefreq>weekly</changefreq>
+      </url>
+    {% endunless %}
+  {% endfor %}
 </urlset>
 {% endif %}

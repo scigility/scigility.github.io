@@ -82,8 +82,6 @@ footer_links:
     url: http://www.springer.com/de/book/9783658115883
   - text: Swiss Big Data User Group
     url: http://www.meetup.com/de-DE/swiss-big-data/
-  - text: Our sister company Dashcom
-    url: http://www.dashcom.ch/
 
 
 #############################################################################
@@ -111,6 +109,8 @@ collections:
   projects:
     output: true
   jobs:
+    output: true
+  news:
     output: true
 
 analytics: UA-83800555-1
