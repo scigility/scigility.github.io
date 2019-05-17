@@ -28,7 +28,7 @@ layout: default
               <h3>{{ item.title }}</h3>
               <div class="teaser-boxes-item-text">
                 <span class="float-right">{{ item.date }}</span>
-                <span><a href="{% if item.scigility_news_ref %}{{ site.url }}/{{ page.lang }}/news/{{ item.scigility_news_ref }}/{% else %}{{ item.link }}{% endif %}">{{ page.event_details_link_text }}</a></span>
+                <span><a href="{% if item.scigility_news_ref %}{{ site.url }}/{{ page.lang }}/news/{{ item.scigility_news_ref }}{% else %}{{ item.link }}{% endif %}">{{ page.event_details_link_text }}</a></span>
               </div>
             </section>
           {% endfor %}
