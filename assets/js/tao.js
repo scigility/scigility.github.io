@@ -775,3 +775,8 @@
   })(document.querySelectorAll && document.querySelectorAll('.tab-navigation'));
 
 })();
+
+// Scroll to anchor: scroll less to prevent the header to block out some content on the top of the page
+function scrollToAnchor(anchorName){
+  $('html,body').unbind().animate({scrollTop: $('a[name='+anchorName+']:first').offset().top-80},'slow');
+}

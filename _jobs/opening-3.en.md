@@ -2,29 +2,40 @@
 layout: job
 ref: job-opening-3
 lang: en
-title: Big Data Software Engineer
+title: Senior Big Data Software Engineer
+pdf: Senior_Big_Data_Software_Engineer_Job_Description.pdf
 ---
 
 Scigility combines academic and practical knowhow to a unique Big Data service offering for our customers. We define, build and operate integrated Big Data platforms, build applications to create new insights to our customer’s data and support customers within the legal framework.
 
 <b>Your Tasks</b>
 
-* Build, scale and maintain solutions based on Hadoop and/or other NoSQL systems
-* Write and tune complex near-real-time and batch data pipelines with Spark or Java MapReduce
-* Explore available technologies to provide business support to our clients
+* Lead Big Data projects providing technical guidance and solutions
+* Designing and developing both bare-metal and cloud-based solutions, leveraging state-of-the-art technologies, tools and methodologies
+* Write and tune complex near-real-time and batch data pipelines with Apache Spark, Apache Flink and Kafka Streams
 * Work closely with customers and other stakeholders in an agile environment
+* Review, audit and troubleshoot existing solutions and system architectures
+* Participate in customer workshops and presentation of the proposed solutions
+* Explore available technologies to provide business support to our clients
 
 <b>Your Profile</b>
 
-* Bachelor or Master in Computer Science / Information Management or related field
-* Proficient in OOP (Java) and FP (Scala, Clojure), willing to learn new programing languages
-* Experience in Big Data technologies (Hadoop, Spark, Kafka, HBase)
-* Knowledge of real-time processing systems like Storm, Spark Streaming or others
-* Knowledge and experience in agile software development
-* Superb problem-solving skills
+* Degree in Computer science or equivalent
+* Fluency in German and English essential
+* Strong software engineering background in FP (Scala) and OOP (Java), willing to learn new programing languages
+* Professional experience building scalable, distributed applications in Scala and Java
+* Knowledge of real-time processing systems like Apache Spark Streaming, Apache Flink and Apache Kafka
+* Knowledge of data structures and algorithms for Big Data and Machine Learning
+* Proficient in agile software development incl. CI/CD and workflow automation
+* Strong problem solving skills & ability to learn in a fast paced environment
 * You are a proactive team player with the ability to work independently and accurately in interdisciplinary projects
-* Knowledge of data structures and algorithms for Big Data, Machine Learning is a plus
-* Very good skills in German and English, French would be an asset
+
+<b>Nice to have</b>
+
+* Experience with the Hadoop ecosystem
+* Experience with modern Python stack (TensorFlow, PyTorch, Scikit-Learn or Pandas)
+* Practical experience with, either or both, AWS or Azure
+* Experience with Microservices, API’s, Docker and Kubernetes
 
 <b>Your Opportunities</b>
 
