@@ -2,27 +2,34 @@
 layout: job
 ref: job-opening-2
 lang: en
-title: Big Data DevOps
+title: Senior Platform Engineer
+pdf: Senior_Platform_Engineer_Job_Description.pdf
 ---
 
-Scigility combines academic and practical knowhow to a unique Big Data service offering for our customers. We define, build and operate integrated Big Data platforms, build applications to create new insights to our customer’s data and support customers within the legal framework.
+Scigility combines academic and practical know-how to a unique Big Data service offering for our customers. ​ **We define, build and operate integrated Big Data platforms**, build applications to create new insights to our customer’s data and support customers within the legal framework.
 
-<b>Your Tasks are</b>
+<b>Your Tasks</b>
 
-* Support in operating Big Data clusters based on Hadoop
-* Design and build Big Data solutions based on Hadoop, Kafka or other NoSQLsystems, either in Cloud or on-premise
-* Provide business support to our customers on new technologies
-* Integration of new and existing IT systems
+* Designing and developing both bare-metal and cloud-based solutions, leveraging state-of-the-art technologies, tools and methodologies
+* Build, operate and maintain distributed, high-available systems like e.g. Hadoop
+* Work closely with customers and other stakeholders in an agile environment
+* Review, audit and troubleshoot existing solutions and system architectures
+* Participate in customer workshops and presentation of the proposed solutions
+* Explore available technologies to provide business support to our clients
 
 <b>Your Profile</b>
 
-* Experience with Linux system administration, RedHat based distributions
-* Experience with Security related topics SSL/Kerberos/LDAP/AD-integration
-* Experience with Cloud architectures and platforms (AWS, GCP, Azure)
-* Experience with DevOps tools like Ansible/Puppet/Jenkins/…
-* Knowledge of scalable systems like Hadoop, Hive, HBase, Kafka and a higher level language like Java/Scala/Python is an asset
+* Degree in Computer science or equivalent
+* Fluency in German and English essential
+* Proficient in ​**Linux administration**​ and **Networking**​ setup and troubleshooting
+* Experienced in setting up ​ **Security​** in distributed systems (SSL, Kerberos, SSO,...)
+* Experienced in operating distributed and high-available clusters
+* Experienced in applying ​**IaC**​ and **deployment automation**
+* Practical experience with, either or both, ​**AWS or Azure**
+* Experience in **​Big Data technologies**​ (Hadoop, Kafka,...)
+* Experience with Microservices, Docker and Kubernetes
+* Strong problem solving skills & ability to learn in a fast paced environment
 * You are a proactive team player with the ability to work independently and accurately in interdisciplinary projects
-* Fluent in German and English, French would be an asset
 
 <b>Your Opportunities</b>
 
@@ -30,5 +37,4 @@ Design your career with Scigility in a culture that promotes innovation and dive
 
 <b>Your Application</b>
 
-We are looking forward receiving your application online on jobs@scigility.com. For further
-information please contact Natalya Sidler (jobs@scigility.com / +41 44 214 62 89).
+We are looking forward receiving your application online on jobs@scigility.com. For further information please contact Natalya Sidler (jobs@scigility.com / +41 44 214 62 89).
