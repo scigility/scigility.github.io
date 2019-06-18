@@ -1,7 +1,7 @@
 ---
 layout: job
-ref: job-opening-1
-lang: en
+ref: hr-spezialist
+lang: de
 title: HR-Spezialist/in 40%-50% (M/F)
 ---
 
