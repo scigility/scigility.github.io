@@ -1,9 +1,9 @@
 ---
 layout: job
-ref: job-opening-2
-lang: de
+ref: platform-engineer
+lang: en
 title: Senior Platform Engineer
-pdf: Senior_Platform_Engineer_Job_Description.pdf
+pdf: Senior_Big_Data_Platform_Engineer_Job_Description.pdf
 ---
 
 Scigility combines academic and practical know-how to a unique Big Data service offering for our customers. ​ **We define, build and operate integrated Big Data platforms**, build applications to create new insights to our customer’s data and support customers within the legal framework.

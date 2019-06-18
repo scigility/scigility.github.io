@@ -1,12 +1,12 @@
 ---
 layout: job
-ref: job-opening-3
+ref: software-engineer
 lang: en
 title: Senior Big Data Software Engineer
 pdf: Senior_Big_Data_Software_Engineer_Job_Description.pdf
 ---
 
-Scigility combines academic and practical knowhow to a unique Big Data service offering for our customers. We define, build and operate integrated Big Data platforms, build applications to create new insights to our customer’s data and support customers within the legal framework.
+Scigility combines academic and practical know-how to a unique Big Data service offering for our customers. We define, build and operate integrated Big Data platforms, build applications to create new insights to our customer’s data and support customers within the legal framework.
 
 <b>Your Tasks</b>
 
