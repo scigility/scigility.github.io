@@ -1,5 +1,11 @@
+- title: "22nd SBDUG Meetup: Talks, Networking & Apéro"
+  date: 08.07.2019
+  scigility_news_ref: sbdug-meetup-20190708
+  link:
+  order: 1
+
 - title: "Digitalization in the era of GDPR - powered by Scigility, Cloudera, Neo4j and sigma legal"
   date: 14.09.2018
   scigility_news_ref: gdpr-event-20180914
   link:
-  order: 1
+  order: 2
