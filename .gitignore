@@ -5,3 +5,6 @@ _site
 # Exclude IntelliJ files
 .idea
 *.iml
+
+# exclude .DS_Store files automatically created on macOS
+.DS_Store
