@@ -35,7 +35,7 @@ After this event you will be aware of general methods and techniques how to prec
 
 
 ### Date
-14. September 2018
+September 14 2018
 
 ### Place
 Scigility AG, Europaallee 41, 8021 Zürich
