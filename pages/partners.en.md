@@ -67,8 +67,6 @@ sections:
         logos:
           - img: /assets/img/partners/sap.jpg
             url: http://www.sap.ch
-          - img: /assets/img/partners/sec101.jpg
-            url: http://www.sec101.ch
       - title:  Edorex
         description: Edorex is a Swiss solution integrator working together with Scigility to provide innovative and data driven solutions. 
         logos:
