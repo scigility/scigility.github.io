@@ -63,7 +63,7 @@ sections:
           - img: /assets/img/partners/hpe.png
             url: http://www.hpe.com/de/de/home.html
       - title:  SAP
-        description: Als einer der Marktführer bei Unternehmenssoftware hilft SAP Unternehmen und Organisationen dabei, die schädlichen Auswirkungen von Komplexität zu minimieren, neue Möglichkeiten für Innovation und Wachstum zu schaffen und im Wettbewerb erfolgreich zu sein. In Zusammenarbeit mit dem Partner SEC1.01 hat sich Scigility darauf spezialisiert, SAP HANA und Hadoop Umgebungen zu integrieren.
+        description: Als einer der Marktführer bei Unternehmenssoftware hilft SAP Unternehmen und Organisationen dabei, die schädlichen Auswirkungen von Komplexität zu minimieren, neue Möglichkeiten für Innovation und Wachstum zu schaffen und im Wettbewerb erfolgreich zu sein. Scigility hat sich darauf spezialisiert, SAP HANA und Hadoop Umgebungen zu integrieren.
         logos:
           - img: /assets/img/partners/sap.jpg
             url: http://www.sap.ch
