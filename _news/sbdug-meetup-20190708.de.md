@@ -27,7 +27,7 @@ Achtung: Sämtliche Talks werden auf Englisch präsentiert.
 
 
 ### Date
-8. Juli 2019
+8\. Juli 2019
 
 ### Place
 Scigility Switzerland AG, Europaallee 41, 8021 Zürich
