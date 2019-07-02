@@ -66,9 +66,7 @@ sections:
         description: As one of the market leaders for enterprise software, SAP supports companies and organisations with minimizing the negative impact of system complexity, as well as creating new possibilities of innovation and growth to remain competitive. Scigility has specialized in the integration of SAP HANA and Hadoop environments.
         logos:
           - img: /assets/img/partners/sap.jpg
-            url: http://www.sap.ch
-          - img: /assets/img/partners/sec101.jpg
-            url: http://www.sec101.ch
+            url: http://www.sap.c
       - title:  Edorex
         description: Edorex is a Swiss solution integrator working together with Scigility to provide innovative and data driven solutions. 
         logos:
