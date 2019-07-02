@@ -7,7 +7,7 @@ title: 22nd Swiss Big Data User Group Meetup
 ---
 
 ## 22nd Swiss Big Data User Group Meetup
-### Talks about Reinforcement Learning, Networking and Apéro
+### Talks about Reinforcement Learning & Revenue Forecasting, Networking and Apéro
 
 Scigility is proud to host the 22nd meetup of the Swiss Big Data User Group. Come join us for some interesting talks about reinforcement learning, network with other big data enthusiasts or just enjoy the apéro!
 
@@ -17,9 +17,9 @@ All details can be found on the meetup page, follow the link attached below.
 
 17:30 - 18:30 - Arrive at the office space, network with other people and enjoy some apéro
 
-18:30 - 19:30 - Reinforcement Learning: a gentle introduction and industrial application (Dr. Christian Hidber)
+18:30 - 19:30 - Reinforcement Learning: a gentle introduction and industrial application (Christian Hidber)
 
-19:30 - 20:30 - Second speaker and talk is not yet confirmed, details will follow as soon as they are fixed 
+19:30 - 20:15 - Revenue Forecasting and Store Location Planning at Migros (Bojan Skerlak)
 
 
 ### Date
