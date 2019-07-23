@@ -54,7 +54,7 @@ t:
 ## put here the "ref:" of each page, otherwise the multilang won't work
 company_menu:
   - contact
-#  - team
+  - team
   - jobs
   - media
 
@@ -73,7 +73,7 @@ github_username: scigility
 ## "Quick links" section
 ## put here the "ref:" of each page, otherwise the multilang won't work
 quicklinks:
-#  - team
+  - team
   - media
 
 ## "Links" section
