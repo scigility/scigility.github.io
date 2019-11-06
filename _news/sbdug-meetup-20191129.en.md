@@ -6,7 +6,7 @@ lang: en
 title: 23rd Swiss Big Data User Group Meetup
 ---
 
-## 23nd Swiss Big Data User Group Meetup
+## 23rd Swiss Big Data User Group Meetup
 ### Talk about Knowledge Graphs, Networking and Apéro
 
 Scigility is proud to host another edition of the Swiss Big Data User Group meetup! There will be an interesting talk about knowledge graphs and, as usual, enough time to exchange and network with likeminded people over apéro.
