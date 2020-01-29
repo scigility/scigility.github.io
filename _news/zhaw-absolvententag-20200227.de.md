@@ -16,5 +16,5 @@ Scigility ist am diesjährigen ZHAW Absolvententag vertreten - wir freuen uns, d
 ### Ort
 Eulachhallen Winterthur
 
-### Weitere Informnationen
+### Weitere Informationen
 Sämtliche Informationen zum Event sind auf der Webseite der <a href='https://www.absolvententag.ch/'>ZHAW</a> aufgeführt.
