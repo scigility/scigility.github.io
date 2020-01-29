@@ -1,17 +1,23 @@
+- title: "ZHAW Absolvententag"
+  date: 27.02.2020
+  scigility_news_ref: zhaw-absolvententag-20200227
+  link:
+  order: 1
+
 - title: "23rd SBDUG Meetup: Talk about Knowledge Graphs, Networking & Apéro"
   date: 29.11.2019
   scigility_news_ref: sbdug-meetup-20191129
   link:
-  order: 1
+  order: 2
   
 - title: "22nd SBDUG Meetup: Talks, Networking & Apéro"
   date: 08.07.2019
   scigility_news_ref: sbdug-meetup-20190708
   link:
-  order: 2
+  order: 3
 
 - title: "Digitalization in the era of GDPR - powered by Scigility, Cloudera, Neo4j and sigma legal"
   date: 14.09.2018
   scigility_news_ref: gdpr-event-20180914
   link:
-  order: 3
+  order: 4
