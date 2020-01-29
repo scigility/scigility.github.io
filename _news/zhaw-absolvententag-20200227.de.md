@@ -14,8 +14,7 @@ Scigility ist am diesjährigen ZHAW Absolvententag vertreten - wir freuen uns, d
 27\. Februar 2020 9:30 - 15:30
 
 ### Ort
-Eulachhallen Winterthur
-
+Eulachhallen Winterthur <br>
 Scigility Messestand: Nr. 60
 
 ### Weitere Informationen

@@ -14,8 +14,7 @@ Interested in working at Scigility? We are at the ZHAW graduate fair (Absolvente
 February 27 2020, 9.30am - 5.30pm
 
 ### Place
-Eulachhallen Winterthur
-
+Eulachhallen Winterthur <br>
 Scigility Booth: No. 60
 
 ### Further Information
