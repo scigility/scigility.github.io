@@ -1,12 +1,12 @@
 ---
 layout: media
-title: Medien
-permalink: /de/medien/
+title: Medien & Events
+permalink: /de/medien-events/
 ref: media
 lang: de
-in_the_news_title: Medien
-events_title: Veranstaltungen
-event_details_link_text: Weitere informationen
+media_title: Medien
+events_title: Events
+event_details_link_text: Details ...
 banner:
-  title: Medien
+  title: Medien & Events
 ---
