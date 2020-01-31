@@ -1,12 +1,12 @@
 ---
 layout: media
-title: In the News
-permalink: /en/in-the-news/
+title: Media & Events
+permalink: /en/media-events/
 ref: media
 lang: en
-in_the_news_title: In the News
+media_title: Media
 events_title: Events
-event_details_link_text: More info
+event_details_link_text: Details ...
 banner:
-  title: In the News
+  title: Media & Events
 ---

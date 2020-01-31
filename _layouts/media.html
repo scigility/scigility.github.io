@@ -6,10 +6,10 @@ layout: default
   <div class="centered-wrapper-inner">
     <div class="rs-columns">
       <div class="rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
-        <h1>{{ page.in_the_news_title }}</h1>
+        <h1>{{ page.media_title }}</h1>
         <section class="teaser-boxes -boxed">
-          {% assign in_the_news = site.data.in_the_news | sort: 'order' %}
-          {% for item in in_the_news %}
+          {% assign media_items = site.data.media_items | sort: 'order' %}
+          {% for item in media_items %}
           <section class="teaser-boxes-item rs-column -large-col-1-1 -large-first -large-last -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last{% if forloop.first %} -large-first-row -medium-first-row -small-first-row{% endif %}">
             <h3>{{ item.title }}</h3>
             <div class="teaser-boxes-item-text">
