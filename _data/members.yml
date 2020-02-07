@@ -1,53 +1,98 @@
 - name: Dr. Daniel Fasel
-  picture: /assets/members/dani.jpg
-  position: CEO, Member of the board of directors
-  email: "&#109;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#100;&#x66;&#64;&#x73;&#99;&#x69;&#x67;&#x69;&#108;&#x69;&#x74;&#121;&#46;&#99;&#111;&#x6d;"
+  picture: /assets/members/daniel.jpg
+  position: CEO, Managing Partner
+  email: "mailto:df@scigility.com"
   linkedin: https://ch.linkedin.com/in/danielfasel
-
-- name: Prof. Dr. Philippe Cudré-Mauroux
-  picture: /assets/members/pcm.jpg
-  position: CTO, Member of the board of directors
-  email: "&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#58;&#112;&#99;&#x6d;&#64;&#x73;&#x63;&#105;&#x67;&#105;&#108;&#105;&#116;&#121;&#46;&#x63;&#x6f;&#109;"
-  linkedin: https://ch.linkedin.com/in/p-c-m
 
 - name: Christian Gügi
   picture: /assets/members/christian.jpg
-  position: Senior Big Data Solutions Architect, Managing Partner
-  email: "&#x6d;&#x61;&#105;&#x6c;&#x74;&#x6f;&#x3a;&#x63;&#104;&#114;&#x69;&#115;&#x74;&#x69;&#97;&#110;&#x2e;&#103;&#117;&#x65;&#103;&#105;&#x40;&#x73;&#99;&#x69;&#103;&#x69;&#108;&#x69;&#116;&#121;&#46;&#x63;&#x6f;&#109;"
+  position: Lead Analytics Solutions, Managing Partner
+  email: "mailto:christian.guegi@scigility.com"
   linkedin: https://ch.linkedin.com/in/cguegi
 
+- name: Christof Studer
+  picture: /assets/members/christof.jpg
+  position: Head of Business Development & Sales
+  email: christof.studer@scigility.com
+  linkedin: https://www.linkedin.com/in/christof-studer-33755224/
+
 - name: Gerd König
-  picture: /assets/members/1.jpg
-  position: Big Data Evangelist, Managing Partner
-  email: "&#109;&#97;&#105;&#x6c;&#116;&#111;&#x3a;&#103;&#101;&#114;&#x64;&#x2e;&#107;&#111;&#x65;&#110;&#x69;&#103;&#64;&#x73;&#99;&#105;&#x67;&#x69;&#108;&#x69;&#116;&#121;&#x2e;&#99;&#111;&#109;"
+  picture: /assets/members/gerd.jpg 
+  position: CTO, Lead Platform Engineering & DevOps
+  email: "mailto:gerd.koenig@scigility.com"
   linkedin: https://ch.linkedin.com/in/gerdkoenig
 
-- name: Olivier Heuberger-Götsch
-  picture: /assets/members/Olivier_SC2.jpg
-  position: Legal Counsel, Managing Partner
-  email: "&#x6d;&#97;&#x69;&#108;&#116;&#111;&#x3a;&#x68;&#101;&#x75;&#x62;&#101;&#114;&#103;&#101;&#x72;&#64;&#115;&#x63;&#x69;&#x67;&#x69;&#x6c;&#x69;&#x74;&#121;&#46;&#99;&#x6f;&#x6d;"
-  linkedin: https://ch.linkedin.com/in/olivier-heuberger-götsch-7b52007b/en
+- name: Natalya Sidler
+  picture: /assets/members/natalya.jpg
+  position: CFO, Head of Operations
+  email: "mailto:natalya.sidler@scigility.com"
+  linkedin: https://www.linkedin.com/in/natalya-sidler-06b04928/
 
-- name: Dr. Pavlin Mavrodiev
-  picture: /assets/members/pavlin.jpg
-  position: Data Scientist, Big Data Software Engineer
-  email: "&#x6d;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#112;&#x61;&#118;&#x6c;&#x69;&#x6e;&#46;&#109;&#97;&#x76;&#x72;&#111;&#100;&#x69;&#101;&#118;&#64;&#115;&#99;&#105;&#103;&#x69;&#x6c;&#x69;&#x74;&#x79;&#x2e;&#99;&#111;&#109;"
-  linkedin: https://ch.linkedin.com/in/pavlinmavrodiev
+- name: Prof. Dr. Philippe Cudré-Mauroux
+  picture: /assets/members/philippe.jpg
+  position: Managing Partner
+  email: "mailto:pcm@scigility.com"
+  linkedin: https://ch.linkedin.com/in/p-c-m
 
-- name: Dominic Egger
-  picture: /assets/members/1.jpg
+- name: Daniela Curty
+  picture: /assets/members/daniela.jpg
+  position: Accounting
+  email: "mailto:daniela.curty@scigility.com"
+
+- name: Federica Suardi
+  picture: /assets/members/federica.jpg
   position: Big Data Software Engineer
-  email: "&#109;&#x61;&#105;&#108;&#116;&#x6f;&#x3a;&#100;&#x6f;&#109;&#x69;&#110;&#x69;&#x63;&#46;&#101;&#x67;&#103;&#101;&#114;&#64;&#115;&#99;&#x69;&#x67;&#105;&#108;&#x69;&#116;&#x79;&#x2e;&#99;&#111;&#x6d;"
-  linkedin: https://ch.linkedin.com/in/dominic-egger-9ba181112
+  email: "mailto:federica.suardi@scigility.com"
+  linkedin: https://www.linkedin.com/in/federica-suardi-29aa0b50/
 
-- name: Marco Zucconelli
-  picture: /assets/members/1.jpg
-  position: Big Data System Engineer
-  email: "&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#58;&#109;&#97;&#114;&#x63;&#x6f;&#46;&#x7a;&#117;&#x63;&#x63;&#111;&#110;&#x65;&#108;&#108;&#x69;&#x40;&#x73;&#99;&#x69;&#103;&#105;&#x6c;&#105;&#116;&#x79;&#x2e;&#99;&#111;&#x6d;"
-  linkedin: https://ch.linkedin.com/in/marco-zucconelli-5ab8448b
-  
-- name: Stefan Nüesch
-  picture: /assets/members/1.jpg
+- name: Gergő Pásztor
+  picture: /assets/members/gergo.jpg
   position: Big Data Software Engineer
-  email: "&#109;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x73;&#x74;&#x65;&#102;&#97;&#x6e;&#46;&#x6e;&#117;&#x65;&#x65;&#x73;&#99;&#x68;&#x40;&#115;&#x63;&#x69;&#x67;&#105;&#x6c;&#x69;&#x74;&#121;&#x2e;&#x63;&#111;&#x6d;"
-  linkedin: https://ch.linkedin.com/in/stefan-nüesch-6b703512b
+  email: "mailto:gergo.pasztor@scigility.com"
+  linkedin: https://www.linkedin.com/in/gergopasztor/
+
+- name: Kirill Peskov
+  picture: /assets/members/kirill.jpg
+  position: Big Data DevOps Engineer
+  email: "mailto:kirill.peskov@scigility.com"
+  linkedin: https://www.linkedin.com/in/kirill-peskov-868b522/
+
+- name: Laurent Hoss 
+  picture: /assets/members/laurent.jpg
+  position: Big Data DevOps Engineer
+  email: "mailto:laurent.hoss@scigility.com"
+  linkedin: https://www.linkedin.com/in/laurent-hoss-272a16175/
+
+- name: Matthias Langer
+  picture: /assets/members/matthiasl.jpg
+  position: Big Data Software Engineer
+  email: "mailto:matthias.langer@scigility.com"
+  linkedin: https://www.linkedin.com/in/matthias-langer-67440365/
+
+- name: Matthias Pfenninger
+  picture: /assets/members/matthiasp.jpg
+  position: Big Data Software Engineer
+  email: "mailto:matthias.pfenninger@scigility.com"
+  linkedin: https://www.linkedin.com/in/matthiaspfenninger/
+
+- name: Mikolaj Kesy
+  picture: /assets/members/mikolaj.jpg
+  position: Big Data Software Engineer
+  email: "mailto:mikolaj.kesy@scigility.com"
+  linkedin: https://www.linkedin.com/in/mikolaj-kesy/
+
+- name: Silvan Hostettler
+  picture: /assets/members/silvan.jpg
+  position: Big Data DevOps Engineer
+  email: silvan.hostettler@scigility.com
+  linkedin: https://www.linkedin.com/in/silvan-hostettler-56010046/
+
+- name: Yury Chebiryak
+  picture: /assets/members/yury.jpg
+  position: Big Data Software Engineer
+  email: yury.chebiryak@scigility.com
+  linkedin: https://www.linkedin.com/in/yurychebiryak/
+
+- name: YOU?
+  picture: /assets/members/1.jpg
+  position: Looking for a new <a href="../jobs/">challenge?</a> 
