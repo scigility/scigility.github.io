@@ -25,6 +25,15 @@ layout: default
           </ul>
         </div>
       {% endfor %}
+      <div class="{% if mod == 3 %}-large-first -medium-first small-first{% endif %} {% if mod == 2 %}-large-last -medium-last small-last{% endif %} team-boxes-item rs-column -large-col-4-1 -medium-col-4-1 -small-col-1-1">
+        <div class="image-wrapper">
+          <img src="/assets/members/1.jpg" width="400" height="600" alt="you?">
+        </div>
+        <h3>YOU?</h3>
+        <h4>{{ site.t[page.lang].position }}</h4>
+        {% assign jobpage_ref=site.pages | where:'ref', 'jobs' | where:'lang', page.lang%}
+        <p>{% if page.lang == "en" %}Looking for a new <a href="{{ jobpage_ref[0].url }}">challenge?</a>{% else %}Suchst du eine neue <a href="{{ jobpage_ref[0].url }}">Herausforderung?</a>{% endif %}</p>
+      </div>
     </section>
   </div>
 </div>
