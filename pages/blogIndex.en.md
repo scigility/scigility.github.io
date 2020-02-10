@@ -1,6 +1,9 @@
 ---
 layout: posts
-permalink: /blog/index.html
+title: Tech Blog
+permalink: /en/blog
 lang: en
 ref: posts
+banner:
+  title: Technology Blog
 ---
