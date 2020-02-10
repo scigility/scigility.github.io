@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Tech Blog
+title: Technology Blog
 permalink: /de/blog
 lang: de
 ref: posts

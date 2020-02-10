@@ -47,11 +47,8 @@ company_menu:
   - media
 
 # Social accounts
-
 linkedin_url: https://www.linkedin.com/company/scigility
-# xing_url:
-# twitter_username:
-github_username: scigility
+github_url: https://github.com/scigility
 
 # Footer
 

@@ -2,7 +2,7 @@
 layout: post
 title: Productionalizing Azure Databricks with Apache Airflow 
 date: 2020-02-11 09:30:00 +0200
-categories: azure databricks airflow tech
+categories: 
 ref: post
 lang: en
 ---

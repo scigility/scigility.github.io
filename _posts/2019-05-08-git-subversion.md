@@ -2,7 +2,7 @@
 layout: post
 title: "Git vs. Subversion: Experiments for a Proper Comparison"
 date: 2019-05-08 13:00:00 +0200
-categories: git subversion
+categories: 
 ref: post
 lang: en
 ---
