@@ -4409,7 +4409,7 @@ code {
   font-family: "Lucida Console", monospace;
   font-size: 0.875em;
   line-height: 1.35786;
-  background-color: #3f3f3f;
+  background-color: #eee;
   border-radius: 0px;
 }
 
@@ -4422,13 +4422,13 @@ pre {
   font-family: "Lucida Console", monospace;
   font-size: 0.875em;
   line-height: 1.715;
-  background-color: #3f3f3f;
+  background-color: #eee;
 }
 pre code {
   font-size: 1em;
   padding: 0;
   line-height: inherit;
-  background-color: transparent;
+  background-color: #eee;
 }
 
 /* ===========================================
@@ -11663,4 +11663,10 @@ ul.search-results {
 }
 .float-right {
   float: right !important;
+}
+
+div.blog-preview {
+  border-style:solid none none none;
+  border-width:1px;
+  border-color: #eee;
 }

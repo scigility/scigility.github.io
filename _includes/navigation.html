@@ -44,6 +44,10 @@
       {% endfor %}
     </ul>
   </li>
+  <li class="submenu">
+    {% assign item=site.pages | where:"ref", "posts" | where:"lang", "en" %}
+    <a href="{{ item[0].url }}" title="Blog" class="{% if site.company_menu contains page.ref %}trail {% endif %}submenu" aria-haspopup="true">Blog</a>
+  </li>
   {% if site.enablelanguages %}
   <li class="bordernav submenu">
     <a title="Lang" class="bordernav last">{{ page.lang | upcase }}</a>

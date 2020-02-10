@@ -2,12 +2,11 @@
 title:
   de: Scigility Switzerland AG
   en: Scigility Switzerland AG
-#  fr: Scigility SA
-# HTML <head> description, good content means good SEO
+
+# HTML <head> description
 description:
   de: Scigility ist der führende Big Data Spezialist in der Schweiz. Wir bieten Consulting, Data Science, Engineering, Training & Support und Legal Counsel an.
   en: Scigility is Switzerland's leading big data specialist solution provider. We offer consulting, data science, engineering, training & support and legal counsel.
-#  fr: Blah blah
 
 defaultlanguage: "de"
 enablelanguages: True
@@ -19,24 +18,13 @@ t:
     products_services: Products and Services
     company: Company
     contact: Contact
-    our_services: Our services
+    our_services: Our Services
     more_projects: More Projects
     details: Details
     #position: Position
     top_1st: go
     top_2nd: up
-#  fr:
-#   home: Accueil
-#  products_services: Produits et services
-#    company: Entreprise
-#    contact: Contact
-#    our_services: Nos services
-#    more_projects: Plus de projets
-#    other_projects: Plus de projets
-#    details: Details
-    #position: Titre
-#    top_1st: En
-#    top_2nd: Haut
+
   de:
     home: Home
     products_services: Produkte & Dienstleistungen
@@ -61,10 +49,7 @@ company_menu:
 # Social accounts
 
 linkedin_url: https://www.linkedin.com/company/scigility
-# googleplus_url:
-# facebook_url:
 # xing_url:
-# zoom_url:
 # twitter_username:
 github_username: scigility
 
@@ -75,6 +60,7 @@ github_username: scigility
 quicklinks:
   - team
   - media
+  - jobs
 
 ## "Links" section
 footer_links:
@@ -90,11 +76,11 @@ footer_links:
 index:
   de: index.de.html
   en: index.en.html
-#  fr: index.fr.html
+
 feed:
   en: /feed-en.xml
-#  fr: /feed-fr.xml
   de: /feed-de.xml
+
 baseurl: ""
 url: ""
 
@@ -109,6 +95,9 @@ collections:
   projects:
     output: true
   jobs:
+    output: true
+  posts:
+    permalink: /blog/:year/:month/:day/:title/ 
     output: true
   news:
     output: true
