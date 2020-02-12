@@ -15,7 +15,7 @@ Scigility combines academic and practical know-how to a unique Big Data service 
 * Work closely with customers and other stakeholders in an agile environment
 * Review, audit and troubleshoot existing solutions and system architectures
 * Participate in customer workshops and presentation of the proposed solutions
-* Explore available technologies to provide business support to our clients
+* **Explore available technologies** to provide business support to our clients
 
 <b>Your Profile</b>
 

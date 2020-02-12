@@ -6,7 +6,7 @@ title: Platform Engineer
 pdf: Platform_Engineer.pdf
 ---
 
-Scigility combines academic and practical know-how to a unique big data service offering for our customers. **We define, build and operate integrated information platforms**, build applications to create new insights into our customer's data and support with legal framework questions.
+Scigility combines academic and practical know-how to a unique Big Data service offering for our customers. **We define, build and operate integrated information platforms**, build applications to create new insights into our customer's data and support with legal framework questions.
 
 <b>Your Tasks</b>
 
