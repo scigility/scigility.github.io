@@ -9,6 +9,7 @@ pdf: Professional_Big_Data_Software_Engineer.pdf
 Scigility combines academic and practical knowhow to a unique Big Data service offering for our customers. **We define, build and operate integrated Big Data platforms**, build applications to create new insights to our customer’s data and support customers within the legal framework.
 
 **Your tasks**
+
 * You’reresponsibleforbigdatavaluechainsandwillprovidetechnicalguidanceandsolutions in analytics projects
 * Design and develop both bare-metal and cloud-based solutions, leverage state-of-the-art technologies, tools and methodologies
 * Writeandtunecomplexnear-real-timeandbatchdatapipelineswithSpark,FlinkandKafka Streams
@@ -18,6 +19,7 @@ Scigility combines academic and practical knowhow to a unique Big Data service o
 * Explore available technologies to provide business support to our clients
 
 **Your profile**
+
 * Degree in Computer science or equivalent
 * Strong command of German and English, willingness to travel
 * Sound knowledge of programming in Java, Scala, Python and R
@@ -29,7 +31,9 @@ Scigility combines academic and practical knowhow to a unique Big Data service o
 * You are a proactive team player with the ability to work independently and accurately in interdisciplinary projects
 
 **Your Opportunities**
+
 Design your career with Scigility in a culture that promotes innovation and diversity. We offer you to join a young and professional team in an environment that constantly opens new doors through knowledge sharing, flexibility and recognition.
 
 **Your Application**
+
 We are looking forward to receiving your application online on jobs@scigility.com. For further information please contact Natalya Sidler (jobs@scigility.com / +41 44 214 62 89).
