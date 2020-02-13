@@ -8,5 +8,4 @@ lang: en
 ---
 Databricks is especially popular to explore and build proof of concepts, but did you know that you can also build powerful pipelines based on top that are production-ready? In our most recent article, Christian Gügi dives into lessons learned and provides recommendations on how to build Azure Databricks pipelines with the help of Apache Airflow.
 
-The full article can be read on LinkedIn: 
-https://www.linkedin.com/pulse/azure-databricks-apache-airflow-perfect-match-production-g%C3%BCgi/
+The full article can be read on LinkedIn: [Azure Databricks & Apache Airflow - a perfect match for production](https://www.linkedin.com/pulse/azure-databricks-apache-airflow-perfect-match-production-g%C3%BCgi/)
