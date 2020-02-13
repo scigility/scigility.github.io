@@ -6,5 +6,5 @@ ref: jobs
 lang: de
 banner:
   title: Offene Stellen
-subtitle: Wir suchen dich!
+subtitle: # TODO
 ---
