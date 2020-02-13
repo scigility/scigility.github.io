@@ -8,7 +8,7 @@ pdf: Platform_Engineer.pdf
 
 Scigility combines academic and practical knowhow to a unique Big Data service offering for our customers. **We define, build and operate integrated Big Data platforms**, build applications to create new insights to our customer’s data and support customers within the legal framework.
 
-**Your tasks**
+**Your Tasks**
 
 * Design and develop both **bare-metal and cloud-based solutions**, leverage state-of-the-art technologies, tools and methodologies
 * Build, operate and maintain **distributed, high-available systems**, like e.g. Hadoop
@@ -17,7 +17,7 @@ Scigility combines academic and practical knowhow to a unique Big Data service o
 * Participate in **customer workshops** and presentation of the proposed solutions
 * **Explore available technologies** to provide business support to our clients
 
-**Your profile**
+**Your Profile**
 
 * Degree in Computer science or equivalent
 * You are a proactive team player with the ability to work independently and accurately in interdisciplinary projects
@@ -27,7 +27,7 @@ Scigility combines academic and practical knowhow to a unique Big Data service o
 * Proficient in **Linux administration** and **Networking** setup and troubleshooting
 * Experience in setting up **secure & high-available** distributed systems (SSL, Kerberos, SSO,...)
 
-**Your bonus skills**
+**Your Bonus Skills**
 
 * Hands-On experience with cloud environments (**AWS / Azure / GCP**)
 * Hands-On experience in **Big Data technologies** (Hadoop, Kafka,...)

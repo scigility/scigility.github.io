@@ -8,14 +8,14 @@ pdf: Data_Scientist.pdf
 
 Scigility combines academic and practical knowhow to a unique big data service offering for our customers. **We define, build and operate integrated information platforms**, build applications to create new insights to our customer’s data and support customers within the legal framework.
 
-**Your tasks**
+**Your Tasks**
 
 * Provide guidance and develop **machine learning pipelines** in customer projects: **data preparation, modelling, method selection, quality assurance and standards for putting projects into production**
 * **Evaluate the technical and economic feasibility** of machine learning solutions and operationalise successful prototypes in **collaboration with data engineering and platform team**
 * Work closely with customers and other stakeholders in an **agile environment and propose solutions and strategies to business challenges**
 * Present information and communicate findings to key stakeholder using **data visualization techniques**
 
-**Your profile**
+**Your Profile**
 
 * Degreein Data Science, Computer Science, Physics, Mathematics, Engineering or equivalent
 * Strong command of English. Good knowledge of German and/or French is beneficial
