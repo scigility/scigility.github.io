@@ -10,9 +10,9 @@ Scigility combines academic and practical knowhow to a unique Big Data service o
 
 **Your Tasks**
 
-* You’reresponsibleforbigdatavaluechainsandwillprovidetechnicalguidanceandsolutions in analytics projects
+* You're responsible for big data value chains and will provide technical guidance and solutions in analytics projects
 * Design and develop both bare-metal and cloud-based solutions, leverage state-of-the-art technologies, tools and methodologies
-* Writeandtunecomplexnear-real-timeandbatchdatapipelineswithSpark,FlinkandKafka Streams
+* Write and tune complex near-real-time and batch data pipelines with Spark, Flink and Kafka Streams
 * Work closely with customers and other stakeholders in an agile environment
 * Review, audit and troubleshoot existing solutions and system architectures
 * Participate in customer workshops and presentation of the proposed solutions
