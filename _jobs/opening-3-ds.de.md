@@ -17,7 +17,7 @@ Scigility combines academic and practical knowhow to a unique big data service o
 
 **Your Profile**
 
-* Degreein Data Science, Computer Science, Physics, Mathematics, Engineering or equivalent
+* Degree in Data Science, Computer Science, Physics, Mathematics, Engineering or equivalent
 * Strong command of English. Good knowledge of German and/or French is beneficial
 * Proficiency in Python, it’s data analytics and machine learning libraries
 * Scala, Java and/or other OOP languages are a plus
