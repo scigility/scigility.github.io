@@ -62,23 +62,23 @@ sections:
         logos:
           - img: /assets/img/partners/hpe.png
             url: http://www.hpe.com/de/de/home.html
-      - title:  SAP
+      - title: SAP
         description: Als einer der Marktführer bei Unternehmenssoftware hilft SAP Unternehmen und Organisationen dabei, die schädlichen Auswirkungen von Komplexität zu minimieren, neue Möglichkeiten für Innovation und Wachstum zu schaffen und im Wettbewerb erfolgreich zu sein. Scigility hat sich darauf spezialisiert, SAP HANA und Hadoop Umgebungen zu integrieren.
         logos:
           - img: /assets/img/partners/sap.jpg
             url: http://www.sap.ch
-      - title:  Edorex
+      - title: Edorex
         description: Edorex ist ein Schweizer Solution Integrator und arbeitet gemeinsam mit Scigility daran, innovative und datengetriebene Lösungen anzubieten.
         logos:
           - img: /assets/img/partners/edorex.png
             url: http://www.edorex.ch
-      - title:  Teradata
+      - title: Teradata
         description: Teradata bietet End-to-End-Data Warehousing Services sowie Lösungen für Big Data Analytics und hilft Unternehmen damit, datenbasiert zu agieren, den Umsatz zu steigern, die Effizienz zu erhöhen und überzeugende Kunden-Experience zu erreichen. Scigility arbeitet mit Teradata zusammen um Hadoop, Teradata Data Warehouse und Teradata AsterData bestmöglich zu integrieren.
         logos:
           - img: /assets/img/partners/teradata.jpg
             url: http://www.teradata.ch
   
-  - title: Akademie und Forschung
+  - title: Wissenschaft und Forschung
     subsections:
       - title: Exascale Infolab
         description: Wir sind überzeugt davon, dass wir unseren Kunden nur dann die besten Leistungen anbieten können, wenn wir mit guten Industrie- und Akademie-Partnern zusammenarbeiten. Darum sind wir stets bestrebt, auch einen Beitrag in Forschung und Entwicklung von Big Data Technologien zu leisten. Mit dem Exascale Info Lab arbeiten wir regelmässig zusammen, um auch in Zukunft ein kompetenter Partner mit den den neuesten Technologien und Methoden zu bleiben.

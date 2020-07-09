@@ -62,23 +62,23 @@ sections:
         logos:
           - img: /assets/img/partners/hpe.png
             url: http://www.hpe.com/de/de/home.html
-      - title:  SAP
+      - title: SAP
         description: As one of the market leaders for enterprise software, SAP supports companies and organisations with minimizing the negative impact of system complexity, as well as creating new possibilities of innovation and growth to remain competitive. Scigility has specialized in the integration of SAP HANA and Hadoop environments.
         logos:
           - img: /assets/img/partners/sap.jpg
             url: http://www.sap.ch
-      - title:  Edorex
+      - title: Edorex
         description: Edorex is a Swiss solution integrator working together with Scigility to provide innovative and data driven solutions. 
         logos:
           - img: /assets/img/partners/edorex.png
             url: http://www.edorex.ch
-      - title:  Teradata
+      - title: Teradata
         description: Teradata offers end-to-end data warehousing services as well as solutions for big data analytics, helping companies to become data driven, raising revenue and efficiency, and creating convincing client experiences. Scigility works together with Teradata in order to successfully integrate Hadoop, Teradata Data Warehouse and Teradata AsterData.
         logos:
           - img: /assets/img/partners/teradata.jpg
             url: http://www.teradata.ch
   
-  - title: Acadamy and Research
+  - title: Academia and Research
     subsections:
       - title: Exascale Infolab
         description: We are convinced that in order to offer the best services to our clients, we need to work together with both industry and academic partners – this is why we also contribute to research and the development of big data technologies. To also remain a competent partner with the newest technologies and methods in the future, we work together with the eXascale Infolab on a regular basis.
