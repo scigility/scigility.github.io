@@ -1,0 +1,44 @@
+---
+layout: job
+ref: professional-platform-engineer
+lang: de
+title: Platform Engineer with Specialization on Cloud DevOps
+pdf: Professional_Big_Data_Platform_Engineer.pdf
+---
+
+Scigility combines academic and practical knowhow to a unique data centric service offering for our customers. We define, build and operate integrated analytics platforms, build applications to create new insights to our customer's data and support customers within the legal framework.
+
+**Your Tasks**
+
+* Design and develop cloud-based & hybrid solutions, leveraging state-of-the-art technologies, tools and methodologies
+* Build, operate and maintain distributed, high-available systems for Data Analytics, either on cloud- / hybrid or on-premise platforms
+* Create workflows to facilitate automated setup, configuration, security and deployments as Infrastructure-As-Code artifacts
+* Review, audit and troubleshoot existing solutions and system architectures 
+* Participate in customer workshops and presentation of the proposed solutions 
+* Explore available technologies to provide business support to our clients
+
+**Your Profile**
+
+* Degree in Computer Science or equivalent
+* Valid Swiss working permit
+* You are a proactive team player with the ability to work independently and accurately in interdisciplinary projects
+* You are curious about new technologies and willing to learn
+* Strong problem solving skills
+* Strong command of English. Good knowledge of German and/or French is beneficial
+* Hands-on experience with cloud environments (AWS / Azure / GCP)
+* Hands-on experience in applying IaC and deployment automation
+* Proficient in Linux administration and networking setup and troubleshooting
+* Experience in setting up secure & high-available distributed systems (SSL, Kerberos, SSO, ...)
+
+**Your Bonus Skills**
+
+* Hands-on experience in Big Data technologies (Hadoop, Kafka, ...)
+* Experience with microservices, Docker and Kubernetes
+
+**Your Opportunities**
+
+Design your career with Scigility in a culture that promotes innovation and diversity. We offer you to join a young and professional team in an environment that constantly opens new doors through knowledge sharing, flexibility and recognition.
+
+**Your Application**
+
+We are happy to receive your application online via jobs@scigility.com. For further information please contact Gerd König (jobs@scigility.com).
