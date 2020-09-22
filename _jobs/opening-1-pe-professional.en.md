@@ -2,38 +2,37 @@
 layout: job
 ref: professional-platform-engineer
 lang: en
-title: Platform Engineer with Specialization on Cloud DevOps
+title: Linux Platform Engineer
 pdf: Professional_Big_Data_Platform_Engineer.pdf
 ---
 
-Scigility combines academic and practical knowhow to a unique data centric service offering for our customers. We define, build and operate integrated analytics platforms, build applications to create new insights to our customer's data and support customers within the legal framework.
+Scigility combines academic and practical knowhow to a unique Big Data service offering for our customers. We define, build and operate integrated Big Data platforms, build ap- plications to create new insights to our customer’s data and support customers within the legal framework.
 
 **Your Tasks**
 
-* Design and develop cloud-based & hybrid solutions, leveraging state-of-the-art technologies, tools and methodologies
-* Build, operate and maintain distributed, high-available systems for Data Analytics, either on cloud- / hybrid or on-premise platforms
+* Design, Build, operate and maintain distributed, high-available systems for Data Analytics, either on cloud- / hybrid or on-premise platforms, leveraging state-of-the-art technologies, tools and methodologies
 * Create workflows to facilitate automated setup, configuration, security and deployments as Infrastructure-As-Code artifacts
-* Review, audit and troubleshoot existing solutions and system architectures 
-* Participate in customer workshops and presentation of the proposed solutions 
+* Review, audit and troubleshoot existing solutions and system architectures
+* Participate in customer workshops and presentation of the proposed solutions
 * Explore available technologies to provide business support to our clients
 
 **Your Profile**
 
-* Degree in Computer Science or equivalent
+* Degree in Computer science or equivalent
 * Valid Swiss working permit
 * You are a proactive team player with the ability to work independently and accurately in interdisciplinary projects
 * You are curious about new technologies and willing to learn
 * Strong problem solving skills
 * Strong command of English. Good knowledge of German and/or French is beneficial
-* Hands-on experience with cloud environments (AWS / Azure / GCP)
-* Hands-on experience in applying IaC and deployment automation
-* Proficient in Linux administration and networking setup and troubleshooting
+* Hands-On experience in applying IaC and deployment automation
+* Proficient in Linux administration and Networking setup and troubleshooting
 * Experience in setting up secure & high-available distributed systems (SSL, Kerberos, SSO, ...)
 
 **Your Bonus Skills**
 
-* Hands-on experience in Big Data technologies (Hadoop, Kafka, ...)
-* Experience with microservices, Docker and Kubernetes
+* Hands-On experience in Big Data technologies (Hadoop, Kafka,...)
+* Hands-On experience with cloud environments (AWS / Azure / GCP)
+* Experience with Microservices, Docker and Kubernetes
 
 **Your Opportunities**
 
@@ -41,4 +40,4 @@ Design your career with Scigility in a culture that promotes innovation and dive
 
 **Your Application**
 
-We are happy to receive your application online via jobs@scigility.com. For further information please contact Gerd König (jobs@scigility.com).
+We are looking forward to receiving your application online on jobs@scigility.com. For further information please contact Lena Laaser (lena.laaser@scigility.com).
