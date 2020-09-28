@@ -8,3 +8,7 @@ _site
 
 # exclude .DS_Store files automatically created on macOS
 .DS_Store
+
+# Exclude VSCode files
+.vscode
+.metals
