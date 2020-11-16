@@ -6,7 +6,7 @@ title: Business Development Manager
 pdf: Business_Development_Manager.pdf
 ---
 
-We are hiring to help us keep growing. If you're dedicated and ambitious, Scigility is an excellent place to grow your career.
+To expand our team in Vienna, Austria we are looking for dedicated and ambitious candidates.
 
 Scigility combines academic and practical knowhow to a unique and holistic Data centric service offering for our customers. ​We are a leading consulting and project service company ​and define, build and support state-of-the-art ​ML/AI-applications and ​data platforms ​to create new insights to our customer’s data.
 
