@@ -6,12 +6,12 @@ title: Linux Platform Engineer
 pdf: Professional_Big_Data_Platform_Engineer.pdf
 ---
 
-Scigility combines academic and practical knowhow to a unique Big Data service offering for our customers. We define, build and operate integrated Big Data platforms, build ap- plications to create new insights to our customer’s data and support customers within the legal framework.
+Scigility combines academic and practical knowhow to a unique Big Data service offering for our customers. We define, build and operate integrated Big Data platforms, build applications to create new insights to our customer’s data and support customers within the legal framework.
 
 **Your Tasks**
 
-* Design, Build, operate and maintain distributed, high-available systems for Data Analytics, either on cloud- / hybrid or on-premise platforms, leveraging state-of-the-art technologies, tools and methodologies
-* Create workflows to facilitate automated setup, configuration, security and deployments as Infrastructure-As-Code artifacts
+* Design, Build, operate and maintain distributed, high-available systems for Data Analytics, either on cloud / hybrid or on-premise platforms, leveraging state-of-the-art technologies, tools and methodologies
+* Create workflows to facilitate automated setup, configuration, security and deployments as infrastructure-as-code artifacts
 * Review, audit and troubleshoot existing solutions and system architectures
 * Participate in customer workshops and presentation of the proposed solutions
 * Explore available technologies to provide business support to our clients
@@ -24,14 +24,14 @@ Scigility combines academic and practical knowhow to a unique Big Data service o
 * You are curious about new technologies and willing to learn
 * Strong problem solving skills
 * Strong command of English. Good knowledge of German and/or French is beneficial
-* Hands-On experience in applying IaC and deployment automation
+* Hands-on experience in applying IaC and deployment automation
 * Proficient in Linux administration and Networking setup and troubleshooting
 * Experience in setting up secure & high-available distributed systems (SSL, Kerberos, SSO, ...)
 
 **Your Bonus Skills**
 
-* Hands-On experience in Big Data technologies (Hadoop, Kafka,...)
-* Hands-On experience with cloud environments (AWS / Azure / GCP)
+* Hands-on experience in Big Data technologies (Hadoop, Kafka,...)
+* Hands-on experience with cloud environments (AWS / Azure / GCP)
 * Experience with Microservices, Docker and Kubernetes
 
 **Your Opportunities**
